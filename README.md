@@ -1,10 +1,10 @@
 ## 👋 Hi there!
 
-My name is **NIJUXI** and I do open source for fun.
+My name is **DEVSU** and I do open source for fun.
 The projects you will find on this profile are just random things I've built at one point or another to make my life easier.
 Hopefully they can be useful to you as well!
 
-- To see the list of my most popular projects, [visit my website](https://nijuxi.com/projects).
+- To see the list of my most popular projects, [visit my website](https://devsu.xyz/projects).
 - To contact me, join my [WhatsApp group]([https://discord.gg/2SUWKFnHSm](https://chat.whatsapp.com/DcjqjYluLb94RGXWfw3jkH)) or tag me on [Twitter-X](https://x.com/nijuxiii).
 
 ### Socials
