@@ -5,13 +5,13 @@ The projects you will find on this profile are just random things I've built at 
 Hopefully they can be useful to you as well!
 
 - To see the list of my most popular projects, [visit my website](https://devsu.xyz/projects).
-- To contact me, join my [WhatsApp group]([https://discord.gg/2SUWKFnHSm](https://chat.whatsapp.com/DcjqjYluLb94RGXWfw3jkH)) or tag me on [Twitter-X](https://x.com/nijuxiii).
+- To contact me, join my [WhatsApp group]([https://discord.gg/2SUWKFnHSm](https://chat.whatsapp.com/DcjqjYluLb94RGXWfw3jkH)) or tag me on [Twitter-X](https://x.com/devsuu).
 
 ### Socials
 
-[![Blog](https://img.shields.io/badge/Blog-ff0000?style=for-the-badge&logo=rss&logoColor=white)](https://nijuxi.com/blog)
+[![Blog](https://img.shields.io/badge/Blog-ff0000?style=for-the-badge&logo=rss&logoColor=white)](https://devsu.xyz/blog)
 [![WhatsApp](https://img.shields.io/badge/Chat-004700?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50768888888)
-[![Twitter](https://img.shields.io/badge/Nijuxiii-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nijuxiii)
+[![Twitter](https://img.shields.io/badge/Nijuxiii-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/devsuu)
 [![Twitter](https://img.shields.io/badge/@07.5.01-ff993f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/07.5.01)
 
 ### Stats
