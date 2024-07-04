@@ -10,7 +10,7 @@ Hopefully they can be useful to you as well!
 ### Socials
 
 [![Telegram](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=rss&logoColor=white)](https://t.me/IniVanGogh)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-004700?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50768888888)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-009700?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50768888888)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IniVanGogh)
 [![Twitter](https://img.shields.io/badge/Instagram-ff993f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/07.5.01)
 
