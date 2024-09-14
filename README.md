@@ -1,4 +1,4 @@
-## 👋 Hi there!
+## 🎋 Hi there!
 
 My name is **Tew** and I do open source for fun.
 The projects you will find on this profile are just random things I've built at one point or another to make my life easier.
