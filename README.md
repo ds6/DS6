@@ -7,4 +7,4 @@ Hopefully they can be useful to you as well!
 - To see the list of my most popular projects, [visit my website](https://tewz.me/).
 - To contact me tag me on [Twitter-X](https://x.com/TewZoldyck).
 
-<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=DS6&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/DS6) -->
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=DS6&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/DS6)
