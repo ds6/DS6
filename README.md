@@ -10,6 +10,6 @@ Hopefully they can be useful to you as well!
 - [Instagram](https://instagram.com/07.5.01)
 - [Telegram](https://t.me/tylarz)
 - [WhatsApp](https://wa.me/50768888888)
-- [Twitter-X](https://t.me/Tylarzzzzz)
+- [Twitter-X](https://x.com/Tylarzzzzz)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=DS6&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/DS6)
