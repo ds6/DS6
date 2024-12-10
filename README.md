@@ -6,7 +6,7 @@ Hopefully they can be useful to you as well!
 
 - To see the list of my most popular projects, [visit my website](https://tylarz.net/).
 
-# My social networks;
+### My social networks;
 - [Instagram](https://instagram.com/07.5.01)
 - [Telegram](https://t.me/tylarz)
 - [WhatsApp](https://wa.me/50768888888)
