@@ -16,7 +16,6 @@ Hopefully they can be useful to you as well!
 ___
 
 <p align="center">
-<a target="_blank" href="https://github.com/AnteiCodes/"><img alt="Antei Codes" src="https://img.shields.io/badge/Antei Codes%20-%23121011.svg?&style=for-the-badge&logo=linux&logoColor=red"></a><br>
 <a target="_blank" href="https://github.com/xcoders-teams/"><img alt="XCODERS TEAMS" src="https://img.shields.io/badge/XCODERS TEAMS%20-%23121011.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 </p>
 
