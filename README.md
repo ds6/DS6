@@ -26,4 +26,4 @@ ___
 - [Telegram](https://t.me/nijuxi)
 - [WhatsApp](https://wa.me/50768888888)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ds6&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/ds6)
+<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ds6&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/ds6) -->
