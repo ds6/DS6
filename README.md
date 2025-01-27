@@ -19,6 +19,9 @@ ___
 <a target="_blank" href="https://github.com/xcoders-teams/"><img alt="XCODERS TEAMS" src="https://img.shields.io/badge/XCODERS TEAMS%20-%23121011.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 </p>
 
+<p align="center">
+<img height="100" src="https://profile-counter.deno.dev/ds6/count.svg" />
+</p><br>
 
 ___
 ### 💀 My social networks:
