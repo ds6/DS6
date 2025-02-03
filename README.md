@@ -24,10 +24,10 @@ ___
 </p><br>
 
 ___
-### 💀 My social networks:
+<!-- ### 💀 My social networks:
 - [Instagram](https://instagram.com/07.5.01)
 - [Telegram](https://t.me/tewzwei)
 - [WhatsApp](https://wa.me/50768888888)
-- [X](https://x.com/tewzwei)
-
+- [X](https://x.com/tewzwei) 
+ -->
 <!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ds6&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/ds6) -->
