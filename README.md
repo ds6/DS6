@@ -1,9 +1,3 @@
-# 🌵 Hi there!
-
-My name is **TewZwei** and I do open source for fun.
-The projects you will find on this profile are just random things I've built at one point or another to make my life easier.
-Hopefully they can be useful to you as well!
-
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
