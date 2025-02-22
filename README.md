@@ -1,3 +1,11 @@
+### 💀 My social networks:
+- [Instagram](https://instagram.com/07.5.01)
+- [Telegram](https://t.me/tylarz)
+- [WhatsApp](https://wa.me/94779982729)
+- [X](https://x.com/Tylarzzzzz)
+
+___
+  
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
@@ -7,8 +15,6 @@
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
 </p>
 
-___
-
 <p align="center">
 <a target="_blank" href="https://github.com/xcoders-teams/"><img alt="XCODERS TEAMS" src="https://img.shields.io/badge/XCODERS TEAMS%20-%23121011.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 </p>
@@ -17,11 +23,4 @@ ___
 <img height="100" src="https://profile-counter.deno.dev/ds6/count.svg" />
 </p><br>
 
-___
-<!-- ### 💀 My social networks:
-- [Instagram](https://instagram.com/07.5.01)
-- [Telegram](https://t.me/tewzwei)
-- [WhatsApp](https://wa.me/50768888888)
-- [X](https://x.com/tewzwei) 
- -->
 <!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ds6&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/ds6) -->
