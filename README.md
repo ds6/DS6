@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kevin</h1>
+<h1 align="center">Hi 👋, I'm Soru</h1>
 
 - 🔭 I’m currently working on [stuff](https://github.com/ds6/stuff).
 
