@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tylarz</h1>
 
-- 🔭 I’m currently working on [stuff](https://github.com/ds6/stuff).
+- 🔭 I’m currently working on [stuff](https://tylarz.net/stuff).
 
 - 💬 You can chat with or ask me about **cryptography, mathematics, computer security,** or **game anticheat**.
 
