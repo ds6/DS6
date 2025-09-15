@@ -1,0 +1,55 @@
+name: Update Profile Views
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - README.template.md
+
+permissions:
+  contents: write
+
+jobs:
+  update-views:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Get views from visitor-badge SVG
+        id: getviews
+        run: |
+          set -e
+          SVG=$(curl -s "https://visitor-badge.laobi.icu/badge?page_id=ds6.ds6")
+
+          VIEWS=$(echo "$SVG" | grep -oP '(?<=textLength="[0-9]+">)[0-9]+(?=</text>)' | tail -1)
+
+          # Fallback si el parseo fallara (p.ej. servicio caído)
+          if [ -z "$VIEWS" ]; then
+            echo "No se pudo parsear el SVG. Manteniendo valor anterior si existe."
+            if [ -f README.md ]; then
+              VIEWS=$(grep -oP 'Views:\s*\K[0-9]+' README.md || echo "0")
+            else
+              VIEWS="0"
+            fi
+          fi
+
+          echo "Views=$VIEWS" >> $GITHUB_ENV
+          echo "VIEWS=$VIEWS"
+      
+      - name: Build README.md from template
+        run: |
+          cp README.template.md README.md
+          sed -i "s/\${count}/${VIEWS}/g" README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "No changes"
+          else
+            git add README.md
+            git commit -m "update views to ${VIEWS}"
+            git push
+          fi
