@@ -2,7 +2,7 @@ name: Update Profile Views
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 8 * * *"
   workflow_dispatch:
   push:
     paths:
@@ -17,7 +17,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Get views from visitor-badge SVG
+      - name: Debug - mostrar archivos
+        run: |
+          pwd
+          ls -la
+
+      - name: Obtener contador desde el SVG
         id: getviews
         run: |
           set -e
@@ -25,7 +30,7 @@ jobs:
           VIEWS=$(echo "$SVG" | grep -oP '(?<=textLength="[0-9]+">)[0-9]+(?=</text>)' | tail -1)
 
           if [ -z "$VIEWS" ]; then
-            echo "No se pudo parsear el SVG. Manteniendo valor anterior si existe."
+            echo "Parseo falló, usando valor anterior si existe."
             if [ -f README.md ]; then
               VIEWS=$(grep -oP 'Views:\s*\K[0-9]+' README.md || echo "0")
             else
@@ -36,12 +41,21 @@ jobs:
           echo "Views=$VIEWS" >> $GITHUB_ENV
           echo "VIEWS=$VIEWS"
 
-      - name: Build README.md from template
+      - name: Asegurar README.md (crear desde plantilla si no existe)
         run: |
-          cp README.template.md README.md
+          if [ ! -f README.md ]; then
+            if [ -f README.template.md ]; then
+              cp README.template.md README.md
+            else
+              echo 'Views: ${counter}' > README.md
+            fi
+          fi
+
+      - name: Reemplazar ${counter} por el valor
+        run: |
           sed -i "s/\${counter}/${VIEWS}/g" README.md
 
-      - name: Commit changes
+      - name: Commit si hay cambios
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
