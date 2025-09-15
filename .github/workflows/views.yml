@@ -39,7 +39,7 @@ jobs:
       - name: Build README.md from template
         run: |
           cp README.template.md README.md
-          sed -i "s/\${contador}/${VIEWS}/g" README.md
+          sed -i "s/\${counter}/${VIEWS}/g" README.md
 
       - name: Commit changes
         run: |
