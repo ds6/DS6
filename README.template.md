@@ -9,6 +9,7 @@ My Profile
 -------------------------------
 Username: DS6
 Aliase: Shifu Grinberg
+Views: ${counter}
 WhoamI: Normal People.
 Languages: JavaScript & TypeScript
 FavouriteAnime: 魔王学院の不適合者 (Maō Gakuin no Futekigōsha).
