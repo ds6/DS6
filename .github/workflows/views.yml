@@ -16,15 +16,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - name: Get views from visitor-badge SVG
         id: getviews
         run: |
           set -e
           SVG=$(curl -s "https://visitor-badge.laobi.icu/badge?page_id=ds6.ds6")
-
           VIEWS=$(echo "$SVG" | grep -oP '(?<=textLength="[0-9]+">)[0-9]+(?=</text>)' | tail -1)
 
-          # Fallback si el parseo fallara (p.ej. servicio caído)
           if [ -z "$VIEWS" ]; then
             echo "No se pudo parsear el SVG. Manteniendo valor anterior si existe."
             if [ -f README.md ]; then
@@ -36,11 +35,11 @@ jobs:
 
           echo "Views=$VIEWS" >> $GITHUB_ENV
           echo "VIEWS=$VIEWS"
-      
+
       - name: Build README.md from template
         run: |
           cp README.template.md README.md
-          sed -i "s/\${count}/${VIEWS}/g" README.md
+          sed -i "s/\${contador}/${VIEWS}/g" README.md
 
       - name: Commit changes
         run: |
