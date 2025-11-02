@@ -25,7 +25,6 @@ I hope to make positive connections with people on the internet. I want to make 
 
 <p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ds6.readme">
-  <a href="https://wakatime.com/@2405a2df-1d67-4b5a-b305-6c4825c1994d"><img src="https://wakatime.com/badge/user/2405a2df-1d67-4b5a-b305-6c4825c1994d.svg" /></a>
 </p>
 
 <p align="center">
