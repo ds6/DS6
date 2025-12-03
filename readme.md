@@ -4,7 +4,7 @@
 My Profile
 -------------------------------
 Username: DS6
-Aliase: dead
+Aliase: LeriWeill
 WhoamI: Normal People.
 Languages: JavaScript & TypeScript
 FavouriteAnime: 魔王学院の不適合者 (Maō Gakuin no Futekigōsha).
