@@ -1,10 +1,11 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ds6.readme"> <sup>since 11/05/2020</sup>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ds6.readme">
 
 ```csharp
 My Profile
 -------------------------------
 Username: DS6
 Aliase: Assembly
+Since: 11/05/2020
 WhoamI: Normal People.
 Languages: JavaScript & TypeScript
 FavouriteAnime: 魔王学院の不適合者 (Maō Gakuin no Futekigōsha).
