@@ -4,4 +4,4 @@
 
 </samp>
 
-![profile](https://readme.custodiobussines.workers.dev/profile.svg)
+![profile](https://readme.custodiobussines.workers.dev/profile.svg?v=1)
