@@ -9,7 +9,7 @@ WhoamI: Normal People.
 Languages: JavaScript & TypeScript
 FavouriteAnime: 魔王学院の不適合者 (Maō Gakuin no Futekigōsha).
 Pronouns: He-Him.
-Location: Japan, Okinawa.
+Location: America, Panama.
 FavouriteSong: ためらい (Hesitations) - Shiloh Dynasty.
 Hobbies: Watching Anime, Read Manga, and find bugs in web pages.
 ```
