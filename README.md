@@ -10,7 +10,7 @@ My Profile
 Username: DS6
 Aliase: Assembly
 Since: 11/05/2020
-Views: 879
+Views: 1009
 WhoamI: Normal People.
 Languages: JavaScript & TypeScript
 FavouriteAnime: 魔王学院の不適合者 (Maō Gakuin no Futekigōsha).
