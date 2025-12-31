@@ -13,5 +13,4 @@ Pronouns: He-Him.
 Location: America, Panama.
 FavouriteSong: ためらい (Hesitations) - Shiloh Dynasty.
 Hobbies: Watching Anime, Read Manga, and find bugs in web pages.
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ds6.readme">
 ```
