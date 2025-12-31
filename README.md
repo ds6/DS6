@@ -28,5 +28,4 @@ Hobbies: Watching Anime, Read Manga, and find bugs in web pages.
 <a href="https://dead.lt"><strong>website</strong></a> 
 
 </samp>
-
-![profile](https://TU_WORKER.workers.dev/profile.svg)
+![profile](https://readme.custodiobussines.workers.dev/profile.svg)
