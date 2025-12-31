@@ -1,8 +1,6 @@
 <samp>
 
-☺️ backend // bug hunter // linux
-
-<a href="https://dead.lt"><strong>website</strong></a> 
+☺️ backend // bug hunter // <a href="https://dead.lt"><strong>website</strong></a> 
 
 </samp>
 
