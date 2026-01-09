@@ -29,8 +29,3 @@ $ cat /etc/system-info
     ├── Real-time Applications
     └── Learning System Design
 ```
----
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ds6&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
-</p>
----
