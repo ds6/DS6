@@ -4,7 +4,7 @@ $ whoami
 * 🔐 Blockchain Enthusiast
 * 🤖 BOT Explorer
 * 📍 Location: Panama
-* 🌐 Web: dead.lt                                    
+* 🌐 Web: tylarz.top
 ```
 
 ```bash
