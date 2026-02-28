@@ -1,6 +1,5 @@
-<img src = "main.gif"/>
-
 <p align="center">
+  <img src = "main.gif"/>
   <a href="http://t.me/tylarz" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
