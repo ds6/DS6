@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="http://t.me/tylarz" target="_blank" style="text-decoration: none;">
+  <a href="http://t.me/tylarz" target="_blank" style="text-decoration: none; outline: none;"">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://wa.me/94779982729?text=Hello,%20I'm%20writing%20to%20you%20from%20your%20readme%20;D" target="_blank" style="text-decoration: none;">
