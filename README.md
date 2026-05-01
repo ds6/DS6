@@ -12,5 +12,5 @@
 <h4 align="center">Visitor's Count</h4>
 
 <p align="center">
-<img src="https://count.getloli.com/@abu?name=abu&theme=3d-num&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
+<img src="https://count.getloli.com/@abu?name=abu&theme=sketch-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
 </p>
