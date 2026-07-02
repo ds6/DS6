@@ -16,15 +16,16 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=100:177f56,100:177f56&height=2&width=60%" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-0a0a0a?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-177f56?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ My sister always reminds me to return what I borrow. ❞</i>
+  <i>❝ When you stare at an abyss for too long, the abyss will also stare at you.
+When you try to reveal someone's secret, your secret will also be revealed. ❞</i>
   <br/>
-  <sub>— <b>Ayato Amagiri</b> · <i>Gakusen Toshi Asterisk</i></sub>
+  <sub>— <b>Sakurako Kujou</b> · <i>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</i></sub>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=100:177f56,100:177f56&height=2&width=60%" />
   <br/>
   <br/>
 </div>
