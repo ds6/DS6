@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=100:177f56,100:177f56&text=Kevin%20Schofield&section=header&fontAlign=50&fontSize=40&textBg=false&fontColor=FFFF&animation=twinkling&desc=Mathemagician%20|%20Codes%20|%20puzzle&fontAlignY=32&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=100:177f56,100:177f56&text=Kevin%20Schofield&section=header&fontAlign=50&fontSize=40&textBg=false&fontColor=FFFF&animation=twinkling&desc=Mathemagician%20|%20Codes%20|%20Puzzle&fontAlignY=32&descSize=16" />
 
 <!-- TYPING SVG -->
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=177f56&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!+%F0%9F%9A%80;Building+creative+%26+useful+software+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1;Open+source+enthusiast+%F0%9F%92%9C" alt="Typing SVG" />
