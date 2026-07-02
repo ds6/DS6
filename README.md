@@ -20,9 +20,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-177f56?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Old school items will not be useful when needed immediately. ❞</i>
+  <i>❝ (All) reasons are always simple. We live in a very simple world. Where when we pull the trigger, the enemy will die. ❞</i>
   <br/>
-  <sub>— <b>Minosuke</b> · <i>Ojiisan no Lamp</i></sub>
+  <sub>— <b>Riza Hawkeye</b> · <i>Fullmetal Alchemist: Brotherhood Specials</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:177f56,100:177f56&height=2&width=60%" />
   <br/>
