@@ -1,0 +1,66 @@
+name: Update Anime Quote
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch Random Anime Quote
+        run: |
+          # Fetch all quotes
+          curl -s https://ds6.github.io/quotes/anime.json -o quotes.json
+
+          # Take the random index
+          COUNT=$(jq length quotes.json)
+          INDEX=$((RANDOM % COUNT))
+
+          # Take the field of the selected quote
+          CHAR=$(jq -r ".[$INDEX].character" quotes.json)
+          ANIME=$(jq -r ".[$INDEX].anime" quotes.json)
+          QUOTE=$(jq -r ".[$INDEX].quotes" quotes.json)
+
+          # Save the beginning of README (before marker)
+          awk '/<!-- QUOTE START -->/ {exit} {print}' README.md > new_readme.md
+
+          # Insert quotes with new styles
+          cat >> new_readme.md << EOF
+          <!-- QUOTE START -->
+          <div align="center">
+            <img src="https://capsule-render.vercel.app/api?type=rect&color=100:177f56,100:177f56&height=2&width=60%" />
+            <br/><br/>
+            <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-177f56?style=flat-square&labelColor=1a1a2e" />
+            <br/><br/>
+            <i>❝ $QUOTE ❞</i>
+            <br/>
+            <sub>— <b>$CHAR</b> · <i>$ANIME</i></sub>
+            <br/><br/>
+            <img src="https://capsule-render.vercel.app/api?type=rect&color=100:177f56,100:177f56&height=2&width=60%" />
+            <br/>
+            <br/>
+          </div>
+          <!-- QUOTE END -->
+          EOF
+
+          # Add the rest of the README (after marker)
+          awk '/<!-- QUOTE END -->/ {found=1; next} found' README.md >> new_readme.md
+
+          # Replace old README
+          mv new_readme.md README.md
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'ds6'
+          git config --global user.email 'git+1@niju.eu'
+          git add README.md
+          git diff --cached --quiet || git commit -m "update: anime quote ($(TZ='America/Panama' date '+%Y-%m-%d %H:%M:%S'))"
+          git push
