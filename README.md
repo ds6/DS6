@@ -20,9 +20,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-177f56?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ In the library I have read various books. Interesting books, uninteresting books, enjoyable books, sad books, good books and books that I want to read again tomorrow. I like reading popular books, because books are there to be read. I also read and care for books that are not popular, because each book has its own charm. I like clean books. Just looking at it makes me happy. I like well-worn books, (because) it shows that the book has done its job well. All the books live in a big house called the library. A place where I feel happy. A place where various kinds of knowledge, experiences and thoughts from different people come together. ❞</i>
+  <i>❝ Old school items will not be useful when needed immediately. ❞</i>
   <br/>
-  <sub>— <b>Shiori Shiomiya</b> · <i>Kami nomi zo Shiru Sekai: Megami-hen</i></sub>
+  <sub>— <b>Minosuke</b> · <i>Ojiisan no Lamp</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:177f56,100:177f56&height=2&width=60%" />
   <br/>
