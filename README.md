@@ -20,9 +20,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-177f56?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ (All) reasons are always simple. We live in a very simple world. Where when we pull the trigger, the enemy will die. ❞</i>
+  <i>❝ Expecting high things without thinking about making them happen makes me look stupid. But, hopes will not come true if you don't say them out loud. ❞</i>
   <br/>
-  <sub>— <b>Riza Hawkeye</b> · <i>Fullmetal Alchemist: Brotherhood Specials</i></sub>
+  <sub>— <b>Kumiko Oumae</b> · <i>Hibike! Euphonium</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:177f56,100:177f56&height=2&width=60%" />
   <br/>
