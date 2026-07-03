@@ -20,9 +20,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%230a0a0a&labelColor=ffffff&color=0a0a0a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Falling in love cannot be controlled. ❞</i>
+  <i>❝ Don't delay any longer, do it now.
+A man will never make excuses. ❞</i>
   <br/>
-  <sub>— <b>Kazehana</b> · <i>Sekirei: Pure Engagement</i></sub>
+  <sub>— <b>Mao Mizusawa</b> · <i>Kimikiss Pure Rouge</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
   <br/>
