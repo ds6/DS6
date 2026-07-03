@@ -16,15 +16,14 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=100:177f56,100:177f56&height=2&width=60%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-177f56?style=flat-square&labelColor=1a1a2e" />
-  <br/><br/>
-  <i>❝ My body and soul will not move for anyone except Togame. ❞</i>
+  <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-0a0a0a?style=flat-square&labelColor=1a1a2e" />
+  <i>❝ I will give my all to the manga and Azuki Miho. I would risk my life for them. ❞</i>
   <br/>
-  <sub>— <b>Shichika Yasuri</b> · <i>Katanagatari</i></sub>
+  <sub>— <b>Moritaka Mashiro</b> · <i>Bakuman.</i></sub>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=100:177f56,100:177f56&height=2&width=60%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
   <br/>
   <br/>
 </div>
