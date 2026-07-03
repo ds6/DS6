@@ -20,9 +20,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%230a0a0a&labelColor=ffffff&color=0a0a0a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Don't think everyone sees the same world as you do! ❞</i>
+  <i>❝ Men who habitually just keep quiet are very boring. ❞</i>
   <br/>
-  <sub>— <b>Ichiya Suzaku</b> · <i>Qualidea Code</i></sub>
+  <sub>— <b>Winry Rockbell</b> · <i>Fullmetal Alchemist: Brotherhood</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
   <br/>
