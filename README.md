@@ -20,9 +20,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-177f56?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ People say that people who die go to heaven. But I don't think so. I thought if we died we would go to someone's heart. We will live in their memories and live on. Like father and mother who live in our hearts. But because of time, memories fade. So that's why people hope to leave something behind so that it won't be forgotten and never forgotten. ❞</i>
+  <i>❝ My body and soul will not move for anyone except Togame. ❞</i>
   <br/>
-  <sub>— <b>Kaito Kirishima</b> · <i>Ano Natsu de Matteru</i></sub>
+  <sub>— <b>Shichika Yasuri</b> · <i>Katanagatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:177f56,100:177f56&height=2&width=60%" />
   <br/>
