@@ -19,9 +19,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
   <br/><br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-0a0a0a?style=flat-square&labelColor=1a1a2e" />
-  <i>❝ I will give my all to the manga and Azuki Miho. I would risk my life for them. ❞</i>
+  <br/><br/>
+  <i>❝ Always looking forward to life will only make us tired. ❞</i>
   <br/>
-  <sub>— <b>Moritaka Mashiro</b> · <i>Bakuman.</i></sub>
+  <sub>— <b>Sakuta Azusagawa</b> · <i>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
   <br/>
