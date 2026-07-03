@@ -20,13 +20,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%230a0a0a&labelColor=ffffff&color=0a0a0a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Are you still a child?
-You see this world as just black and white.
-But the world is not that simple.
-Everything around us is somewhere in between.
-Not black or white, but grey. ❞</i>
+  <i>❝ Love is a tool for mastery. ❞</i>
   <br/>
-  <sub>— <b>Chihiro  Sengoku</b> · <i>Sakurasou no Pet na Kanojo</i></sub>
+  <sub>— <b>Quinella</b> · <i>Sword Art Online: Alicization</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
   <br/>
