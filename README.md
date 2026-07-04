@@ -20,9 +20,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%230a0a0a&labelColor=ffffff&color=0a0a0a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The human body is nothing more than a simple vessel. That's why, no matter how big the wound, my feelings for you will never change. ❞</i>
+  <i>❝ Just sitting around talking about our dreams won't make them come true. ❞</i>
   <br/>
-  <sub>— <b>Shiki Magata</b> · <i>Subete ga F ni Naru</i></sub>
+  <sub>— <b>Moritaka Mashiro</b> · <i>Bakuman.</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
   <br/>
