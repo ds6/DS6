@@ -20,9 +20,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%230a0a0a&labelColor=ffffff&color=0a0a0a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ No matter what happens in the future, I will continue to protect you! I promise! ❞</i>
+  <i>❝ Finish what you have done! ❞</i>
   <br/>
-  <sub>— <b>Akihito Kanbara</b> · <i>Kyoukai no Kanata Movie: I'll Be Here - Mirai-hen</i></sub>
+  <sub>— <b>Tsukinose Vignette April</b> · <i>Gabriel DropOut</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
   <br/>
