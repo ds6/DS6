@@ -20,9 +20,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%230a0a0a&labelColor=ffffff&color=0a0a0a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The (new) humans will lose when they stop fighting. As long as we keep fighting, we have not lost. ❞</i>
+  <i>❝ Even though our battlefields are different, our hearts will remain together. ❞</i>
   <br/>
-  <sub>— <b>Mike Zacharias</b> · <i>Shingeki no Kyojin Season 2</i></sub>
+  <sub>— <b>Rider</b> · <i>Fate/Grand Order: Zettai Majuu Sensen Babylonia</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
   <br/>
