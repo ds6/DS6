@@ -20,10 +20,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%230a0a0a&labelColor=ffffff&color=0a0a0a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The problem is, how can I deal with this? How (can) I restore this situation? Should I ask for help? Why do I depend on other people?
-Relationships between humans will only lead to dependency. ❞</i>
+  <i>❝ "Do for others. Sacrifice yourself for it". I grew up with such principles. ❞</i>
   <br/>
-  <sub>— <b>Hachiman Hikigaya</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</i></sub>
+  <sub>— <b>Tsukasa Jinguuji</b> · <i>Fantasy Bishoujo Juniku Ojisan to</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
   <br/>
