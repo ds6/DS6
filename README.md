@@ -20,9 +20,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%230a0a0a&labelColor=ffffff&color=0a0a0a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ True power is the power that can control the environment and the souls of those who are weak, then make them serve you without them realizing it. ❞</i>
+  <i>❝ No matter what happens in the future, I will continue to protect you! I promise! ❞</i>
   <br/>
-  <sub>— <b>Aryabahta</b> · <i>Taboo Tattoo</i></sub>
+  <sub>— <b>Akihito Kanbara</b> · <i>Kyoukai no Kanata Movie: I'll Be Here - Mirai-hen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
   <br/>
