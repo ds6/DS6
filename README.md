@@ -20,16 +20,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%230a0a0a&labelColor=ffffff&color=0a0a0a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Humans always think that they are the same as other people.
-Their reasons are so amazing, so satisfying, and so heartwarming.
-Because everyone wants to understand each other, wants to share valuable things with each other, and wants to work together with each other.
-It was an incredible dream.
-But the reality is not like that.
-Each person has their own role and weaknesses.
-Trusting other people is good.
-But before that, we must understand the differences with other people. ❞</i>
+  <i>❝ If you open your heart to him, no matter how far apart you are, you can definitely hear his voice. ❞</i>
   <br/>
-  <sub>— <b>Saber</b> · <i>Fate/Extra Last Encore</i></sub>
+  <sub>— <b>Lailah</b> · <i>Tales of Zestiria the Cross Season 2</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
   <br/>
