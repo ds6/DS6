@@ -20,9 +20,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%230a0a0a&labelColor=ffffff&color=0a0a0a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Just sitting around talking about our dreams won't make them come true. ❞</i>
+  <i>❝ I just found out. When the person precious to you disappears this world looks like a monochrome. ❞</i>
   <br/>
-  <sub>— <b>Moritaka Mashiro</b> · <i>Bakuman.</i></sub>
+  <sub>— <b>Satou Matsuzaka</b> · <i>Happy Sugar Life</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
   <br/>
