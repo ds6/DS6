@@ -20,9 +20,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%230a0a0a&labelColor=ffffff&color=0a0a0a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ It doesn't matter whether they are strong or weak, the point is whether we win or lose, and if we lose, we will no longer stand on the field. ❞</i>
+  <i>❝ War will breed hatred even if you win. And the chain of hatred will continue. War should never be fought. ❞</i>
   <br/>
-  <sub>— <b>Shouyou Hinata</b> · <i>Haikyuu!!</i></sub>
+  <sub>— <b>Alisha Diphda</b> · <i>Tales of Zestiria the Cross</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
   <br/>
