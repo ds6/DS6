@@ -20,9 +20,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%230a0a0a&labelColor=ffffff&color=0a0a0a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Humans are not perfect. Humanity is weak, ugly, envious, and hates things it doesn't have. Surprisingly, those are all bad talents that humans have. Isn't that strange? That's why I want to change all that. ❞</i>
+  <i>❝ It doesn't matter whether they are strong or weak, the point is whether we win or lose, and if we lose, we will no longer stand on the field. ❞</i>
   <br/>
-  <sub>— <b>Yukino Yukinoshita</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru</i></sub>
+  <sub>— <b>Shouyou Hinata</b> · <i>Haikyuu!!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
   <br/>
