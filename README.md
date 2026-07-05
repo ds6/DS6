@@ -20,9 +20,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%230a0a0a&labelColor=ffffff&color=0a0a0a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ There is nothing more disgusting than the affection of someone you dislike. ❞</i>
+  <i>❝ Is removing the thorns in someone's path really the best way to (help) them? Even though they are too young to travel and get hurt, but sometimes it is also important for them to know the pain and find a way to get back on their feet. ❞</i>
   <br/>
-  <sub>— <b>Hanabi Yasuraoka</b> · <i>Kuzu no Honkai</i></sub>
+  <sub>— <b>Ryou Yoake</b> · <i>ReLIFE</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
   <br/>
