@@ -20,9 +20,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%230a0a0a&labelColor=ffffff&color=0a0a0a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ You won't be able to progress if you're still afraid of getting your own hands dirty. ❞</i>
+  <i>❝ Humans are vague and imperfect, but that's why they are valuable. ❞</i>
   <br/>
-  <sub>— <b>Shirou Fujimoto</b> · <i>Ao no Exorcist: Kyoto Fujouou-hen</i></sub>
+  <sub>— <b>Sorey</b> · <i>Tales of Zestiria the Cross Season 2</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
   <br/>
