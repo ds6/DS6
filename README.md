@@ -20,9 +20,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%230a0a0a&labelColor=ffffff&color=0a0a0a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I can't stand women who privilege their own gender, and call men "bitches" because they don't conform to what they expect! ❞</i>
+  <i>❝ Whether you win or lose doesn't matter. Because working hard towards a goal is really fun.
+But make no mistake, even though I say so. I don't intend to lose. ❞</i>
   <br/>
-  <sub>— <b>Kazuma Satou</b> · <i>Kono Subarashii Sekai ni Shukufuku wo! 2</i></sub>
+  <sub>— <b>Teppei Kiyoshi</b> · <i>Kuroko no Basket 2nd Season</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
   <br/>
