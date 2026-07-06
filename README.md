@@ -20,9 +20,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%230a0a0a&labelColor=ffffff&color=0a0a0a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I don't know what you're doing, but you're trying really hard, so I wanted to make something for you. ❞</i>
+  <i>❝ Wherever you are, you will always be my precious family. ❞</i>
   <br/>
-  <sub>— <b>Ako Tamaki</b> · <i>Netoge no Yome wa Onnanoko ja Nai to Omotta?</i></sub>
+  <sub>— <b>Yuri Takanashi</b> · <i>Papa no Iukoto wo Kikinasai!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
   <br/>
