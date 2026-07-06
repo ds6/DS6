@@ -20,9 +20,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%230a0a0a&labelColor=ffffff&color=0a0a0a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ What is most important to me is the warmth of your hand, your cute smile and the future we will build together. ❞</i>
+  <i>❝ If you have time to think about your death, why don't you live your beautiful life until the end? ❞</i>
   <br/>
-  <sub>— <b>Nasa Yuzaki</b> · <i>Tonikaku Kawaii</i></sub>
+  <sub>— <b>Gintoki Sakata</b> · <i>Gintama</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
   <br/>
