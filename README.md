@@ -20,9 +20,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%230a0a0a&labelColor=ffffff&color=0a0a0a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Love is a bad desire. ❞</i>
+  <i>❝ Looking down all the time won't change anything. When frustrated look forward. Then if there is something you want to reach, stretch your hand (to reach it). If you still can't reach it, stretch your hand further. ❞</i>
   <br/>
-  <sub>— <b>Quinella</b> · <i>Sword Art Online: Alicization</i></sub>
+  <sub>— <b>Ayah Seigi</b> · <i>Taboo Tattoo</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
   <br/>
