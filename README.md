@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
 <br/>
 <!-- PROFILE VIEWS & FOLLOWERS -->
 <br/>
@@ -9,7 +9,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:805B0A&height=2&width=60%" />
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
@@ -17,7 +17,7 @@
   <br/>
   <sub>— <b>Azaka Kokutou</b> · <i>Kara no Kyoukai 6: Boukyaku Rokuon</i></sub>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=100:0a0a0a,100:0a0a0a&height=2&width=60%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
   <br/>
 </div>
