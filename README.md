@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Many of my friends died because of something they loved. ❞</i>
+  <i>❝ Absolute goodness is more troublesome than evil. ❞</i>
   <br/>
-  <sub>— <b>Tooru</b> · <i>Kobayashi-san Chi no Maid Dragon</i></sub>
+  <sub>— <b>Amatsuyu Kisaragi</b> · <i>Ore wo Suki nano wa Omae dake ka yo</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
