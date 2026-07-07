@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Absolute goodness is more troublesome than evil. ❞</i>
+  <i>❝ I want to have more time drawing manga. (Before I had the desire to become a manga artist at a young age) I never realized time was a precious thing. ❞</i>
   <br/>
-  <sub>— <b>Amatsuyu Kisaragi</b> · <i>Ore wo Suki nano wa Omae dake ka yo</i></sub>
+  <sub>— <b>Moritaka Mashiro</b> · <i>Bakuman.</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
