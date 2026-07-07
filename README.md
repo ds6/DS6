@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I don't know what you're doing, but you're trying really hard, so I wanted to make something for you. ❞</i>
+  <i>❝ Basically, a strong person is someone who tries to protect something. ❞</i>
   <br/>
-  <sub>— <b>Ako Tamaki</b> · <i>Netoge no Yome wa Onnanoko ja Nai to Omotta?</i></sub>
+  <sub>— <b>Shichika Yasuri</b> · <i>Katanagatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
