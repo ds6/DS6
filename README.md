@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Chasing unattainable dreams will only destroy yourself. ❞</i>
+  <i>❝ I think everyone tries it first before they like it. I don't think you need high enthusiasm or a strong reason to start. Sometimes something you start will slowly become important to you. To get started, all you need is curiosity. ❞</i>
   <br/>
-  <sub>— <b>Evileye</b> · <i>Overlord II</i></sub>
+  <sub>— <b>Kiyoko Shimizu</b> · <i>Haikyuu!! Second Season</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
