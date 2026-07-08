@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ There is nothing in this world more valuable than the unknown. ❞</i>
+  <i>❝ Never apologize for your hard work.
+That's the same as insulting your own determination. ❞</i>
   <br/>
-  <sub>— <b>Jibril</b> · <i>No Game No Life</i></sub>
+  <sub>— <b>Duy Might</b> · <i>Naruto Shippuden</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
