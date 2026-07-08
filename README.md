@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Keep practicing, and you will definitely be able to surpass it. ❞</i>
+  <i>❝ As long as you act unlike yourself, the chance is zero.
+The only (person) who can stop your dreams from coming true is yourself. ❞</i>
   <br/>
-  <sub>— <b>Koro-sensei</b> · <i>Ansatsu Kyoushitsu</i></sub>
+  <sub>— <b>Yuusuke Fujisaki</b> · <i>Sket Dance</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
