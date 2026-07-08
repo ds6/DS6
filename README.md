@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Everything beautiful (must) have an end. Immortality doesn't exist, although it's sad but I think it's better that way. ❞</i>
+  <i>❝ Something born from bad things is a cute thing. Seeing someone who always looks perfect is not attractive. ❞</i>
   <br/>
-  <sub>— <b>Yuki Takeya</b> · <i>Gakkou Gurashi!</i></sub>
+  <sub>— <b>Haruno Yukinoshita</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
