@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ There is no place that can compete with home! ❞</i>
+  <i>❝ It's okay to fail. Because even if you fail today, there is still tomorrow, the day after tomorrow or maybe it will take a year to succeed. Life is long, so even if you fail now, maybe someday you will succeed. ❞</i>
   <br/>
-  <sub>— <b>Tomoko Konagai</b> · <i>Nyanko Days</i></sub>
+  <sub>— <b>Tanaka</b> · <i>Tanaka-kun wa Itsumo Kedaruge</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
