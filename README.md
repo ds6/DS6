@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Love is like self-defense! Attacking is the best defense ❞</i>
+  <i>❝ You can hate me as much as you want, at least as much as I loved you before. ❞</i>
   <br/>
-  <sub>— <b>Kozue Takanashi</b> · <i>Working!!!</i></sub>
+  <sub>— <b>Koyomi Araragi</b> · <i>Owarimonogatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
