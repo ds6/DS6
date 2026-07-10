@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ If you have time to make conspiracies, it's better to use that time to hone your skills. ❞</i>
+  <i>❝ I don't want to hold grudges about the past, it's better to forgive and move forward. ❞</i>
   <br/>
-  <sub>— <b>Lord El-Melloi II</b> · <i>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</i></sub>
+  <sub>— <b>Iori Nagase</b> · <i>Kokoro Connect</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
