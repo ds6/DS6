@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Life is still a long way to go. Even though there are times when doubts and worries come our way, we continue to walk confidently on the path we have chosen. ❞</i>
+  <i>❝ In this world there are various stories. But I don't care about all that. (Because) what I want to know is the story about you. ❞</i>
   <br/>
-  <sub>— <b>Taichi Yaegashi</b> · <i>Kokoro Connect: Michi Random</i></sub>
+  <sub>— <b>Keima Katsuragi</b> · <i>Kami nomi zo Shiru Sekai: Megami-hen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
