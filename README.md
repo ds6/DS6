@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Hunger is the best spice. ❞</i>
+  <i>❝ Humans are geniuses from the start, then little by little they start to become stupid. Because they became stupid, they started working and started communicating with each other. ❞</i>
   <br/>
-  <sub>— <b>Shinobu Oshino</b> · <i>Kizumonogatari III: Reiketsu-hen</i></sub>
+  <sub>— <b>Shiki Magata</b> · <i>Subete ga F ni Naru</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
