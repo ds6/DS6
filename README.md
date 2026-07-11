@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ We don't care about your dreams! we just want to protect your friends, and our world no matter what! ❞</i>
+  <i>❝ Did you know Sis, when I saw µ's concert, I felt passionate emotions in my chest. They train hard and they seem to really enjoy it! ❞</i>
   <br/>
-  <sub>— <b>Rin Okumura</b> · <i>Ao no Exorcist</i></sub>
+  <sub>— <b>Arisa Ayase</b> · <i>Love Live! School Idol Project</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
