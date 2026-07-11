@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ You have to make friends with lots of people, feel the beauty of falling in love, and enjoy every moment wholeheartedly. ❞</i>
+  <i>❝ Honestly, I'm proud of you. This is a win for hard work. ❞</i>
   <br/>
-  <sub>— <b>Arata Kaizaki</b> · <i>ReLIFE</i></sub>
+  <sub>— <b>Yuusuke Fujisaki</b> · <i>Sket Dance</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
