@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The (new) humans will lose when they stop fighting. As long as we keep fighting, we have not lost. ❞</i>
+  <i>❝ Time continues to pass, for both Watari and Kausei. Even though they are afraid, hurt, even though they can't see the future, they are still looking for something (a way to their goals). They take one step at a time to gather courage, they inspire each other, they support each other, then they try to move forward. Only I didn't take steps (to achieve my desires). It's just me who's time to stop. ❞</i>
   <br/>
-  <sub>— <b>Mike Zacharias</b> · <i>Shingeki no Kyojin Season 2</i></sub>
+  <sub>— <b>Tsubaki Sawabe</b> · <i>Shigatsu wa Kimi no Uso</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
