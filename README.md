@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ We're at an impasse, but I won't stop. For the sake of those who are gone, I must keep going. As Princess Hyland, as someone who guides this country towards justice, please lend us your strength. ❞</i>
+  <i>❝ You have to make friends with lots of people, feel the beauty of falling in love, and enjoy every moment wholeheartedly. ❞</i>
   <br/>
-  <sub>— <b>Alisha Diphda</b> · <i>Tales of Zestiria the Cross Season 2</i></sub>
+  <sub>— <b>Arata Kaizaki</b> · <i>ReLIFE</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
