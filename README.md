@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I don't want to hold grudges about the past, it's better to forgive and move forward. ❞</i>
+  <i>❝ Love is something that your heart can feel by itself. Sweet, sparkling, makes you realize that you feel good without anyone else telling you. ❞</i>
   <br/>
-  <sub>— <b>Iori Nagase</b> · <i>Kokoro Connect</i></sub>
+  <sub>— <b>Satou Matsuzaka</b> · <i>Happy Sugar Life</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
