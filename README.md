@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Fear is an important feeling, but don't get tied down by it. If your body can't handle it, use your heart to overcome the fear. There are times when the heart exceeds the strength of the body. ❞</i>
+  <i>❝ Even though this silence was starting to make me comfortable, it felt like my beating heart wanted to leave the clock in the dust and rush into the future. ❞</i>
   <br/>
-  <sub>— <b>Sebas Tian</b> · <i>Overlord II</i></sub>
+  <sub>— <b>Hachiman Hikigaya</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
