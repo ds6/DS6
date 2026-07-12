@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Smile when you are in trouble. ❞</i>
+  <i>❝ That kid was the best when he acted childish. ❞</i>
   <br/>
-  <sub>— <b>Canaria Utara</b> · <i>Qualidea Code</i></sub>
+  <sub>— <b>Matsuyo Matsuno</b> · <i>Osomatsu-san</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
