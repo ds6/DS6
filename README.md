@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I envy people who have dreams and are passionate about making them come true. ❞</i>
+  <i>❝ It's good if we can find a job that suits us.
+But I don't think it's a problem if we have to adjust to work. ❞</i>
   <br/>
-  <sub>— <b>Yuugo Hachiken</b> · <i>Gin no Saji</i></sub>
+  <sub>— <b>Shinei Ookawa</b> · <i>Gin no Saji</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
