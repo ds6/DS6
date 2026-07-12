@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I don't know what my future will hold, but I want to study hard so I can help (many people). ❞</i>
+  <i>❝ How sad. Thinking about other things during the match, do you underestimate your opponent?
+This is a fight. If you are caught up in a drama that (in your opinion) is more important, don't waste your time in this match. ❞</i>
   <br/>
-  <sub>— <b>Kaito</b> · <i>Konohana Kitan</i></sub>
+  <sub>— <b>Yuuri Himemiya</b> · <i>Prince of Stride: Alternative</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
