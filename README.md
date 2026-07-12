@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Justice is a weapon... A weapon that can be used to hurt, but cannot be used to protect or save others. ❞</i>
+  <i>❝ I envy people who have dreams and are passionate about making them come true. ❞</i>
   <br/>
-  <sub>— <b>Osamu Dazai</b> · <i>Bungou Stray Dogs</i></sub>
+  <sub>— <b>Yuugo Hachiken</b> · <i>Gin no Saji</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
