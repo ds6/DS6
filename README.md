@@ -13,12 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Even though we are at the bottom of the rankings,
-Even though we can't use magic,
-Grandfather believes we can defeat other races.
-I want to prove that what my grandfather believed was true. ❞</i>
+  <i>❝ Without fights and disputes, you are not truly friends.
+As the saying goes, "If you continue to take the safe path, then one day you will lose something that is very valuable to you." ❞</i>
   <br/>
-  <sub>— <b>Stephanie Dola</b> · <i>No Game No Life</i></sub>
+  <sub>— <b>Ryuuzen Gotou</b> · <i>Kokoro Connect</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
