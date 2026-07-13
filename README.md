@@ -13,9 +13,11 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Using an excuse to run will make you look pathetic. ❞</i>
+  <i>❝ Remembering the past will only make you regret it until you want to die.
+Thinking about the future will only make you doubt.
+So, thinking about it now is the best thing. ❞</i>
   <br/>
-  <sub>— <b>Hikari Takanashi</b> · <i>Demi-chan wa Kataritai</i></sub>
+  <sub>— <b>Hachiman Hikigaya</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
