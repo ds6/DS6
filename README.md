@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Sometimes there are things you can't tell someone even though that person is close to you. ❞</i>
+  <i>❝ Since he came, everything has been better. My world began to change.
+Maybe you don't know, but Rinko is destined to be my inspiration. ❞</i>
   <br/>
-  <sub>— <b>Nanami Aoyama</b> · <i>Sakurasou no Pet na Kanojo</i></sub>
+  <sub>— <b>Kouki Ichinose</b> · <i>Ore Monogatari!!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
