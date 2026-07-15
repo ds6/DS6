@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ True happiness is finding the person you love, becoming a mother, then living your life with him. ❞</i>
+  <i>❝ Love this world. Maybe all this time the world has not been on your side, but the world is not your enemy. ❞</i>
   <br/>
-  <sub>— <b>Togame</b> · <i>Katanagatari</i></sub>
+  <sub>— <b>Elias Ainsworth</b> · <i>Mahoutsukai no Yome</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
