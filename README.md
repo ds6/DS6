@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ To me, his existence was like the world itself. I would rather die than lose him. ❞</i>
+  <i>❝ I will not marry anyone else (other than you). I have prayed to be with you forever. ❞</i>
   <br/>
-  <sub>— <b>Violet Evergarden</b> · <i>Violet Evergarden</i></sub>
+  <sub>— <b>Sae Nakata</b> · <i>Amagami SS+ Plus</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
