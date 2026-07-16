@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Night can drastically change a person's perspective. ❞</i>
+  <i>❝ I can't like you just a little, because I already like you as much as possible. ❞</i>
   <br/>
-  <sub>— <b>Nazuna Nanakusa</b> · <i>Yofukashi no Uta</i></sub>
+  <sub>— <b>Ako Tamaki</b> · <i>Netoge no Yome wa Onnanoko ja Nai to Omotta?</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
