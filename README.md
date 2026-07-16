@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Coming to your place is enough to heal one of my hearts. ❞</i>
+  <i>❝ A kiss can solve all kinds of problems. ❞</i>
   <br/>
-  <sub>— <b>Yuuka Kobayakawa</b> · <i>Shoujo-tachi wa Kouya wo Mezasu</i></sub>
+  <sub>— <b>Keima Katsuragi</b> · <i>Kami nomi zo Shiru Sekai: Megami-hen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
