@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The more I cherish this moment, the sadder I feel when that moment comes. But I don't want to call this feeling regret. ❞</i>
+  <i>❝ I hate geniuses. They do not have the beauty of the results of effort and toil. ❞</i>
   <br/>
-  <sub>— <b>Tooru</b> · <i>Kobayashi-san Chi no Maid Dragon</i></sub>
+  <sub>— <b>Lügner</b> · <i>Sousou no Frieren</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
