@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I can't like you just a little, because I already like you as much as possible. ❞</i>
+  <i>❝ No matter how many crimes a person commits, killing that person is still not right. No human being deserves to be killed. ❞</i>
   <br/>
-  <sub>— <b>Ako Tamaki</b> · <i>Netoge no Yome wa Onnanoko ja Nai to Omotta?</i></sub>
+  <sub>— <b>Mikiya Kokutou</b> · <i>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
