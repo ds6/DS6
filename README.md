@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ No matter how many crimes a person commits, killing that person is still not right. No human being deserves to be killed. ❞</i>
+  <i>❝ It's not just the little ones who need support from their hearts. ❞</i>
   <br/>
-  <sub>— <b>Mikiya Kokutou</b> · <i>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</i></sub>
+  <sub>— <b>Himmel</b> · <i>Sousou no Frieren</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
