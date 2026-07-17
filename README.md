@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ You don't need to struggle anymore. It's okay to cry too. Because Mayushii is beside you. ❞</i>
+  <i>❝ A mirror is a tool that can help you face yourself from various angles. ❞</i>
   <br/>
-  <sub>— <b>Mayuri Shiina</b> · <i>Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero</i></sub>
+  <sub>— <b>Tooe Kanbaru</b> · <i>Zoku Owarimonogatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
