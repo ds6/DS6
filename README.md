@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I hate geniuses. They do not have the beauty of the results of effort and toil. ❞</i>
+  <i>❝ You can't go back when you've moved forward. ❞</i>
   <br/>
-  <sub>— <b>Lügner</b> · <i>Sousou no Frieren</i></sub>
+  <sub>— <b>Shiro</b> · <i>No Game No Life</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
