@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ When you are an adult, social skills become important. ❞</i>
+  <i>❝ Sometimes gentle, sometimes rough, that's how a woman's heart flutters. ❞</i>
   <br/>
-  <sub>— <b>Arataka Reigen</b> · <i>Mob Psycho 100 II</i></sub>
+  <sub>— <b>You Satou</b> · <i>Ben-To</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
