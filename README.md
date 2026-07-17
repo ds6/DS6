@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Ignoring someone is easy, hating someone is even easier, but loving someone is difficult. ❞</i>
+  <i>❝ I want to live without leaving anything unresolved. ❞</i>
   <br/>
-  <sub>— <b>Ruler</b> · <i>Fate/Apocrypha</i></sub>
+  <sub>— <b>Nagisa Shiota</b> · <i>Ansatsu Kyoushitsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
