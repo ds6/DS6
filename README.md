@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Cycling is so much fun! Soaring through the wind by relying on the power of my own legs, it felt good! ❞</i>
+  <i>❝ To make manga you have to be smart. At the very least, you need intelligence and a rational mind. But I don't think studying is the same as being smart. ❞</i>
   <br/>
-  <sub>— <b>Satoshi Fukube</b> · <i>Hyouka</i></sub>
+  <sub>— <b>Akito Takagi</b> · <i>Bakuman.</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
