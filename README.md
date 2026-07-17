@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ You can't go back when you've moved forward. ❞</i>
+  <i>❝ The most annoying thing is when other people are noisy when we want quiet. ❞</i>
   <br/>
-  <sub>— <b>Shiro</b> · <i>No Game No Life</i></sub>
+  <sub>— <b>Kobayashi</b> · <i>Kobayashi-san Chi no Maid Dragon</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
