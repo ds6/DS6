@@ -13,9 +13,11 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ With all our bodies and hearts! We can't back down! We must be honest with each other's feelings. I want to change zero to one. ❞</i>
+  <i>❝ Don't run away anymore...
+Don't go where I can't reach.
+Be with me forever... ❞</i>
   <br/>
-  <sub>— <b>Chika Takami</b> · <i>Love Live! Sunshine!!</i></sub>
+  <sub>— <b>Kouko Kaga</b> · <i>Golden Time</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
