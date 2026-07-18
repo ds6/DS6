@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ You can't say "live alone" when many people are worried about you. ❞</i>
+  <i>❝ Humans are vague and imperfect, but that's why they are valuable. ❞</i>
   <br/>
-  <sub>— <b>Akari Kawamoto</b> · <i>3-gatsu no Lion</i></sub>
+  <sub>— <b>Sorey</b> · <i>Tales of Zestiria the Cross Season 2</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
