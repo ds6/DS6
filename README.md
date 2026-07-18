@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ From now on, my goal is to return your smile. ❞</i>
+  <i>❝ Old school items will not be useful when needed immediately. ❞</i>
   <br/>
-  <sub>— <b>Hana Miyakoshi</b> · <i>WWW.Working!!</i></sub>
+  <sub>— <b>Minosuke</b> · <i>Ojiisan no Lamp</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
