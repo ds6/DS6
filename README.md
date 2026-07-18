@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Ayato, don't try to fight alone. We are a team. If you will take care of me, I will take care of you. ❞</i>
+  <i>❝ I'm grateful because the sea is blue. I am also grateful because the sky is blue. The colors you have given, my future is full of colors. ❞</i>
   <br/>
-  <sub>— <b>Julis-Alexia von Riessfeld</b> · <i>Gakusen Toshi Asterisk</i></sub>
+  <sub>— <b>Hitomi Tsukishiro</b> · <i>Irozuku Sekai no Ashita kara</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
