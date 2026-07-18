@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ It's good if you can be open with other people. ❞</i>
+  <i>❝ If you can't afford it, just say you can't afford it from the start. There are times when we depend on others. When you can ask people around you for help openly, all problems can be overcome. That's something I learned in online games. ❞</i>
   <br/>
-  <sub>— <b>Kobayashi</b> · <i>Kobayashi-san Chi no Maid Dragon</i></sub>
+  <sub>— <b>Hideki Nishimura</b> · <i>Netoge no Yome wa Onnanoko ja Nai to Omotta?</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
