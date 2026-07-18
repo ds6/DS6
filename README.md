@@ -13,11 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Don't run away anymore...
-Don't go where I can't reach.
-Be with me forever... ❞</i>
+  <i>❝ It's okay if I'm the only one who loses. As long as it doesn't bother other people. ❞</i>
   <br/>
-  <sub>— <b>Kouko Kaga</b> · <i>Golden Time</i></sub>
+  <sub>— <b>Naho Takamiya</b> · <i>Orange</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
