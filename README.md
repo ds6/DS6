@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ If you can't afford it, just say you can't afford it from the start. There are times when we depend on others. When you can ask people around you for help openly, all problems can be overcome. That's something I learned in online games. ❞</i>
+  <i>❝ Ayato, don't try to fight alone. We are a team. If you will take care of me, I will take care of you. ❞</i>
   <br/>
-  <sub>— <b>Hideki Nishimura</b> · <i>Netoge no Yome wa Onnanoko ja Nai to Omotta?</i></sub>
+  <sub>— <b>Julis-Alexia von Riessfeld</b> · <i>Gakusen Toshi Asterisk</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
