@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I listen to all their songs. I watch their videos every day and memorize their songs. Then I thought, I also want to do it with my friends. I want to have the same goals as them. I want to shine too! ❞</i>
+  <i>❝ When in a fight, don't delay until the end! Those who hesitate will surely die first. ❞</i>
   <br/>
-  <sub>— <b>Chika Takami</b> · <i>Love Live! Sunshine!!</i></sub>
+  <sub>— <b>Izuminokami Kanesada</b> · <i>Katsugeki/Touken Ranbu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
