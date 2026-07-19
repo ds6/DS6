@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Tomorrow we will come again (visit you). Even though it may seem like a hassle to you, for the sake of the people we love, it is a form of our concern. ❞</i>
+  <i>❝ An Idol's job is not just to show a smile to other people, but an Idol must be able to make other people smile! ❞</i>
   <br/>
-  <sub>— <b>Tsubasa Hanekawa</b> · <i>Owarimonogatari</i></sub>
+  <sub>— <b>Niko Yazawa</b> · <i>Love Live! School Idol Project</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
