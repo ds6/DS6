@@ -13,9 +13,12 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ In life there is no need to rush to decide (something). ❞</i>
+  <i>❝ If my wish can come true. If what I want I can get.
+It's like, I don't want to expect or want anything.
+If something is given to me, it is definitely fake and will be lost someday.
+Therefore, I will continue to look for it. ❞</i>
   <br/>
-  <sub>— <b>Hajime Suzamoto</b> · <i>Tada-kun wa Koi wo Shinai</i></sub>
+  <sub>— <b>Hachiman Hikigaya</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
