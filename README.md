@@ -13,12 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ If my wish can come true. If what I want I can get.
-It's like, I don't want to expect or want anything.
-If something is given to me, it is definitely fake and will be lost someday.
-Therefore, I will continue to look for it. ❞</i>
+  <i>❝ It all depends on whether someone is handsome or not. That's my life guide. If it's not handsome, it means it's not a man. ❞</i>
   <br/>
-  <sub>— <b>Hachiman Hikigaya</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</i></sub>
+  <sub>— <b>Masamune Makabe</b> · <i>Masamune-kun no Revenge</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
