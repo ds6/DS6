@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ There's something inside you. You act normal, but I feel like you are always in the middle of other people. It's like you don't care, but you do. When a problem occurs, you always have the right words. That's why there's something inside you. ❞</i>
+  <i>❝ Money? Such things are meaningless in the face of love. ❞</i>
   <br/>
-  <sub>— <b>Reina Kousaka</b> · <i>Hibike! Euphonium 2</i></sub>
+  <sub>— <b>Tarou Jiroumaru</b> · <i>Hanasaku Iroha</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
