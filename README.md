@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Money? Such things are meaningless in the face of love. ❞</i>
+  <i>❝ Friends who understand each other through sharing hobbies are very valuable friends. ❞</i>
   <br/>
-  <sub>— <b>Tarou Jiroumaru</b> · <i>Hanasaku Iroha</i></sub>
+  <sub>— <b>Kazuki Kazami</b> · <i>Grisaia no Meikyuu: Caprice no Mayu 0</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
