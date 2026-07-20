@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ When I met you, I began to understand the meaning of the word love. ❞</i>
+  <i>❝ It's not that you can't play, you just don't want to play.
+ "I can't hear the sound of the piano..." You said that just to escape. ❞</i>
   <br/>
-  <sub>— <b>Alexis Douse</b> · <i>Grancrest Senki</i></sub>
+  <sub>— <b>Kaori Miyazono</b> · <i>Shigatsu wa Kimi no Uso</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
