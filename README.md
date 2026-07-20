@@ -13,9 +13,11 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ You said you would prove that he wasn't wrong in raising you. So prove it! ❞</i>
+  <i>❝ Tautology. "Dengan kesetiaan yang mumpuni, kau bahkan bisa menuhankan kepala sarden."
+Ini adalah pemahaman mendalam, tapi tidak berbeda dari kepercayaan baru.
+Pendapat mereka hanya tertinggal, sementara mereka meninggalkan kelompok mereka (yang berpikiran berbeda). ❞</i>
   <br/>
-  <sub>— <b>Shura Kirigakure</b> · <i>Ao no Exorcist: Kyoto Fujouou-hen</i></sub>
+  <sub>— <b>Miyoshi</b> · <i>Joker Game</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
