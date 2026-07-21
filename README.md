@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ No one knows where ideas will come from. Therefore, make sure your antenna continues to stand up. ❞</i>
+  <i>❝ I am your sword. Wherever you go I will always follow you. ❞</i>
   <br/>
-  <sub>— <b>Misaki Kanou</b> · <i>Bokutachi no Remake</i></sub>
+  <sub>— <b>Raphtalia</b> · <i>Tate no Yuusha no Nariagari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
