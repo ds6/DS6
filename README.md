@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Friends who understand each other through sharing hobbies are very valuable friends. ❞</i>
+  <i>❝ Chess is a two-player information game based on mathematical calculations.
+In this game there is no such thing as "luck". ❞</i>
   <br/>
-  <sub>— <b>Kazuki Kazami</b> · <i>Grisaia no Meikyuu: Caprice no Mayu 0</i></sub>
+  <sub>— <b>Sora</b> · <i>No Game No Life</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
