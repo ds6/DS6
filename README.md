@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Man lives to save himself. ❞</i>
+  <i>❝ Lives are far more important than missions. ❞</i>
   <br/>
-  <sub>— <b>Sakunosuke Oda</b> · <i>Bungou Stray Dogs Season 2</i></sub>
+  <sub>— <b>Tengen Uzui</b> · <i>Kimetsu no Yaiba: Yuukaku-hen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
