@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23805B0A&labelColor=ffffff&color=805B0A&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ If you have time to think about your death, why don't you live your beautiful life until the end? ❞</i>
+  <i>❝ People will not know that they have been cheated, but (on the contrary) they will be very sensitive when other people are cheated. ❞</i>
   <br/>
-  <sub>— <b>Gintoki Sakata</b> · <i>Gintama</i></sub>
+  <sub>— <b>Hitsujii</b> · <i>Juuni Taisen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:805B0A,100:805B0A&height=2&width=60%" />
   <br/>
