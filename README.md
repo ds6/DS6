@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I don't care what you say or think. I'm not the devil's child. I only have one father, none other than that man! ❞</i>
+  <i>❝ I would like to withdraw from this interview. After thinking about it, it turns out there is something wrong with this. We brothers have to compete to this extent to be chosen by mother (to be raised)... I'm very sad that you are divorcing, but this is our chance to be independent. Mom, thank you for everything so far. I will try to live independently. ❞</i>
   <br/>
-  <sub>— <b>Rin Okumura</b> · <i>Ao no Exorcist</i></sub>
+  <sub>— <b>Todomatsu Matsuno</b> · <i>Osomatsu-san</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
