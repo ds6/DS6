@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I would like to withdraw from this interview. After thinking about it, it turns out there is something wrong with this. We brothers have to compete to this extent to be chosen by mother (to be raised)... I'm very sad that you are divorcing, but this is our chance to be independent. Mom, thank you for everything so far. I will try to live independently. ❞</i>
+  <i>❝ I feel a change. I used to be uninterested in other people without realizing it, I changed because of him. If adjusted, maybe I choose to change myself. I chose to collect his illness records. I chose to accompany him. Then, I chose to walk with him. ❞</i>
   <br/>
-  <sub>— <b>Todomatsu Matsuno</b> · <i>Osomatsu-san</i></sub>
+  <sub>— <b>Haruki Shiga</b> · <i>Kimi no Suizou wo Tabetai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
