@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Assuming that everything is your fault is useless thinking. Everyone definitely has limitations. ❞</i>
+  <i>❝ An Idol's job is not just to show a smile to other people, but an Idol must be able to make other people smile! ❞</i>
   <br/>
-  <sub>— <b>Sachiko Fujinuma</b> · <i>Boku dake ga Inai Machi</i></sub>
+  <sub>— <b>Niko Yazawa</b> · <i>Love Live! School Idol Project</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
