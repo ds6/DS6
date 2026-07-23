@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Talent is not something that can be obtained by working hard. ❞</i>
+  <i>❝ Nico Robin-senpai, for a man, the blink of your eye is more valuable than his own life. ❞</i>
   <br/>
-  <sub>— <b>Eiko Tsukimi</b> · <i>Paripi Koumei</i></sub>
+  <sub>— <b>Bartolomeo</b> · <i>One Piece</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
