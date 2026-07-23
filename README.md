@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Even if you don't have money, you can still have enough fun, as long as there is love. ❞</i>
+  <i>❝ I'm just a piece of mercenary trash. I'm stupid and don't have a good physique. My magic power is only at baby level. However, no matter what people say, I don't hate myself. Because I am the one who knows the value of myself. ❞</i>
   <br/>
-  <sub>— <b>Mao Mizusawa</b> · <i>Kimikiss Pure Rouge</i></sub>
+  <sub>— <b>Touka Scott</b> · <i>Yuusha ga Shinda!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
