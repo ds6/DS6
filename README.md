@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I don't know how many things I failed to protect. Now I don't have anything anymore, but at least I have to protect the person in front of me. ❞</i>
+  <i>❝ The things that need to be done can only be done by people who are capable of doing them. ❞</i>
   <br/>
-  <sub>— <b>Gintoki Sakata</b> · <i>Gintama</i></sub>
+  <sub>— <b>Yuki Funahara</b> · <i>Psycho-Pass</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
