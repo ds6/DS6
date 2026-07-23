@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ An Idol's job is not just to show a smile to other people, but an Idol must be able to make other people smile! ❞</i>
+  <i>❝ True victory is not when you win against the strong.
+But when you succeed in protecting something that is valuable to you. ❞</i>
   <br/>
-  <sub>— <b>Niko Yazawa</b> · <i>Love Live! School Idol Project</i></sub>
+  <sub>— <b>Duy Might</b> · <i>Naruto Shippuden</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
