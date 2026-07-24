@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I want to go to various places and see, hear, and feel various things that I have never felt before. I want to do everything I can now so that when I'm old I won't have any regrets. ❞</i>
+  <i>❝ Our work (as police) is not immediately beneficial, but I am happy (our work) can prevent an incident that might occur (in the future). ❞</i>
   <br/>
-  <sub>— <b>Kuon</b> · <i>Utawarerumono: Itsuwari no Kamen</i></sub>
+  <sub>— <b>Seiko Fuji</b> · <i>Hakozume: Kouban Joshi no Gyakushuu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
