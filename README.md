@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ A feeling can change the world. ❞</i>
+  <i>❝ If you don't deserve to be happy, then I will bear it. If we have to atone for all those sins, let's atone for them together. ❞</i>
   <br/>
-  <sub>— <b>Hitomi Tsukishiro</b> · <i>Irozuku Sekai no Ashita kara</i></sub>
+  <sub>— <b>Alexis Douse</b> · <i>Grancrest Senki</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
