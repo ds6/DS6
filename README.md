@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Pretend you have fish in an aquarium. Then you increase the temperature of the water little by little until finally the water boils. But the fish didn't notice and continued swimming in the boiling water. This sounds like a fake story, but it's not. So, what do you take away from this story? ❞</i>
+  <i>❝ Even though running away can also have a happy ending, (but) I want to fight as hard as I can until the last drop of blood. ❞</i>
   <br/>
-  <sub>— <b>Tomo Kunagisa</b> · <i>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</i></sub>
+  <sub>— <b>Moffle</b> · <i>Amagi Brilliant Park</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
