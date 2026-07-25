@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ By thinking about the power you have, there are things you can and cannot do on your own. Seeing you like this makes me feel embarrassed. Not knowing yourself and just hurting, you fool! ❞</i>
+  <i>❝ Hatred is born from the past. ❞</i>
   <br/>
-  <sub>— <b>Izumo Kamiki</b> · <i>Ao no Exorcist</i></sub>
+  <sub>— <b>Hakuno Kishinami</b> · <i>Fate/Extra Last Encore</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
