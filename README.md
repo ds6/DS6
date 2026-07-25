@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Hatred is born from the past. ❞</i>
+  <i>❝ Friends, yes... He can have friends, he can have people who think he is valuable. How? Great, right? So, even though he doesn't go to school, even though he is always in his room, he is my pride, I am proud of him. ❞</i>
   <br/>
-  <sub>— <b>Hakuno Kishinami</b> · <i>Fate/Extra Last Encore</i></sub>
+  <sub>— <b>Masamune Izumi</b> · <i>Eromanga-sensei</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
