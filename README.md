@@ -13,9 +13,11 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Longing grips people stronger than poison, and deeper than disease. ❞</i>
+  <i>❝ The probability of winning is only 0% when all players surrender.
+No matter how impossible it is, I myself refuse to make it 0%.
+That's why I won't give up! ❞</i>
   <br/>
-  <sub>— <b>Lyza</b> · <i>Made in Abyss</i></sub>
+  <sub>— <b>Tetsuya Kuroko</b> · <i>Kuroko no Basket</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
