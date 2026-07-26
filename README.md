@@ -13,9 +13,11 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Your time in the real world is not wasted, because every second has been passed in this (Sword Art Online) world. ❞</i>
+  <i>❝ Thinking about problems with a serious face may make you seem wise, but you are wrong. There's no reason to keep thinking about it. Accepting everything that happens in your life is the right way to live your life.
+Worrying about problems will only waste your time. If you have time to reflect, it's better to do something.
+Forget your problems. There's no point regretting what has happened. ❞</i>
   <br/>
-  <sub>— <b>Asuna Yuuki</b> · <i>Sword Art Online</i></sub>
+  <sub>— <b>Tooe Kanbaru</b> · <i>Hanamonogatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
