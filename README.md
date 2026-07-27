@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ For me, the most precious thing in this world is my child. ❞</i>
+  <i>❝ We had our first concert in this auditorium. At that time, I said that one day we would definitely have all the seats in this auditorium filled. We have fought hard, and now we are here. I want one day to convey my feelings to everyone. And today, our dream came true! Because of that, we will start running again. Towards a new dream! ❞</i>
   <br/>
-  <sub>— <b>Sachiko Fujinuma</b> · <i>Boku dake ga Inai Machi</i></sub>
+  <sub>— <b>Honoka Kousaka</b> · <i>Love Live! School Idol Project</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
