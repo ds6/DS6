@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ If I am too easily satisfied and careless even just once, I will fall (from) here. ❞</i>
+  <i>❝ I love you Cumin. My love for you is a short love where I want to marry you. ❞</i>
   <br/>
-  <sub>— <b>Nona</b> · <i>Death Parade</i></sub>
+  <sub>— <b>Meiko Honma</b> · <i>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
