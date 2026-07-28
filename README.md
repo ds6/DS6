@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ We must kill, for the greater good. ❞</i>
+  <i>❝ Elegance creates tradition. Elegance is what makes this world a paradise paradise. ❞</i>
   <br/>
-  <sub>— <b>Aiguille</b> · <i>Tales of Zestiria the Cross Season 2</i></sub>
+  <sub>— <b>Henry Henderson</b> · <i>Spy x Family</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
