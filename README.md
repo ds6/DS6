@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ People always say, laugh with your face and cry with your heart. ❞</i>
+  <i>❝ The world of cooking is too deep and wide compared to our short lives. Even if you keep studying it all your life, you still won't reach the limit ❞</i>
   <br/>
-  <sub>— <b>Koharu Shiroyama</b> · <i>Sakurasou no Pet na Kanojo</i></sub>
+  <sub>— <b>Eishi Tsukasa</b> · <i>Shokugeki no Souma: Ni no Sara OVA</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
