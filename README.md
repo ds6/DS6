@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Vision is not what you see, but an image (object) that your brain perceives. Our views depend on our common sense. Under normal circumstances, humans cannot see outside their box. ❞</i>
+  <i>❝ No matter how difficult the situation is, even if the people around you give up and despair, be a man with a strong opinion. Effort is also a talent. ❞</i>
   <br/>
-  <sub>— <b>Touko Aozaki</b> · <i>Kara no Kyoukai 1: Fukan Fuukei</i></sub>
+  <sub>— <b>Kazuki Kazami</b> · <i>Grisaia no Meikyuu: Caprice no Mayu 0</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
