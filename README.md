@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Isn't being a little unfair making me more of a girl? ❞</i>
+  <i>❝ A top agent is an agent who can finish off young geniuses before they grow up. ❞</i>
   <br/>
-  <sub>— <b>Iroha Isshiki</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</i></sub>
+  <sub>— <b>Koumori</b> · <i>Tantei wa Mou, Shindeiru.</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
