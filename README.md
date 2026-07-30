@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Even beautiful flowers will eventually wither and fall. That is the fate of all life forms. ❞</i>
+  <i>❝ I will erase the darkness of the past, and build a bright future from scratch. ❞</i>
   <br/>
-  <sub>— <b>Shougo Makishima</b> · <i>Psycho-Pass</i></sub>
+  <sub>— <b>Sasuke Uchiha</b> · <i>Naruto Shippuden</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
