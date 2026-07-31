@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Hiding all efforts from others is not something everyone can do. ❞</i>
+  <i>❝ (They) are really great. They know what they want to do. Compared to Misaki-senpai and the others, I'm nothing. Nevertheless, one day I hope I find what I want to do. ❞</i>
   <br/>
-  <sub>— <b>Oota</b> · <i>Tanaka-kun wa Itsumo Kedaruge</i></sub>
+  <sub>— <b>Sorata Kanda</b> · <i>Sakurasou no Pet na Kanojo</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
