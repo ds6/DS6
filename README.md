@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Live your life for yourself. ❞</i>
+  <i>❝ Instead of stopping and worrying, it's better to keep moving forward one step at a time. Even though my footprints from yesterday will disappear, and even though the road I walk on tomorrow will be dark, I will not look back or be pessimistic about the future. I just want to experience my life as it is now. Because even if I avoid it, time will continue to pass. ❞</i>
   <br/>
-  <sub>— <b>Berserker</b> · <i>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</i></sub>
+  <sub>— <b>Chtholly Nota Seniorious</b> · <i>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
