@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ It's okay that you don't love me. But let me love you. ❞</i>
+  <i>❝ DIY (Do it yourself), "Do it (your way) yourself". I think that was the right advice for me. ❞</i>
   <br/>
-  <sub>— <b>Touko Nanami</b> · <i>Yagate Kimi ni Naru</i></sub>
+  <sub>— <b>Koyomi Araragi</b> · <i>Owarimonogatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
