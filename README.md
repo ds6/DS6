@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I can't risk failure by doing work that's not my part. But, no victory is without risk. ❞</i>
+  <i>❝ All things are connected. Our body is a small part of the universe. That part is interconnected with the larger universe. ❞</i>
   <br/>
-  <sub>— <b>Koushi Sugawara</b> · <i>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</i></sub>
+  <sub>— <b>Lord El-Melloi II</b> · <i>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
