@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Actually, I also don't really care about the fact that there is or isn't a world after death. However, even if there is no (heaven), I think we should still believe in its existence. Because that's how it should be. It is inappropriate for a person who during his life to struggle as hard as he can, after death only to go to nothingness. Therefore it is better for us to assume they are in heaven in peace. ❞</i>
+  <i>❝ Pretend you have fish in an aquarium. Then you increase the temperature of the water little by little until finally the water boils. But the fish didn't notice and continued swimming in the boiling water. This sounds like a fake story, but it's not. So, what do you take away from this story? ❞</i>
   <br/>
-  <sub>— <b>Heiter</b> · <i>Sousou no Frieren</i></sub>
+  <sub>— <b>Tomo Kunagisa</b> · <i>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
