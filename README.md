@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I think you (are) right. (All this time) I was pretending. I want people to like me. I want to have friends. But when I thought "What can someone like me do?", I decided to like everyone. Then, after that it becomes much easier to pretend. ❞</i>
+  <i>❝ Humans are superficial creatures. They only see (others) based on the gossip that circulates on the surface. ❞</i>
   <br/>
-  <sub>— <b>Satoru Fujinuma</b> · <i>Boku dake ga Inai Machi</i></sub>
+  <sub>— <b>Becky Blackbell</b> · <i>Spy x Family</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
