@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ You really like my father, don't you? That's why you were sad when he died. Me too, let's be friends. ❞</i>
+  <i>❝ No one can leave their past behind. ❞</i>
   <br/>
-  <sub>— <b>Rin Okumura</b> · <i>Ao no Exorcist</i></sub>
+  <sub>— <b>Atsumu Matsuyuki</b> · <i>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
