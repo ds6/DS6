@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The city is like a human body. Various systems work organically, ultimately growing and developing. There are times when the body suffers from tumors. Diseases that cannot be cured with medicine. At that time we have to eradicate it. Our job as surgeons is to root the disease out of the city ❞</i>
+  <i>❝ A true realistic person is someone who has a good personality. ❞</i>
   <br/>
-  <sub>— <b>Masamune Mochizuki</b> · <i>Triage X</i></sub>
+  <sub>— <b>Yuu Ishigami</b> · <i>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
