@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Even if you have a dream and know how to achieve it, that alone is not enough. ❞</i>
+  <i>❝ Whatever happens, I will always be on your side. ❞</i>
   <br/>
-  <sub>— <b>Shinnosuke Aikawa</b> · <i>Gin no Saji</i></sub>
+  <sub>— <b>Raphtalia</b> · <i>Tate no Yuusha no Nariagari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
