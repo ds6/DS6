@@ -13,11 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Don't keep looking up.
-Be patient, eventually something will fall to the ground.
-If we can't get the one above, we'll just take the one below. ❞</i>
+  <i>❝ I'm grateful because the sea is blue. I am also grateful because the sky is blue. The colors you have given, my future is full of colors. ❞</i>
   <br/>
-  <sub>— <b>Yasu Nomura</b> · <i>Barakamon</i></sub>
+  <sub>— <b>Hitomi Tsukishiro</b> · <i>Irozuku Sekai no Ashita kara</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
