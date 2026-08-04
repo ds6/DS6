@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ What do you like?What do you hate?What do you respect?What do you consider bad?That's all for you to decide.We learn and see many things. That's life. You don't make the world, but the world makes you. ❞</i>
+  <i>❝ I can still fight (until now) because you believe in me. Thank you Airi, I'm grateful to have trusted you. ❞</i>
   <br/>
-  <sub>— <b>Caster</b> · <i>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</i></sub>
+  <sub>— <b>Satoru Fujinuma</b> · <i>Boku dake ga Inai Machi</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
