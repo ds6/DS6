@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Don't (gloomy by) looking down. When your eyes are gloomy, your soul will be darker. This means that the future will be closed to you and you will lose your reason to live. When you do what you think is right, why do you lower your head like that? Keep your head up, look forward and reach for (something you are striving for) with your hands. ❞</i>
+  <i>❝ The person you love will not necessarily love you. The people you hate will not necessarily hate you. Sometimes, even that person won't let you hate them.
+Because humans are not characters in manga. There is no such thing as a truly hated person. There are no truly bad people either. No (person's) character looks the same from every point of view, and a person's character is not always the same. Even though you are confident in your running ability, you don't always run, right? (At least) you must be walking and sleeping. ❞</i>
   <br/>
-  <sub>— <b>Crusch Karsten</b> · <i>Re:Zero kara Hajimeru Isekai Seikatsu</i></sub>
+  <sub>— <b>Deishuu Kaiki</b> · <i>Hanamonogatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
