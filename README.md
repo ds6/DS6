@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Geniuses are people who dedicate themselves to one thing and one direction in their life. Everyone can do various things. However, people who focus on one thing benefit more than doing many things. ❞</i>
+  <i>❝ You guys give up so easily. If you want to cry, do it after (you) work hard! ❞</i>
   <br/>
-  <sub>— <b>Jun Aikawa</b> · <i>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</i></sub>
+  <sub>— <b>Seiya Kanie</b> · <i>Amagi Brilliant Park</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
