@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ It is precisely because there are difficulties that make a person's soul shine. ❞</i>
+  <i>❝ No matter how difficult it is, as long as you are there I can keep fighting. ❞</i>
   <br/>
-  <sub>— <b>Makoto Mikasa</b> · <i>Fuuka</i></sub>
+  <sub>— <b>Subaru Natsuki</b> · <i>Re:Zero kara Hajimeru Isekai Seikatsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
