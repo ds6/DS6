@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ In a lottery, you can't win if you don't buy a ticket.
-Just like manga, you can't be an "artist" if you don't draw it. ❞</i>
+  <i>❝ If I die, forgive all the unforgivable. Hatred should not be passed on to children. ❞</i>
   <br/>
-  <sub>— <b>Akito Takagi</b> · <i>Bakuman.</i></sub>
+  <sub>— <b>Alisha Diphda</b> · <i>Tales of Zestiria the Cross</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
