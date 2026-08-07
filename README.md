@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23083763&labelColor=ffffff&color=083763&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ There is still sky above the sky. ❞</i>
+  <i>❝ Worrying about being rejected is the same as rejecting yourself. ❞</i>
   <br/>
-  <sub>— <b>You Watanabe</b> · <i>Love Live! Sunshine!!</i></sub>
+  <sub>— <b>Kouko Kaga</b> · <i>Golden Time</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:083763,100:083763&height=2&width=60%" />
   <br/>
