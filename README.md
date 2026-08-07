@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ We are young people who are still developing. The bond of friendship is the most valuable treasure. ❞</i>
+  <i>❝ If you think you can get results just by working hard, then you are stupid. ❞</i>
   <br/>
-  <sub>— <b>Tomomichi Motoyama</b> · <i>Tsurezure Children</i></sub>
+  <sub>— <b>Tomitte</b> · <i>Seisen Cerberus: Ryuukoku no Fatalités</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
