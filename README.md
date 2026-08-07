@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23083763&labelColor=ffffff&color=083763&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ People are not there to be trusted, even if they are family. You can't depend on other people. Believe in yourself. ❞</i>
+  <i>❝ The heart is not something that can be understood just by thinking about it. ❞</i>
   <br/>
-  <sub>— <b>Satsuki Matsumae</b> · <i>Hanasaku Iroha</i></sub>
+  <sub>— <b>Hachiman Hikigaya</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:083763,100:083763&height=2&width=60%" />
   <br/>
