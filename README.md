@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23083763&labelColor=ffffff&color=083763&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Now I'm just a flower. But, that's why I stared at the sun far above, and kept drinking to keep from drying out. From now on, I will try to bloom! ❞</i>
+  <i>❝ The pain in my feet will one day (definitely) disappear. But, regret will not (ever) disappear. ❞</i>
   <br/>
-  <sub>— <b>Ohana Matsumae</b> · <i>Hanasaku Iroha</i></sub>
+  <sub>— <b>Naho Takamiya</b> · <i>Orange</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:083763,100:083763&height=2&width=60%" />
   <br/>
