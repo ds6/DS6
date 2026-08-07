@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ We must continue to move forward, not upwards so that the story continues towards a happy ending. ❞</i>
+  <i>❝ The days of being a school student are short. You can't play it back or edit it like a film. You have to say what you want to say. Because when it's all over and you regret it, it's too late. ❞</i>
   <br/>
-  <sub>— <b>Shuu Matsubara</b> · <i>Re:CREATORS</i></sub>
+  <sub>— <b>Saku Akechi</b> · <i>Zutto Mae Kara Suki Deshita.: Kokuhaku Jikkou Iinkai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
