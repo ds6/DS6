@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%234b6a1a&labelColor=ffffff&color=4b6a1a&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The more I cherish this moment, the sadder I feel when that moment comes. But I don't want to call this feeling regret. ❞</i>
+  <i>❝ We humans are miserable creatures. We reject everything we fear. We give up because we don't understand. Human cowardice has given birth to war. ❞</i>
   <br/>
-  <sub>— <b>Tooru</b> · <i>Kobayashi-san Chi no Maid Dragon</i></sub>
+  <sub>— <b>Biba Amatori</b> · <i>Koutetsujou no Kabaneri</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:495f34,100:495f34&height=2&width=60%" />
   <br/>
