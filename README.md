@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23083763&labelColor=ffffff&color=083763&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Get up and walk. Keep walking forward. Don't you have two legs that (can walk) well, right? You don't need any support. ❞</i>
+  <i>❝ A remaining sliver of hope, a faint sign of desire will be born from despair. ❞</i>
   <br/>
-  <sub>— <b>Edward Elric</b> · <i>Fullmetal Alchemist: Brotherhood</i></sub>
+  <sub>— <b>C.C.</b> · <i>Code Geass: Hangyaku no Lelouch</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:083763,100:083763&height=2&width=60%" />
   <br/>
