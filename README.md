@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Maybe not many people know that I'm actually the type of person who doesn't really care about my appearance. Because I think what's more important is what comes out of me. ❞</i>
+  <i>❝ Just because everyone does and says the same things, that doesn't guarantee the truth. ❞</i>
   <br/>
-  <sub>— <b>Karen Tendou</b> · <i>Gamers!</i></sub>
+  <sub>— <b>Sakuta Azusagawa</b> · <i>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
