@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23083763&labelColor=ffffff&color=083763&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ (The police profession) only guarantees income. On the other hand, physically and mentally are not guaranteed. ❞</i>
+  <i>❝ All this time I have spent my life lying. At least from now on, I will try to be honest with myself. ❞</i>
   <br/>
-  <sub>— <b>Mai Kawai</b> · <i>Hakozume: Kouban Joshi no Gyakushuu</i></sub>
+  <sub>— <b>Cagliostro</b> · <i>Senki Zesshou Symphogear AXZ</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:083763,100:083763&height=2&width=60%" />
   <br/>
