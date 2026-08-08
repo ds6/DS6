@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23083763&labelColor=ffffff&color=083763&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I will not force myself and live life happily. ❞</i>
+  <i>❝ You just have to be the horn for the hornless Ram. You can become devils together. Besides, you think of yourself as a replacement, but no one can replace you. Where I come from, they say "The devil will laugh when you talk about the future.", So laugh, Rem. ❞</i>
   <br/>
-  <sub>— <b>Red</b> · <i>Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita</i></sub>
+  <sub>— <b>Subaru Natsuki</b> · <i>Re:Zero kara Hajimeru Isekai Seikatsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:083763,100:083763&height=2&width=60%" />
   <br/>
