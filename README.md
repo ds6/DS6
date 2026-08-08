@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23083763&labelColor=ffffff&color=083763&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Don't look up, but look down. Live in this world looking down. If you look up there is no end. Looking down is also endless. ❞</i>
+  <i>❝ The king is there for his people. Without the people, there can be no king. ❞</i>
   <br/>
-  <sub>— <b>Bunko Daikokutei</b> · <i>Uchi no Shishou wa Shippo ga Nai</i></sub>
+  <sub>— <b>Ling Yao</b> · <i>Fullmetal Alchemist: Brotherhood</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:083763,100:083763&height=2&width=60%" />
   <br/>
