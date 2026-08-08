@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23083763&labelColor=ffffff&color=083763&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ If fighting can protect someone's smile, then that alone is enough reason for me to do it. ❞</i>
+  <i>❝ Love is like self-defense! Attacking is the best defense ❞</i>
   <br/>
-  <sub>— <b>Hayato Kisaragi</b> · <i>Hundred</i></sub>
+  <sub>— <b>Kozue Takanashi</b> · <i>Working!!!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:083763,100:083763&height=2&width=60%" />
   <br/>
