@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Fraud is a social crime that not only causes harm to an individual, but also has a domino effect (on other people). ❞</i>
+  <i>❝ There's no reason for me to talk to someone who plays so pathetically. If you want to say something,
+You can tell me, with your game. ❞</i>
   <br/>
-  <sub>— <b>Deishuu Kaiki</b> · <i>Monogatari Series: Second Season</i></sub>
+  <sub>— <b>Shintarou Midorima</b> · <i>Kuroko no Basket</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
