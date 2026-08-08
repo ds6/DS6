@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23083763&labelColor=ffffff&color=083763&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Listen, Rin. If it continues like this, you will always be alone. Use your strength for others, for a nobler purpose. I want you to be a cool guy with lots of friends, and liked by girls! ❞</i>
+  <i>❝ If something makes you sad, it's okay to be sad. You don't need to always (pretend) to look fine. ❞</i>
   <br/>
-  <sub>— <b>Shirou Fujimoto</b> · <i>Ao no Exorcist</i></sub>
+  <sub>— <b>Yuki Takeya</b> · <i>Gakkou Gurashi!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:083763,100:083763&height=2&width=60%" />
   <br/>
