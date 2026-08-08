@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ "Checkmate" doesn't mean you corner your opponent's king. It is a declaration that the opponent's king is yours. ❞</i>
+  <i>❝ How many defeats do you think I have suffered up to this point?
+Even though it's not something to be proud of, I've lost hundreds, if not thousands, of times. Even so, I have never been depressed, never like you are now!. (Because) I always believe that in the end I will win. ❞</i>
   <br/>
-  <sub>— <b>Sora</b> · <i>No Game No Life</i></sub>
+  <sub>— <b>Togame</b> · <i>Katanagatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
