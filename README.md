@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ There's no reason for me to talk to someone who plays so pathetically. If you want to say something,
-You can tell me, with your game. ❞</i>
+  <i>❝ There is something I must achieve, even if I have to dirty it (*do it in a dirty or fraudulent way). ❞</i>
   <br/>
-  <sub>— <b>Shintarou Midorima</b> · <i>Kuroko no Basket</i></sub>
+  <sub>— <b>Kotarou Katsura</b> · <i>Gintama</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
