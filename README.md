@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ A hero doesn't need a reason to draw his sword.
-He just had to fight for his honor. ❞</i>
+  <i>❝ When I looked at Kazehaya, I couldn't take my eyes off him. Maybe because of that, before sleeping Kazehaya's face always appeared in my mind. I've never felt a special feeling like this before. ❞</i>
   <br/>
-  <sub>— <b>Hajime Nishikawa</b> · <i>Gin no Saji</i></sub>
+  <sub>— <b>Sawako Kuronuma</b> · <i>Kimi ni Todoke 2nd Season</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
