@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ An artist must always express what he thinks and struggle with his common sense. ❞</i>
+  <i>❝ The meaning of life is to fill what is lacking in you. ❞</i>
   <br/>
-  <sub>— <b>Hiromichi Kudou</b> · <i>Photokano</i></sub>
+  <sub>— <b>Satoru Fujinuma</b> · <i>Boku dake ga Inai Machi</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
