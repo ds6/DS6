@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Committing a crime, after being caught said that the devil had instigated him. That's a common excuse today's politicians say. ❞</i>
+  <i>❝ For love, I am willing to sacrifice my body and soul. ❞</i>
   <br/>
-  <sub>— <b>Maou</b> · <i>Maoyuu Maou Yuusha</i></sub>
+  <sub>— <b>Kaguya Shinomiya</b> · <i>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
