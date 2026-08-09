@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I will engrave your figure into everyone's memories. ❞</i>
+  <i>❝ It was impossible to save everyone. Saving many people comes at the cost of destroying a small number of others. ❞</i>
   <br/>
-  <sub>— <b>Sakuta Azusagawa</b> · <i>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</i></sub>
+  <sub>— <b>Archer</b> · <i>Fate/stay night: Unlimited Blade Works 2nd Season</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
