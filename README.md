@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ No matter how great your idealism is, it is just idealism (not reality). ❞</i>
+  <i>❝ Gambling is madness. In the capitalist world, money is life. Healthy people cannot possibly risk their lives. But in reality many people go to gambling places to feel the madness. ❞</i>
   <br/>
-  <sub>— <b>Miyuki Shirogane</b> · <i>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</i></sub>
+  <sub>— <b>Yumeko Jabami</b> · <i>Kakegurui</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
