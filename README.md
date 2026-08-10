@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I'm warning you! Never hesitate! Father never raised you to be a coward!
-But, this is your life. (So) live the way you choose. ❞</i>
+  <i>❝ My grandfather always taught me to be able to forgive other people's mistakes. ❞</i>
   <br/>
-  <sub>— <b>Ayah Kanda</b> · <i>Sakurasou no Pet na Kanojo</i></sub>
+  <sub>— <b>Touya Mochizuki</b> · <i>Isekai wa Smartphone to Tomo ni.</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
