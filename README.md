@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ My grandfather always taught me to be able to forgive other people's mistakes. ❞</i>
+  <i>❝ After all, they managed to give us a little "welcome". It's not good if we don't "return the favor." ❞</i>
   <br/>
-  <sub>— <b>Touya Mochizuki</b> · <i>Isekai wa Smartphone to Tomo ni.</i></sub>
+  <sub>— <b>Yukio Kasamatsu</b> · <i>Kuroko no Basket</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
