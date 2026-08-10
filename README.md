@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I knew this would happen and chose to come here anyway. So, I will not turn away from those who are willing to sacrifice their lives for me. ❞</i>
+  <i>❝ I want to do whatever I can. Even if it doesn't mean anything. ❞</i>
   <br/>
-  <sub>— <b>Sherry Tueli</b> · <i>Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2</i></sub>
+  <sub>— <b>Ritsuka Fujimaru</b> · <i>Fate/Grand Order: Zettai Majuu Sensen Babylonia</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
