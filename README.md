@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I want to do whatever I can. Even if it doesn't mean anything. ❞</i>
+  <i>❝ Maybe in front of you there is only a dark path. But you have to remain confident and move forward. Believe that the stars will light your way, even if only briefly. ❞</i>
   <br/>
-  <sub>— <b>Ritsuka Fujimaru</b> · <i>Fate/Grand Order: Zettai Majuu Sensen Babylonia</i></sub>
+  <sub>— <b>Kaori Miyazono</b> · <i>Shigatsu wa Kimi no Uso</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
