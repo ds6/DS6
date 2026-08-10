@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ No matter how far you fall in the darkness, you still have the courage to reach out your hand. ❞</i>
+  <i>❝ This (wedding) day is the day on which a woman looks the most beautiful in her life. ❞</i>
   <br/>
-  <sub>— <b>Rem</b> · <i>Re:Zero kara Hajimeru Isekai Seikatsu</i></sub>
+  <sub>— <b>Tomoe Wajima</b> · <i>Hanasaku Iroha</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
