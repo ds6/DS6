@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ In the information era like today, small problems can tarnish our good name. ❞</i>
+  <i>❝ You trust me, I will trust you. That's what is called a friend, right? ❞</i>
   <br/>
-  <sub>— <b>Miko Iino</b> · <i>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</i></sub>
+  <sub>— <b>Rin Okumura</b> · <i>Ao no Exorcist</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
