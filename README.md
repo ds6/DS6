@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ An Idol can do many things. They are all absolutely fantastic. ❞</i>
+  <i>❝ My goal in life is to make you a new man who will live happily. ❞</i>
   <br/>
-  <sub>— <b>Anastasia</b> · <i>The iDOLM@STER Cinderella Girls</i></sub>
+  <sub>— <b>Rin Tohsaka</b> · <i>Fate/stay night: Unlimited Blade Works 2nd Season</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
