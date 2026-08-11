@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Learning and killing are the same. The usefulness is determined by basic learning. ❞</i>
+  <i>❝ Even if the decision I choose is wrong, I will not regret it. I think good and evil are the same thing, precisely because that is the proof that I am human. ❞</i>
   <br/>
-  <sub>— <b>Tadaomi Karasuma</b> · <i>Ansatsu Kyoushitsu</i></sub>
+  <sub>— <b>Souichirou Kuzuki</b> · <i>Fate/stay night: Unlimited Blade Works 2nd Season</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
