@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Even if the decision I choose is wrong, I will not regret it. I think good and evil are the same thing, precisely because that is the proof that I am human. ❞</i>
+  <i>❝ It's ridiculous, but everyone is afraid of differences. ❞</i>
   <br/>
-  <sub>— <b>Souichirou Kuzuki</b> · <i>Fate/stay night: Unlimited Blade Works 2nd Season</i></sub>
+  <sub>— <b>Kobayashi</b> · <i>Kobayashi-san Chi no Maid Dragon</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
