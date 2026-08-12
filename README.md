@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The people who can achieve their goals are the stupid people who keep moving forward. (Meanwhile) people who cannot achieve their goals are wise people who stop walking. ❞</i>
+  <i>❝ You are the one who has taught me the most important thing, the courage to move forward, not to be afraid of change. At that time, your hand saved me. ❞</i>
   <br/>
-  <sub>— <b>Celica Arfonia</b> · <i>Rokudenashi Majutsu Koushi to Akashic Records</i></sub>
+  <sub>— <b>Eri Ayase</b> · <i>Love Live! School Idol Project</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
