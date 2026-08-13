@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Vision is not what you see, but an image (object) that your brain perceives. Our views depend on our common sense. Under normal circumstances, humans cannot see outside their box. ❞</i>
+  <i>❝ In life there is no need to rush to decide (something). ❞</i>
   <br/>
-  <sub>— <b>Touko Aozaki</b> · <i>Kara no Kyoukai 1: Fukan Fuukei</i></sub>
+  <sub>— <b>Hajime Suzamoto</b> · <i>Tada-kun wa Koi wo Shinai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
