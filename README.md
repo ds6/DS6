@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Origami can't fly, but cherry blossom petals can dance in the wind, right?
-If I bury it near a cherry tree, I think one day (this origami) will be like cherry blossom petals. ❞</i>
+  <i>❝ If you are alone, you will not understand your existence. I feel that human relationships are proof of life. I have a heart because there are everyone. I have a body because I was touched by everyone. So, a person's life has meaning. Choose for yourself, like you and me, like our current life. ❞</i>
   <br/>
-  <sub>— <b>Tetsu</b> · <i>Sket Dance</i></sub>
+  <sub>— <b>Sakura Yamauchi</b> · <i>Kimi no Suizou wo Tabetai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
