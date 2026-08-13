@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ If you are alone, you will not understand your existence. I feel that human relationships are proof of life. I have a heart because there are everyone. I have a body because I was touched by everyone. So, a person's life has meaning. Choose for yourself, like you and me, like our current life. ❞</i>
+  <i>❝ I like it when you stroke my head. It feels like we are connected to each other through the bonds of your hands and my hair. I like your voice. Just hearing one word from you makes my heart feel warm. I like your eyes. Even though your eyes are usually a little tense, I like your gentle eyes when you do good to other people. I like your fingers. For a man, your fingers are really beautiful. But when you link your fingers to me, I know that those fingers grip tightly like a real man. I like the way you walk. When we walk together, I like seeing you look back to make sure I'm still with you. I like your face when you sleep. You look as engrossed as a baby with slightly long eyelashes. When I touched your cheek, you looked calm. Even when I touch your lips, you don't realize it makes my heart beat fast... I love you... ❞</i>
   <br/>
-  <sub>— <b>Sakura Yamauchi</b> · <i>Kimi no Suizou wo Tabetai</i></sub>
+  <sub>— <b>Rem</b> · <i>Re:Zero kara Hajimeru Isekai Seikatsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
