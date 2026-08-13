@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ It's natural that middle school students are (still) children, the problem is that they don't realize that they are children. Even so, it's still better than adults who don't consider themselves adults. ❞</i>
+  <i>❝ If we're friends, there shouldn't be any secrets, hidden feelings, or self-made decisions, right? ❞</i>
   <br/>
-  <sub>— <b>Mayoi Hachikuji</b> · <i>Nisemonogatari</i></sub>
+  <sub>— <b>Megumi Katou</b> · <i>Saenai Heroine no Sodatekata ♭</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
