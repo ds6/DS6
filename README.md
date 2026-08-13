@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ It seems like your mood still hasn't healed... but your feelings look like a sparkling diamond among other diamonds. ❞</i>
+  <i>❝ It has become a common phenomenon in the human world, incompetent people who have no knowledge or talent get positions because of lineage or relations. ❞</i>
   <br/>
-  <sub>— <b>Souhei Saikawa</b> · <i>Subete ga F ni Naru</i></sub>
+  <sub>— <b>Shaiapouf</b> · <i>Hunter x Hunter (2011)</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
