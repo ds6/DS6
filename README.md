@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ We are determined to make this concert a success. We have composed a song, learned to dance, and made costumes together. We have always tried hard until now. We have struggled to perform. I don't want all of that to be in vain. ❞</i>
+  <i>❝ There are things that can only be known after you face them. ❞</i>
   <br/>
-  <sub>— <b>Honoka Kousaka</b> · <i>Love Live! School Idol Project</i></sub>
+  <sub>— <b>Yoshiyuki Nakajima</b> · <i>Gin no Saji</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
