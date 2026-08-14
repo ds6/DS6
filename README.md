@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ In this world there are many things that cannot be explained with just words. ❞</i>
+  <i>❝ If it continues like this, your life will move at a snail's pace.
+Do you agree with your life like that? ❞</i>
   <br/>
-  <sub>— <b>Kou Ichinomiya</b> · <i>Arakawa Under the Bridge</i></sub>
+  <sub>— <b>Akito Takagi</b> · <i>Bakuman.</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
