@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ That kid was the best when he acted childish. ❞</i>
+  <i>❝ A firefly lives very short and weak, but it shines brightly. Dag dig dug, like a heart beating. This is the light of life. ❞</i>
   <br/>
-  <sub>— <b>Matsuyo Matsuno</b> · <i>Osomatsu-san</i></sub>
+  <sub>— <b>Kaori Miyazono</b> · <i>Shigatsu wa Kimi no Uso</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
