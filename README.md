@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ If it continues like this, your life will move at a snail's pace.
-Do you agree with your life like that? ❞</i>
+  <i>❝ Maybe my most acclaimed work, but I couldn't have done it alone. ❞</i>
   <br/>
-  <sub>— <b>Akito Takagi</b> · <i>Bakuman.</i></sub>
+  <sub>— <b>Kou Yagami</b> · <i>New Game!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
