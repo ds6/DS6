@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ If you keep running away, you will never be able to get up and move forward. ❞</i>
+  <i>❝ You can't say "live alone" when many people are worried about you. ❞</i>
   <br/>
-  <sub>— <b>Elena Fujisawa</b> · <i>Hanebado!</i></sub>
+  <sub>— <b>Akari Kawamoto</b> · <i>3-gatsu no Lion</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
