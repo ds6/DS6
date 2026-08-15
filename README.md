@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Even a smart kid like you can become stupid if you often look at (P*o magazine) like that. ❞</i>
+  <i>❝ I will never be a Yakuza! I want to graduate from a famous university, and get a job, and walk leisurely while looking up to see the sun shining. ❞</i>
   <br/>
-  <sub>— <b>Tokunomori</b> · <i>Getsuyoubi no Tawawa</i></sub>
+  <sub>— <b>Raku Ichijou</b> · <i>Nisekoi</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
