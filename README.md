@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ A hero doesn't need a reason to draw his sword.
-He just had to fight for his honor. ❞</i>
+  <i>❝ I want to believe in you, but you won't give me a reason to believe in you! ❞</i>
   <br/>
-  <sub>— <b>Hajime Nishikawa</b> · <i>Gin no Saji</i></sub>
+  <sub>— <b>Emilia</b> · <i>Re:Zero kara Hajimeru Isekai Seikatsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
