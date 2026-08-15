@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ As long as it's interesting, lying is fine. ❞</i>
+  <i>❝ Don't push yourself too much, rest first.
+Maintaining health is also part of the job. ❞</i>
   <br/>
-  <sub>— <b>Manako Jouten</b> · <i>Saiki Kusuo no Ψ-nan 2</i></sub>
+  <sub>— <b>Ibu Mikage</b> · <i>Gin no Saji</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
