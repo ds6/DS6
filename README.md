@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ (My heart) feels strange. Since it was beating fast... since you told me not to go, since you hugged me tightly. Your voice still rings in my ears. The feeling of your body still remains (in me).
-What happened to me? Is this (so-called) "love"? ❞</i>
+  <i>❝ (When a child makes a mistake) There is nothing to be angry about. And there's nothing to laugh about. ❞</i>
   <br/>
-  <sub>— <b>Mashiro Shiina</b> · <i>Sakurasou no Pet na Kanojo</i></sub>
+  <sub>— <b>Daikichi Kawachi</b> · <i>Usagi Drop</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
