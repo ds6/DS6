@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The key to the success of a negotiation is the preparation that you have planned beforehand. Know your opponent's desires, and sway him to his desires. And your biggest mistake is because you only think about your own desires. ❞</i>
+  <i>❝ Fraud is a social crime that not only causes harm to an individual, but also has a domino effect (on other people). ❞</i>
   <br/>
-  <sub>— <b>Anastasia Hoshin</b> · <i>Re:Zero kara Hajimeru Isekai Seikatsu</i></sub>
+  <sub>— <b>Deishuu Kaiki</b> · <i>Monogatari Series: Second Season</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
