@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ You're really good at reading someone's mind. But you don't understand their feelings.
-A person's thoughts and feelings are not the same. Because of this, sometimes you can draw irrational conclusions. ❞</i>
+  <i>❝ I wiped my tears, I started to struggle and fight as best as I could. All I can think about is to always win, get stronger, and keep moving forward. ❞</i>
   <br/>
-  <sub>— <b>Shizuka Hiratsuka</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</i></sub>
+  <sub>— <b>Asuna Yuuki</b> · <i>Sword Art Online</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
