@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I will never be a Yakuza! I want to graduate from a famous university, and get a job, and walk leisurely while looking up to see the sun shining. ❞</i>
+  <i>❝ A fish, whether it lives in clear or dirty water, as long as it continues to swim forward, it will grow beautifully. ❞</i>
   <br/>
-  <sub>— <b>Raku Ichijou</b> · <i>Nisekoi</i></sub>
+  <sub>— <b>Koro-sensei</b> · <i>Ansatsu Kyoushitsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
