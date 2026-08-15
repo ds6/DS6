@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Becoming a Superstar has many obstacles. Those obstacles will let you know whether you are worthy or not. ❞</i>
+  <i>❝ Learning is indeed difficult. Until now, I still don't like studying. Even though it is difficult, fighting with friends to achieve the goal is quite fun. ❞</i>
   <br/>
-  <sub>— <b>Ryouta Watari</b> · <i>Shigatsu wa Kimi no Uso</i></sub>
+  <sub>— <b>Uruka Takemoto</b> · <i>Bokutachi wa Benkyou ga Dekinai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
