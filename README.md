@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ He wouldn't be a man if he just sat there watching you work hard alone. ❞</i>
+  <i>❝ In my opinion, talent is not something you get from birth. But rather something obtained from the results of learning. ❞</i>
   <br/>
-  <sub>— <b>Etsu Kusuda</b> · <i>Hatsukoi Limited</i></sub>
+  <sub>— <b>Kongming Zhuge</b> · <i>Paripi Koumei</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
