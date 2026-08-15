@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Because there is joy, there is pleasure. ❞</i>
+  <i>❝ Absolute goodness is more troublesome than evil. ❞</i>
   <br/>
-  <sub>— <b>Kanna Tanigawa</b> · <i>Ano Natsu de Matteru</i></sub>
+  <sub>— <b>Amatsuyu Kisaragi</b> · <i>Ore wo Suki nano wa Omae dake ka yo</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
