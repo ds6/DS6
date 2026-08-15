@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ (When a child makes a mistake) There is nothing to be angry about. And there's nothing to laugh about. ❞</i>
+  <i>❝ The key to the success of a negotiation is the preparation that you have planned beforehand. Know your opponent's desires, and sway him to his desires. And your biggest mistake is because you only think about your own desires. ❞</i>
   <br/>
-  <sub>— <b>Daikichi Kawachi</b> · <i>Usagi Drop</i></sub>
+  <sub>— <b>Anastasia Hoshin</b> · <i>Re:Zero kara Hajimeru Isekai Seikatsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
