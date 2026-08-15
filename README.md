@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ A narrow view is the enemy of idealism and intelligence. ❞</i>
+  <i>❝ For Civil Servants (PNS), being scolded or cursed at is their main job. ❞</i>
   <br/>
-  <sub>— <b>Eiha Kudou</b> · <i>Gimai Seikatsu</i></sub>
+  <sub>— <b>Yutaka Hasebe</b> · <i>Servant x Service</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
