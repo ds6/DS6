@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Strength comes from responsibility, and power comes from responsibility. Which means strength means responsibility, and responsibility means power! Strength can also mean power! ❞</i>
+  <i>❝ There is no happiness so heavy that it breaks you. Happiness is neither (something that is) heavy nor light. Don't overestimate happiness. All kinds of happiness will suit you. So don't hate such happiness. Don't hate the world, don't hate everything. Don't hate yourself. I will accept and bear all kinds of hatred within you for you. I want you to love yourself more. ❞</i>
   <br/>
-  <sub>— <b>Maihime Tenkawa</b> · <i>Qualidea Code</i></sub>
+  <sub>— <b>Koyomi Araragi</b> · <i>Owarimonogatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
