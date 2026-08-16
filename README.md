@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Fraud is a social crime that not only causes harm to an individual, but also has a domino effect (on other people). ❞</i>
+  <i>❝ I would be lying if I said I didn't sacrifice myself here (the sacrifice of caring for children).
+So I hope to get through the next years (to be better). ❞</i>
   <br/>
-  <sub>— <b>Deishuu Kaiki</b> · <i>Monogatari Series: Second Season</i></sub>
+  <sub>— <b>Daikichi Kawachi</b> · <i>Usagi Drop</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
