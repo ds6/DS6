@@ -13,11 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ There is a calm feeling after you share your feelings via short message to someone else.
-Then, even though you've just sent the message, you can't wait for the reply.
-Finally, your cell phone rang and you were excited when you saw the sender's name. ❞</i>
+  <i>❝ Basically, a strong person is someone who tries to protect something. ❞</i>
   <br/>
-  <sub>— <b>Shinzou Takemitsu</b> · <i>Sket Dance</i></sub>
+  <sub>— <b>Shichika Yasuri</b> · <i>Katanagatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
