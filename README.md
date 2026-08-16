@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ When you can make people even more useless, it feels really good. ❞</i>
+  <i>❝ It's actually boring if you're sad when you (fail) trying to meet other people's expectations. ❞</i>
   <br/>
-  <sub>— <b>Komachi Hikigaya</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</i></sub>
+  <sub>— <b>Chisato Nishikigi</b> · <i>Lycoris Recoil</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
