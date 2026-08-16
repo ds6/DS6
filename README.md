@@ -13,9 +13,12 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Boys always carry a dagger in their hearts. ❞</i>
+  <i>❝ I'm a little scared. Not because of death, but I'm afraid of being separated from you.
+I've never felt like this before, but I think this is the best for me.
+All this is for the future of humanity, and also for your future.
+For that I can risk my life any number of times. ❞</i>
   <br/>
-  <sub>— <b>Boku</b> · <i>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</i></sub>
+  <sub>— <b>Ruler</b> · <i>Fate/Apocrypha</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
