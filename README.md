@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ There's no law that says you can't like a guy just because he has a girlfriend. ❞</i>
+  <i>❝ No matter how many lies you tell, you will never be able to lie to your own heart. ❞</i>
   <br/>
-  <sub>— <b>Ruri Miyamoto</b> · <i>Nisekoi</i></sub>
+  <sub>— <b>Meliodas</b> · <i>Nanatsu no Taizai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
