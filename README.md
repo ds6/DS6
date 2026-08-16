@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ It's actually boring if you're sad when you (fail) trying to meet other people's expectations. ❞</i>
+  <i>❝ All men are stupid and jealous.
+Likewise, stupid women are happy when they see men being jealous. ❞</i>
   <br/>
-  <sub>— <b>Chisato Nishikigi</b> · <i>Lycoris Recoil</i></sub>
+  <sub>— <b>Holo</b> · <i>Ookami to Koushinryou</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
