@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ It's best to do what you want. ❞</i>
+  <i>❝ You're so kind, hardworking, and always try your best, and also, your chest is bigger than his! If it weren't for you, I would have died from being bitten by those dogs. I survived because you were there. And now, I'm still alive! Not just because of your brother, but because of you too. ❞</i>
   <br/>
-  <sub>— <b>Makoto Mikasa</b> · <i>Fuuka</i></sub>
+  <sub>— <b>Subaru Natsuki</b> · <i>Re:Zero kara Hajimeru Isekai Seikatsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
