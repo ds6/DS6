@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ If we work as politicians, we will be surrounded by lies. ❞</i>
+  <i>❝ For me every day is a celebration. A celebration of this world and you. ❞</i>
   <br/>
-  <sub>— <b>Shizuka Takanashi</b> · <i>Working!!! Lord of the Takanashi</i></sub>
+  <sub>— <b>Mika Nitta</b> · <i>Hinamatsuri</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
