@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Working hard is the best talent. ❞</i>
+  <i>❝ You have to throw away your goal after your goal.
+Ambition, desire, revenge... You must put aside all those goals for your true goal. ❞</i>
   <br/>
-  <sub>— <b>Hiroshi Kido</b> · <i>Barakamon</i></sub>
+  <sub>— <b>Rinne Higaki</b> · <i>Katanagatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
