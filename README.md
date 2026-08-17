@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ When women show their weakness, that's when men act. Please be careful. ❞</i>
+  <i>❝ Without fights and disputes, you are not truly friends.
+As the saying goes, "If you continue to take the safe path, then one day you will lose something that is very valuable to you." ❞</i>
   <br/>
-  <sub>— <b>Mitsuki Sarue</b> · <i>Hataraku Maou-sama!</i></sub>
+  <sub>— <b>Ryuuzen Gotou</b> · <i>Kokoro Connect</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
