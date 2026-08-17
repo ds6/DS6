@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ (Travel) like (when riding) a train. As long as you stay on track, you will definitely reach your destination smoothly. So, sit quietly until you arrive at your destination. ❞</i>
+  <i>❝ This pain is proof that I am alive. Because there is pain, there is joy. That is the meaning of being human. ❞</i>
   <br/>
-  <sub>— <b>Shikadai Nara</b> · <i>Boruto: Naruto Next Generations</i></sub>
+  <sub>— <b>Bruford</b> · <i>JoJo no Kimyou na Bouken</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
