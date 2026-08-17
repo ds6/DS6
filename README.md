@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ It's true, we don't always achieve what we hope for. But what we must do must always start with hope. ❞</i>
+  <i>❝ The crown of a leader is not something that is on the head. But something that is in everyone's heart. ❞</i>
   <br/>
-  <sub>— <b>Guy Might</b> · <i>Naruto Shippuden</i></sub>
+  <sub>— <b>Isao Kondou</b> · <i>Gintama°</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
