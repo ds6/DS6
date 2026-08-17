@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Shinichi, I don't have human feelings. So killing my own species has no effect on me at all. But what if you were in my position? ❞</i>
+  <i>❝ A spy doesn't trust anyone, but himself. ❞</i>
   <br/>
-  <sub>— <b>Migi</b> · <i>Kiseijuu: Sei no Kakuritsu</i></sub>
+  <sub>— <b>Loid Forger</b> · <i>Spy x Family</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
