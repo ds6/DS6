@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ No matter what the circumstances, it's not a good idea to interfere with someone's feelings. ❞</i>
+  <i>❝ Even if everyone blames him, or even if he blames himself, I will hold his hand and lead him to the light. ❞</i>
   <br/>
-  <sub>— <b>Kazuyoshi Usui</b> · <i>Sket Dance</i></sub>
+  <sub>— <b>Shirou Emiya</b> · <i>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
