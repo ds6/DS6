@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ No matter where, no matter how afraid you are, the sun will always be there. Your sun may sometimes be covered by clouds. However, if you keep looking at the sky, over time the clouds will definitely disappear. Therefore we must not forget that. We must never stop looking at the sky. Stand tall, look at heaven, and move on with your life. ❞</i>
+  <i>❝ It's true, players your age can still push themselves to fight. But, if you want to become world champion, you also have to have the courage to wave the white flag. ❞</i>
   <br/>
-  <sub>— <b>Gintoki Sakata</b> · <i>Gintama</i></sub>
+  <sub>— <b>Tamura Obaba</b> · <i>Ping Pong The Animation</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
