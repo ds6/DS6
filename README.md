@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Adults are dirty (creatures). ❞</i>
+  <i>❝ The view you see from a high place will look truly amazing, no matter how ordinary the view is. ❞</i>
   <br/>
-  <sub>— <b>Sein</b> · <i>Sousou no Frieren</i></sub>
+  <sub>— <b>Touko Aozaki</b> · <i>Kara no Kyoukai 1: Fukan Fuukei</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
