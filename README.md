@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Even though trying hard can be the key to (someone's) success, it cannot be used as a justification for burdening (others). Just because you have tried you want to be forgiven (for your failure), that is just a selfish attitude. ❞</i>
+  <i>❝ Becoming a Superstar has many obstacles. Those obstacles will let you know whether you are worthy or not. ❞</i>
   <br/>
-  <sub>— <b>Ares Srowa</b> · <i>Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita</i></sub>
+  <sub>— <b>Ryouta Watari</b> · <i>Shigatsu wa Kimi no Uso</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
