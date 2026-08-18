@@ -13,11 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ What is your dream man like?
-His face? His wealth?
-For me, the ideal man is someone who wants to live together. ❞</i>
+  <i>❝ "Violet", when you grow up, you will definitely be a girl who fits that name. You are not a tool, but a person worthy of that name (Violet). ❞</i>
   <br/>
-  <sub>— <b>Charlotte Abelfreyja Drossel</b> · <i>Violet Evergarden</i></sub>
+  <sub>— <b>Gilbert Bougainvillea</b> · <i>Violet Evergarden</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
