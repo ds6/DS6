@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I have an obligation to supervise the follow-up to my report. ❞</i>
+  <i>❝ (What does it feel like to love someone? At what point do you start to think that it is love?) When (seeing) the person you love is happy, you are happy too. ❞</i>
   <br/>
-  <sub>— <b>Maihime Tenkawa</b> · <i>Qualidea Code</i></sub>
+  <sub>— <b>Kouichi Sanada</b> · <i>Kimikiss Pure Rouge</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
