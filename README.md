@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The pain in my feet will one day (definitely) disappear. But, regret will not (ever) disappear. ❞</i>
+  <i>❝ Life is a rotten gym. ❞</i>
   <br/>
-  <sub>— <b>Naho Takamiya</b> · <i>Orange</i></sub>
+  <sub>— <b>Fumiya Tomozaki</b> · <i>Jaku-Chara Tomozaki-kun</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
