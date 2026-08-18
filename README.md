@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ “A purpose” gives a person strength. Friendship is stronger than a knife. ❞</i>
+  <i>❝ That kid was the best when he acted childish. ❞</i>
   <br/>
-  <sub>— <b>Angelo Lagusa</b> · <i>91 Days</i></sub>
+  <sub>— <b>Matsuyo Matsuno</b> · <i>Osomatsu-san</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
