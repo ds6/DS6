@@ -13,9 +13,11 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Fear, regret, despair. A feeling that will fall forever with you when you embrace all your negative feelings. That is the place called the void. ❞</i>
+  <i>❝ What is your dream man like?
+His face? His wealth?
+For me, the ideal man is someone who wants to live together. ❞</i>
   <br/>
-  <sub>— <b>Ginti</b> · <i>Death Parade</i></sub>
+  <sub>— <b>Charlotte Abelfreyja Drossel</b> · <i>Violet Evergarden</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
