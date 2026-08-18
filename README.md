@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ It is impossible for us to be liked by everyone. We love enough people who understand us. ❞</i>
+  <i>❝ Hopefully one day this path I take will bring me together with you again. ❞</i>
   <br/>
-  <sub>— <b>Shiori Saginomiya</b> · <i>Joshikousei no Mudazukai</i></sub>
+  <sub>— <b>Miki Naoki</b> · <i>Gakkou Gurashi!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
