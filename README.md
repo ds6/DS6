@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I really love seeing people happy doing something they love. ❞</i>
+  <i>❝ Why is the devil evil towards humans? That is because it is to help God in the Final Judgment by testing and giving trials to humans. Basically we (the devil) work according to God's will. ❞</i>
   <br/>
-  <sub>— <b>Marin Kitagawa</b> · <i>Sono Bisque Doll wa Koi wo Suru</i></sub>
+  <sub>— <b>Beelzebub</b> · <i>Beelzebub-jou no Okinimesu mama.</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
