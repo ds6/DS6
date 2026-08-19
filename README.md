@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ A dictionary is a ship that sails in the sea of ​​words. Without words, you cannot express your thoughts and cannot understand others deeply. People sail on ships we call dictionaries and search for the perfect word to find a tiny light floating on the dark water. ❞</i>
+  <i>❝ The city is like a human body. Various systems work organically, ultimately growing and developing. There are times when the body suffers from tumors. Diseases that cannot be cured with medicine. At that time we have to eradicate it. Our job as surgeons is to root the disease out of the city ❞</i>
   <br/>
-  <sub>— <b>Tomosuke Matsumoto</b> · <i>Fune wo Amu</i></sub>
+  <sub>— <b>Masamune Mochizuki</b> · <i>Triage X</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
