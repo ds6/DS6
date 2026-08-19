@@ -13,9 +13,11 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Don't judge people from one point of view. You have to look at it from various points of view. ❞</i>
+  <i>❝ (Talking about Koro-sensei) He wrote individual questions, taking into account the questions the students had mastered.
+He has extraordinary intelligence and speed, this dangerous creature will destroy the earth.
+And his teaching ability is close to perfect. ❞</i>
   <br/>
-  <sub>— <b>Tetsuo Takahashi</b> · <i>Demi-chan wa Kataritai</i></sub>
+  <sub>— <b>Tadaomi Karasuma</b> · <i>Ansatsu Kyoushitsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
