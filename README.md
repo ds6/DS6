@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ It's the simple dreams that are the most difficult to realize. ❞</i>
+  <i>❝ Humans are not perfect. Humanity is weak, ugly, envious, and hates things it doesn't have. Surprisingly, those are all bad talents that humans have. Isn't that strange? That's why I want to change all that. ❞</i>
   <br/>
-  <sub>— <b>Kraft Lawrence</b> · <i>Ookami to Koushinryou II</i></sub>
+  <sub>— <b>Yukino Yukinoshita</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
