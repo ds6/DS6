@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ You don't always have to stand up and face problems. You can run or hide. ❞</i>
+  <i>❝ Don't judge people from one point of view. You have to look at it from various points of view. ❞</i>
   <br/>
-  <sub>— <b>Koro-sensei</b> · <i>Ansatsu Kyoushitsu 2nd Season</i></sub>
+  <sub>— <b>Tetsuo Takahashi</b> · <i>Demi-chan wa Kataritai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
