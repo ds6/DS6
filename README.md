@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The feeling of falling in love with someone comes naturally. Don't deny the feelings of someone who loves you! ❞</i>
+  <i>❝ Why are you lying to yourself? You may be able to escape now, but time will still pass without solving your problems. ❞</i>
   <br/>
-  <sub>— <b>Suruga Kanbaru</b> · <i>Owarimonogatari</i></sub>
+  <sub>— <b>Mio Kitahara</b> · <i>Ano Natsu de Matteru</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
