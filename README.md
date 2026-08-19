@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Right now I'm afraid of losing you. Even though until now my life has not been very lucky, I am happy, because it is precisely misfortune that makes you look at me. Because of that, I fell in love with you. ❞</i>
+  <i>❝ Sugary foods are the biggest enemy of a diet. ❞</i>
   <br/>
-  <sub>— <b>Hitagi Senjougahara</b> · <i>Bakemonogatari</i></sub>
+  <sub>— <b>Anna Yanami</b> · <i>Make Heroine ga Oosugiru!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
