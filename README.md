@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I want to have more time drawing manga. (Before I had the desire to become a manga artist at a young age) I never realized time was a precious thing. ❞</i>
+  <i>❝ I don't know how many people will come, but don't forget... at least you have fans there. ❞</i>
   <br/>
-  <sub>— <b>Moritaka Mashiro</b> · <i>Bakuman.</i></sub>
+  <sub>— <b>Maya Haruna</b> · <i>Fuuka</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
