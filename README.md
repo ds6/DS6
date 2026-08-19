@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The choice you have chosen so far, and the choice I have chosen so far. That is a group of the options we have chosen. That's what keeps us together. That is the reason why we are here. ❞</i>
+  <i>❝ Mastering a foreign language will help you to communicate with foreigners. ❞</i>
   <br/>
-  <sub>— <b>Sakura Yamauchi</b> · <i>Kimi no Suizou wo Tabetai</i></sub>
+  <sub>— <b>Irina Jelavić</b> · <i>Ansatsu Kyoushitsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
