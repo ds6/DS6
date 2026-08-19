@@ -13,11 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ (Talking about Koro-sensei) He wrote individual questions, taking into account the questions the students had mastered.
-He has extraordinary intelligence and speed, this dangerous creature will destroy the earth.
-And his teaching ability is close to perfect. ❞</i>
+  <i>❝ I don't care! As long as I can continue to be with you, that's enough for me. No, in fact that's what I want! ❞</i>
   <br/>
-  <sub>— <b>Tadaomi Karasuma</b> · <i>Ansatsu Kyoushitsu</i></sub>
+  <sub>— <b>Koyuki Hinashi</b> · <i>Fuuka</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
