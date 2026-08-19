@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The city is like a human body. Various systems work organically, ultimately growing and developing. There are times when the body suffers from tumors. Diseases that cannot be cured with medicine. At that time we have to eradicate it. Our job as surgeons is to root the disease out of the city ❞</i>
+  <i>❝ I want to have more time drawing manga. (Before I had the desire to become a manga artist at a young age) I never realized time was a precious thing. ❞</i>
   <br/>
-  <sub>— <b>Masamune Mochizuki</b> · <i>Triage X</i></sub>
+  <sub>— <b>Moritaka Mashiro</b> · <i>Bakuman.</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
