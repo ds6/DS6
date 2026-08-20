@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Everyone has too much on their mind, precisely because of the difficult situation, we have to move forward. ❞</i>
+  <i>❝ You don't always have to stand up and face problems. You can run or hide. ❞</i>
   <br/>
-  <sub>— <b>Maihime Tenkawa</b> · <i>Qualidea Code</i></sub>
+  <sub>— <b>Koro-sensei</b> · <i>Ansatsu Kyoushitsu 2nd Season</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
