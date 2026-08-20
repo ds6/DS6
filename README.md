@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Pampering children is part of a mother's job. ❞</i>
+  <i>❝ The most useless people are the stupidest people. ❞</i>
   <br/>
-  <sub>— <b>Shizu Tanbabashi</b> · <i>Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.</i></sub>
+  <sub>— <b>Hitagi Senjougahara</b> · <i>Bakemonogatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
