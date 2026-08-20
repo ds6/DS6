@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ You don't always have to stand up and face problems. You can run or hide. ❞</i>
+  <i>❝ As long as your heart is still beating, you have the right to live and make your wishes come true. ❞</i>
   <br/>
-  <sub>— <b>Koro-sensei</b> · <i>Ansatsu Kyoushitsu 2nd Season</i></sub>
+  <sub>— <b>Kuro no Rider</b> · <i>Fate/Apocrypha</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
