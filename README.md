@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I think the view is boring...
-The view where Kou-chan is (apparently) is very beautiful. ❞</i>
+  <i>❝ I have to move forward immediately. Instead of continuing to regret failure, it's better to live life happily. ❞</i>
   <br/>
-  <sub>— <b>Ohana Matsumae</b> · <i>Hanasaku Iroha</i></sub>
+  <sub>— <b>Yuu Ishigami</b> · <i>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
