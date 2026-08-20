@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ A spy doesn't trust anyone, but himself. ❞</i>
+  <i>❝ (When you held me when I cried) Even though it hurts so much that I lost, even though it's so sad, even though my ankles hurt and my eyes are filled with tears, even though I'm in a sad condition, why do the stars look sparkling like this huh? I could smell the scent of the music room from her hair, I could hear her sighing, and her shoulders which were wet with my tears felt warm. I'm by his side and (right now) I wish time could stop. ❞</i>
   <br/>
-  <sub>— <b>Loid Forger</b> · <i>Spy x Family</i></sub>
+  <sub>— <b>Tsubaki Sawabe</b> · <i>Shigatsu wa Kimi no Uso</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
