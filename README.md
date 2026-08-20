@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ No matter whether we fight elves (a type of animal-like creature) or even gods, we will never lose. Don't underestimate humanity!! ❞</i>
+  <i>❝ There are some experiences that you can only get while on holiday. ❞</i>
   <br/>
-  <sub>— <b>Sora</b> · <i>No Game No Life</i></sub>
+  <sub>— <b>Tomosuke Matsumoto</b> · <i>Fune wo Amu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
