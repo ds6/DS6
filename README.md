@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ A woman's true duty is to protect a man's self-esteem. ❞</i>
+  <i>❝ The bond can become stronger if it is hit a little. ❞</i>
   <br/>
-  <sub>— <b>Saeko Busujima</b> · <i>Highschool of the Dead</i></sub>
+  <sub>— <b>Kurumi Kawai</b> · <i>Irozuku Sekai no Ashita kara</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
