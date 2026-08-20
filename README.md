@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Cooled by men, there is nothing more delicious than that feeling. ❞</i>
+  <i>❝ Women can be grouped into two categories; Childhood friends and Actors. ❞</i>
   <br/>
-  <sub>— <b>Akane Minagawa</b> · <i>Kuzu no Honkai</i></sub>
+  <sub>— <b>Anna Yanami</b> · <i>Make Heroine ga Oosugiru!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
