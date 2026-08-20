@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Even though I don't know which choice is correct, but at least I know which option I should choose. ❞</i>
+  <i>❝ Pampering children is part of a mother's job. ❞</i>
   <br/>
-  <sub>— <b>Koyomi Araragi</b> · <i>Owarimonogatari Season 2</i></sub>
+  <sub>— <b>Shizu Tanbabashi</b> · <i>Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
