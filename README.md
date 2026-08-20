@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ People's preferences are different. And maybe you find something you like more. That need not be decided now. As long as you don't rush, you should be fine. ❞</i>
+  <i>❝ We must help each other. ❞</i>
   <br/>
-  <sub>— <b>Chigusa Fukasawa</b> · <i>Irozuku Sekai no Ashita kara</i></sub>
+  <sub>— <b>Maihime Tenkawa</b> · <i>Qualidea Code</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
