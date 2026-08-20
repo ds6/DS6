@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I want to be a game creator. I've been interested in that for a long time. But I'm scared, I always think what will happen if I fail. I thought that it would waste my time, I didn't want it to hurt me. I always make excuses not to try it. I even gave up trying! But after seeing you, I want to change. One day, I also want to be like you. ❞</i>
+  <i>❝ I want to protect my time with you. It's the only thing that matters to me. ❞</i>
   <br/>
-  <sub>— <b>Sorata Kanda</b> · <i>Sakurasou no Pet na Kanojo</i></sub>
+  <sub>— <b>Sakura Matou</b> · <i>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
