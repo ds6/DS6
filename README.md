@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Opportunity doesn't wait for someone. If you let an opportunity go by saying "I'm not ready". Then there will be no more opportunities like that for you. ❞</i>
+  <i>❝ A woman's true duty is to protect a man's self-esteem. ❞</i>
   <br/>
-  <sub>— <b>Ayah Kanda</b> · <i>Sakurasou no Pet na Kanojo</i></sub>
+  <sub>— <b>Saeko Busujima</b> · <i>Highschool of the Dead</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
