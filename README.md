@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I am a soldier from the past until now. I am prepared to sacrifice myself if necessary. But it refuses to be a chess piece that is used, finished and thrown away. ❞</i>
+  <i>❝ No matter how great your idealism is, it is just idealism (not reality). ❞</i>
   <br/>
-  <sub>— <b>Sakuma</b> · <i>Joker Game</i></sub>
+  <sub>— <b>Miyuki Shirogane</b> · <i>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
