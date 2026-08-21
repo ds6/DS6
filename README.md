@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Accepting each other's love is a natural thing. If the world forbids it, I will change this world even if I have to destroy it. ❞</i>
+  <i>❝ Hold on to your determination, no need to rush, and no need to be discouraged. If you keep doing that, one day you will definitely get extraordinary results. ❞</i>
   <br/>
-  <sub>— <b>Theo Cornaro</b> · <i>Grancrest Senki</i></sub>
+  <sub>— <b>Koro-sensei</b> · <i>Ansatsu Kyoushitsu 2nd Season</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
