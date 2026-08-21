@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ It is the duty of a samurai to return the favor (every kindness). ❞</i>
+  <i>❝ I am your sword, no matter how hard the obstacles are, I will always follow you. ❞</i>
   <br/>
-  <sub>— <b>Amidamaru</b> · <i>Shaman King</i></sub>
+  <sub>— <b>Raphtalia</b> · <i>Tate no Yuusha no Nariagari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
