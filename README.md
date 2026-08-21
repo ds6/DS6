@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Love is a tool for mastery. ❞</i>
+  <i>❝ We probably won't be able to play well. But as long as I have the opportunity to play, and there is an audience to listen. I will play with all my abilities. So that people who listen to me, will never forget me. So that I can continue to live in his heart. That's the reason I play. You see, I am a musician! ❞</i>
   <br/>
-  <sub>— <b>Quinella</b> · <i>Sword Art Online: Alicization</i></sub>
+  <sub>— <b>Kaori Miyazono</b> · <i>Shigatsu wa Kimi no Uso</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
