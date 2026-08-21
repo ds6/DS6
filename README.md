@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ If you just sit in the seat of honor, you won't be able to see anything. ❞</i>
+  <i>❝ Whether or not a dream can be achieved is not a problem. Because (only) you can make it happen, it's possible that your dream won't come true. But I believe that dreaming of something is a gift in life. Regardless of whether the dream can be achieved, I think having a dream is a good thing, because it means you know what you want. If you don't know what you want, and don't know what you want to become, your life will be filled with doubt. ❞</i>
   <br/>
-  <sub>— <b>Souma Yukihira</b> · <i>Shokugeki no Souma</i></sub>
+  <sub>— <b>Koyomi Araragi</b> · <i>Hanamonogatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
