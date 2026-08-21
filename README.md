@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The most useless people are the stupidest people. ❞</i>
+  <i>❝ I live thanks to the help of many people. I'm here because Mom is here. I am happy that you are my parents. I'm really lucky. ❞</i>
   <br/>
-  <sub>— <b>Hitagi Senjougahara</b> · <i>Bakemonogatari</i></sub>
+  <sub>— <b>Yuusuke Fujisaki</b> · <i>Sket Dance</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
