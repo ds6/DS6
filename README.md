@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I live thanks to the help of many people. I'm here because Mom is here. I am happy that you are my parents. I'm really lucky. ❞</i>
+  <i>❝ I am a soldier from the past until now. I am prepared to sacrifice myself if necessary. But it refuses to be a chess piece that is used, finished and thrown away. ❞</i>
   <br/>
-  <sub>— <b>Yuusuke Fujisaki</b> · <i>Sket Dance</i></sub>
+  <sub>— <b>Sakuma</b> · <i>Joker Game</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
