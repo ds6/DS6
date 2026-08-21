@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ In living your life, you will definitely encounter situations where your opinion conflicts with society's opinion.
-When that happens, don't blame society. Don't reject the opinion of the general public. Because it will only waste your time. When that happens, just say "this is life!". Face that feeling of despair. After successfully dealing with it, think (again) if society strongly opposes your opinion, how you would react to that opposition. ❞</i>
+  <i>❝ Humans make up lies, but I believe in you. ❞</i>
   <br/>
-  <sub>— <b>Koro-sensei</b> · <i>Ansatsu Kyoushitsu 2nd Season</i></sub>
+  <sub>— <b>Elias Ainsworth</b> · <i>Mahoutsukai no Yome</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
