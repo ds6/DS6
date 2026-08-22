@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ You and Dr. Magata is a different person. No need to think the same thing. After all, it was impossible for humans to share the same feelings with each other, no matter how close they were. Therefore, from now on what you want to do, think about it alone. ❞</i>
+  <i>❝ Everyone certainly doesn't want anyone to deny our preferences. We want other people to be interested in what we like. Because it's more fun if lots of friends also like the things we like. ❞</i>
   <br/>
-  <sub>— <b>Souhei Saikawa</b> · <i>Subete ga F ni Naru</i></sub>
+  <sub>— <b>Iori Kitahara</b> · <i>Grand Blue</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
