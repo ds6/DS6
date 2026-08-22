@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Seeing a student looking forward to his future is so beautiful. ❞</i>
+  <i>❝ Writing a story is like writing a person. The writer can write how the person lived and how the person died. ❞</i>
   <br/>
-  <sub>— <b>Souma</b> · <i>Demi-chan wa Kataritai</i></sub>
+  <sub>— <b>Souseki Natsume</b> · <i>Bungou Stray Dogs Season 2</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
