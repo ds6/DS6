@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Although we can choose who we engage with, we cannot choose who we meet. So I think it's very lucky to meet good people. ❞</i>
+  <i>❝ Seeing a student looking forward to his future is so beautiful. ❞</i>
   <br/>
-  <sub>— <b>Asami Yuuki</b> · <i>Hige wo Soru. Soshite Joshikousei wo Hirou.</i></sub>
+  <sub>— <b>Souma</b> · <i>Demi-chan wa Kataritai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
