@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ In love, the outpouring of feelings that arise cannot be explained in words. ❞</i>
+  <i>❝ To ease people's fears and worries, heroes must be strong and tough so they can defeat evil quickly, skillfully and handsomely. ❞</i>
   <br/>
-  <sub>— <b>Hikari Tsutsui</b> · <i>3D Kanojo: Real Girl</i></sub>
+  <sub>— <b>Amai Kamen Amai Mask</b> · <i>One Punch Man</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
