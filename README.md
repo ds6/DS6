@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ It will be painful to keep or let go of something that you can't get back.
-If both are going to be painful, I'd rather suffer to maintain it. ❞</i>
+  <i>❝ A dictionary is a ship that sails in the sea of ​​words. Without words, you cannot express your thoughts and cannot understand others deeply. People sail on ships we call dictionaries and search for the perfect word to find a tiny light floating on the dark water. ❞</i>
   <br/>
-  <sub>— <b>Tae Shimura</b> · <i>Gintama</i></sub>
+  <sub>— <b>Tomosuke Matsumoto</b> · <i>Fune wo Amu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
