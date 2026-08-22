@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The one who wins is always right! And the one who is wrong is Satan! ❞</i>
+  <i>❝ When in a fight, don't delay until the end! Those who hesitate will surely die first. ❞</i>
   <br/>
-  <sub>— <b>Yomotsu Hirasaka</b> · <i>Mirai Nikki</i></sub>
+  <sub>— <b>Izuminokami Kanesada</b> · <i>Katsugeki/Touken Ranbu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
