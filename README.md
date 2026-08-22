@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Women's anger is the most difficult thing to control. ❞</i>
+  <i>❝ Although we can choose who we engage with, we cannot choose who we meet. So I think it's very lucky to meet good people. ❞</i>
   <br/>
-  <sub>— <b>Archer</b> · <i>Fate/stay night: Unlimited Blade Works</i></sub>
+  <sub>— <b>Asami Yuuki</b> · <i>Hige wo Soru. Soshite Joshikousei wo Hirou.</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
