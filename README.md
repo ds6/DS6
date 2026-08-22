@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The man could die just from a broken heart. ❞</i>
+  <i>❝ No one can leave their past behind. ❞</i>
   <br/>
-  <sub>— <b>Sakurako Kujou</b> · <i>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</i></sub>
+  <sub>— <b>Atsumu Matsuyuki</b> · <i>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
