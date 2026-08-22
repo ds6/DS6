@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Chasing unattainable dreams will only destroy yourself. ❞</i>
+  <i>❝ I am willing to do any job as long as the income is guaranteed. ❞</i>
   <br/>
-  <sub>— <b>Evileye</b> · <i>Overlord II</i></sub>
+  <sub>— <b>Mai Kawai</b> · <i>Hakozume: Kouban Joshi no Gyakushuu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
