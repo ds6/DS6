@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Humans can be right and wrong. Mistakes make them learn faster, but it takes time to see mistakes. And spending time with other people is quite boring. As far as I'm concerned, the mistake that broke into my house and stole my possessions was better. However, I don't mind, because you are a mistake. ❞</i>
+  <i>❝ Since he came, everything has been better. My world began to change.
+Maybe you don't know, but Rinko is destined to be my inspiration. ❞</i>
   <br/>
-  <sub>— <b>Fafnir</b> · <i>Kobayashi-san Chi no Maid Dragon</i></sub>
+  <sub>— <b>Kouki Ichinose</b> · <i>Ore Monogatari!!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
