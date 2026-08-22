@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ To be honest, until now I still don't know what you want to achieve.
-But even so, I really understand that you are serious about making your dreams come true. So fight!! ❞</i>
+  <i>❝ Then, if you no longer see me as a threat, you want to be friends with me, right? ❞</i>
   <br/>
-  <sub>— <b>Megumi Katou</b> · <i>Saenai Heroine no Sodatekata</i></sub>
+  <sub>— <b>Rin Okumura</b> · <i>Ao no Exorcist: Kyoto Fujouou-hen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
