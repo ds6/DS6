@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Seeing the happy faces of customers is more valuable than any money in the world. ❞</i>
+  <i>❝ What I hate is a man who constantly thinks about past mistakes and other things he can't possibly change. ❞</i>
   <br/>
-  <sub>— <b>Shinobu Senke</b> · <i>Isekai Izakaya: Koto Aitheria no Izakaya Nobu</i></sub>
+  <sub>— <b>Chitoge Kirisaki</b> · <i>Nisekoi</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
