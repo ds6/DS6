@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Even if we win today, it doesn't mean we can win the next battle. ❞</i>
+  <i>❝ A person wouldn't fight that hard if he didn't like it. ❞</i>
   <br/>
-  <sub>— <b>Shichika Yasuri</b> · <i>Katanagatari</i></sub>
+  <sub>— <b>Keiko Ayano</b> · <i>Sword Art Online</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
