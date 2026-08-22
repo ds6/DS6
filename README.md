@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ When I was little, I dreamed of becoming a hero.
-But I want to be a hero who blows away brazen criminals (like you) with one punch! ❞</i>
+  <i>❝ Everyone who wants to become a professional chef has experienced defeat. Even though your self-confidence and pride that you have built over the years is shattered in a big mistake. Even if you have a very bad experience you still have to open your shop tomorrow. That's what a chef is called. ❞</i>
   <br/>
-  <sub>— <b>Saitama</b> · <i>One Punch Man</i></sub>
+  <sub>— <b>Souma Yukihira</b> · <i>Shokugeki no Souma: Ni no Sara</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
