@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ As long as you are (still) alive, the future will still exist. I don't know if it will be colored like roses or mud, but if it doesn't have a future then the path (life) will not be connected. ❞</i>
+  <i>❝ I myself know what I did was stupid (helping someone who was being beaten). But that's what differentiates humans from animals. ❞</i>
   <br/>
-  <sub>— <b>Brad Blackstone</b> · <i>Taboo Tattoo</i></sub>
+  <sub>— <b>Shinichi Izumi</b> · <i>Kiseijuu: Sei no Kakuritsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
