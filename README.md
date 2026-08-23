@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ If something is left behind, someone will pull it. If someone is tired, someone will help them. We all sometimes get confused and doubtful. But we keep moving forward. So I'm sure we can do it! ❞</i>
+  <i>❝ My name is Nasa Yuzaki, someone who is faster than Nasa, someone who will reach the speed of light. ❞</i>
   <br/>
-  <sub>— <b>Honoka Kousaka</b> · <i>Love Live! School Idol Project 2nd Season</i></sub>
+  <sub>— <b>Nasa Yuzaki</b> · <i>Tonikaku Kawaii</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
