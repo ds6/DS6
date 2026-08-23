@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ It's okay if I'm the only one who loses. As long as it doesn't bother other people. ❞</i>
+  <i>❝ I think everyone wants to know what they don't understand. (Even though) sometimes the truth can hurt someone. ❞</i>
   <br/>
-  <sub>— <b>Naho Takamiya</b> · <i>Orange</i></sub>
+  <sub>— <b>Shinjirou Kusakabe</b> · <i>Haruchika: Haruta to Chika wa Seishun Suru</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
