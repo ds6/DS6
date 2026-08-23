@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ But, there will be no start if you just sit and watch. I can't explain it. But, this is my only chance. So, we want to shine! ❞</i>
+  <i>❝ In this world there are many things scarier than the devil, but never lose. ❞</i>
   <br/>
-  <sub>— <b>Chika Takami</b> · <i>Love Live! Sunshine!!</i></sub>
+  <sub>— <b>Jukai</b> · <i>Dororo</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
