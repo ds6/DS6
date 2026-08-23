@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The information is not credible if the source is unclear. ❞</i>
+  <i>❝ It was not worth risking one's life, no matter what the profits would be. ❞</i>
   <br/>
-  <sub>— <b>Iroha Isshiki</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</i></sub>
+  <sub>— <b>Kraft Lawrence</b> · <i>Ookami to Koushinryou</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
