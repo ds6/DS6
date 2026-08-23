@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Playing (music) for someone, that's much more valuable. ❞</i>
+  <i>❝ Talent is important, but I'm (more) jealous of people who have goals in life. ❞</i>
   <br/>
-  <sub>— <b>Kousei Arima</b> · <i>Shigatsu wa Kimi no Uso</i></sub>
+  <sub>— <b>Atomu Kai</b> · <i>Shoujo-tachi wa Kouya wo Mezasu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
