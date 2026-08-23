@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Just because everyone does and says the same things, that doesn't guarantee the truth. ❞</i>
+  <i>❝ As long as you don't give up, your dreams will come true. That's how this world is. ❞</i>
   <br/>
-  <sub>— <b>Sakuta Azusagawa</b> · <i>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</i></sub>
+  <sub>— <b>Iori Kitahara</b> · <i>Grand Blue</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
