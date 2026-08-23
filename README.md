@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ For us, as long as there is a teacher, whether in the rice fields or in the field, it is a school (a place to learn). ❞</i>
+  <i>❝ My mother said "For men, position is everything". ❞</i>
   <br/>
-  <sub>— <b>Kotarou Katsura</b> · <i>Gintama°</i></sub>
+  <sub>— <b>Hina Toumi</b> · <i>Kakushigoto</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
