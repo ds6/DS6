@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ A remaining sliver of hope, a faint sign of desire will be born from despair. ❞</i>
+  <i>❝ (In the game) Knowledge can turn a 1.92% probability into 100%. In other words, the person who has knowledge has unshakable victory. ❞</i>
   <br/>
-  <sub>— <b>C.C.</b> · <i>Code Geass: Hangyaku no Lelouch</i></sub>
+  <sub>— <b>Sora</b> · <i>No Game No Life</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
