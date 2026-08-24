@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ A friend is someone who is always there no matter what happens. A friend is someone who can bear sins together. Isn't that what friends call? ❞</i>
+  <i>❝ You're like a cat. When I approached you, you turned around and walked away. When I was hurt, you came close and wanted to share the pain. ❞</i>
   <br/>
-  <sub>— <b>Yoshitake Tanaka</b> · <i>Danshi Koukousei no Nichijou</i></sub>
+  <sub>— <b>Kousei Arima</b> · <i>Shigatsu wa Kimi no Uso</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
