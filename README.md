@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Snooping into your life like that (journalist) will only make things awkward between us. I don't want to talk about anything you do. You can tell me about this when you are ready. ❞</i>
+  <i>❝ What I hate is a man who constantly thinks about past mistakes and other things he can't possibly change. ❞</i>
   <br/>
-  <sub>— <b>Rea Amano</b> · <i>Mirai Nikki</i></sub>
+  <sub>— <b>Chitoge Kirisaki</b> · <i>Nisekoi</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
