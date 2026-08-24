@@ -13,11 +13,11 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Under the pretext of living "Youth", people distort common sense. They think that lies, secrets, sin and failure are just the spice of youth. If they think failure is part of being young, shouldn't someone who fails to make friends also be part of being young?
-But I'm sure they won't think of it that way. Because all that is just a double standard that they play.
-So in conclusion, a fool who enjoys his youth would rather die! ❞</i>
+  <i>❝ Stupid people will spend their money on things that are not important.
+A wise person will spend his money on things that are good for him.
+A person's good or bad can be judged by how he spends his money. ❞</i>
   <br/>
-  <sub>— <b>Hachiman Hikigaya</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru</i></sub>
+  <sub>— <b>Nenek Buyut Mikage</b> · <i>Gin no Saji</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
