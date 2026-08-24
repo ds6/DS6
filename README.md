@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ A better boss, brings a better company. There's no point in worrying about who your boss is! ❞</i>
+  <i>❝ Being in debt to someone is not a shame, but it is a shame if you cannot pay it off. ❞</i>
   <br/>
-  <sub>— <b>Daikichi Kawachi</b> · <i>Usagi Drop</i></sub>
+  <sub>— <b>Yuuji Kazami</b> · <i>Grisaia no Kajitsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
