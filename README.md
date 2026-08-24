@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Speculation alone will not change the facts. We have to accept reality and move forward. ❞</i>
+  <i>❝ I don't mind if she likes other men, it's just that I want to be the last person to receive a smile from her. ❞</i>
   <br/>
-  <sub>— <b>Kuro no Caster</b> · <i>Fate/Apocrypha</i></sub>
+  <sub>— <b>Seiji Yagiri</b> · <i>Durarara!!x2 Ketsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
