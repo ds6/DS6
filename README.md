@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The man was destined to be insensitive from the beginning. ❞</i>
+  <i>❝ Ayato, don't try to fight alone. We are a team. If you will take care of me, I will take care of you. ❞</i>
   <br/>
-  <sub>— <b>Alexandra Magritte</b> · <i>Tada-kun wa Koi wo Shinai</i></sub>
+  <sub>— <b>Julis-Alexia von Riessfeld</b> · <i>Gakusen Toshi Asterisk</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
