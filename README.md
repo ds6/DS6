@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ If we keep thinking about what other people expect, we will never know what to do because too many people have expectations of us. Wouldn't it be easier to just think about what we expect from ourselves.
-Next, just pray. ❞</i>
+  <i>❝ The future is born from past experiences. ❞</i>
   <br/>
-  <sub>— <b>Izumi Sakurai</b> · <i>Nichijou</i></sub>
+  <sub>— <b>Sanae Kouzuki</b> · <i>Sakura Quest</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
