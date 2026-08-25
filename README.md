@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Because you are twins, what you can do can definitely be done by your four sisters. On the other hand, what your four sisters can do, you can definitely do. ❞</i>
+  <i>❝ ("Love" is what?)
+The feeling when you always think and dream about him. When you don't succeed in attracting his attention, you feel gloomy. You also can't look at him directly because you're embarrassed. Then, when you know his shortcomings, but for some reason you still want to know more about him. ❞</i>
   <br/>
-  <sub>— <b>Fuutarou Uesugi</b> · <i>Gotoubun no Hanayome</i></sub>
+  <sub>— <b>Inari Fushimi</b> · <i>Inari, Konkon, Koi Iroha.</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
