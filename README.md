@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Manuscripts are not finished products. If the goal is just to read, it's better to just write a novel. ❞</i>
+  <i>❝ This world continues to advance. Everyone's pleasures also (keep) changing. Because of that, I will also continue to look for something more useful (for many people). ❞</i>
   <br/>
-  <sub>— <b>Misaki Kanou</b> · <i>Bokutachi no Remake</i></sub>
+  <sub>— <b>Minosuke</b> · <i>Ojiisan no Lamp</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
