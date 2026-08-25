@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I don't want him to lose to fate, I want him to live strong. ❞</i>
+  <i>❝ Sometimes small mistakes can lead to bigger mistakes. ❞</i>
   <br/>
-  <sub>— <b>Jukai</b> · <i>Dororo</i></sub>
+  <sub>— <b>Umiko Ahagon</b> · <i>New Game!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
