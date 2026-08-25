@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ How sad. Thinking about other things during the match, do you underestimate your opponent?
-This is a fight. If you are caught up in a drama that (in your opinion) is more important, don't waste your time in this match. ❞</i>
+  <i>❝ I trust your strength, your words and your smile. ❞</i>
   <br/>
-  <sub>— <b>Yuuri Himemiya</b> · <i>Prince of Stride: Alternative</i></sub>
+  <sub>— <b>Minato Sahashi</b> · <i>Sekirei</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
