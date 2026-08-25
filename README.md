@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Don't look away! Look ahead! Keep your head up! Right now, do what you have to do as Master! ❞</i>
+  <i>❝ Defenders of truth need evil to be defeated. ❞</i>
   <br/>
-  <sub>— <b>Olga Marie Animusphere</b> · <i>Fate/Grand Order: First Order</i></sub>
+  <sub>— <b>Kirei Kotomine</b> · <i>Fate/stay night Movie: Heaven's Feel - I. Presage Flower</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
