@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ This world continues to advance. Everyone's pleasures also (keep) changing. Because of that, I will also continue to look for something more useful (for many people). ❞</i>
+  <i>❝ If someone tried to kill you, you would definitely be angry.
+It was very different if someone tried to kill you but ended up failing, looking embarrassing. ❞</i>
   <br/>
-  <sub>— <b>Minosuke</b> · <i>Ojiisan no Lamp</i></sub>
+  <sub>— <b>Karma Akabane</b> · <i>Ansatsu Kyoushitsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
