@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ ("Love" is what?)
-The feeling when you always think and dream about him. When you don't succeed in attracting his attention, you feel gloomy. You also can't look at him directly because you're embarrassed. Then, when you know his shortcomings, but for some reason you still want to know more about him. ❞</i>
+  <i>❝ Everyone is a fool who doesn't want to be called stupid by others. ❞</i>
   <br/>
-  <sub>— <b>Inari Fushimi</b> · <i>Inari, Konkon, Koi Iroha.</i></sub>
+  <sub>— <b>Souhei Saikawa</b> · <i>Subete ga F ni Naru</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
