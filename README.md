@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ If I am no longer a fairy soldier, I want to pursue ordinary dreams like other ordinary people.
-I want to live side by side with him, see the same things, walk the same streets, eat the same food, and see the same scenery as him. ❞</i>
+  <i>❝ No matter how many lies you tell, you will never be able to lie to your own heart. ❞</i>
   <br/>
-  <sub>— <b>Chtholly Nota Seniorious</b> · <i>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</i></sub>
+  <sub>— <b>Meliodas</b> · <i>Nanatsu no Taizai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
