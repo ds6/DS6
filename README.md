@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Everyone is a fool who doesn't want to be called stupid by others. ❞</i>
+  <i>❝ You always easily meddle in other people's affairs, like someone who can't keep his feet and just walks in without permission. ❞</i>
   <br/>
-  <sub>— <b>Souhei Saikawa</b> · <i>Subete ga F ni Naru</i></sub>
+  <sub>— <b>Chiriko Tsurumi</b> · <i>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
