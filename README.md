@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Ayato, don't try to fight alone. We are a team. If you will take care of me, I will take care of you. ❞</i>
+  <i>❝ Don't look away! Look ahead! Keep your head up! Right now, do what you have to do as Master! ❞</i>
   <br/>
-  <sub>— <b>Julis-Alexia von Riessfeld</b> · <i>Gakusen Toshi Asterisk</i></sub>
+  <sub>— <b>Olga Marie Animusphere</b> · <i>Fate/Grand Order: First Order</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
