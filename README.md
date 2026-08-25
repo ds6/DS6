@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ If your lies cannot deceive yourself, other people will not be deceived either. ❞</i>
+  <i>❝ The first requirement to be a hero is not to be right, but to be strong. That's why heroes always win. ❞</i>
   <br/>
-  <sub>— <b>Crusch Karsten</b> · <i>Re:Zero kara Hajimeru Isekai Seikatsu</i></sub>
+  <sub>— <b>Koyomi Araragi</b> · <i>Nisemonogatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
