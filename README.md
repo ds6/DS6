@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Humans are born, grow and die without meaning. After everything is over, then you will see what the meaning of life is. ❞</i>
+  <i>❝ Stay awake until you feel satisfied with your day. That way of life is not bad either. ❞</i>
   <br/>
-  <sub>— <b>Romani Archaman</b> · <i>Fate/Grand Order: Zettai Majuu Sensen Babylonia</i></sub>
+  <sub>— <b>Nazuna Nanakusa</b> · <i>Yofukashi no Uta</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
