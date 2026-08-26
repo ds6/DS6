@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ If something makes you sad, it's okay to be sad. You don't need to always (pretend) to look fine. ❞</i>
+  <i>❝ Suna, this time I won't be wrong again. But, if I lose my way and start taking the wrong path, please hit me. ❞</i>
   <br/>
-  <sub>— <b>Yuki Takeya</b> · <i>Gakkou Gurashi!</i></sub>
+  <sub>— <b>Takeo Gouda</b> · <i>Ore Monogatari!!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
