@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ You cannot take your money or valuables with you after you die. Isn't it just precious memories of someone, and being remembered by someone is the most valuable, right? ❞</i>
+  <i>❝ This world is reality. Reality is justice! I will satisfy my life in reality! ❞</i>
   <br/>
-  <sub>— <b>Ume Sawa</b> · <i>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</i></sub>
+  <sub>— <b>Yoshiko Tsushima</b> · <i>Love Live! Sunshine!!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
