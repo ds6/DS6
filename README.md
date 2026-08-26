@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ If I feel pain just because of something like this, I don't deserve to be the princess' bodyguard! ❞</i>
+  <i>❝ The fun never lasts long. Such is life. ❞</i>
   <br/>
-  <sub>— <b>Seishirou Tsugumi</b> · <i>Nisekoi</i></sub>
+  <sub>— <b>Rimuru Tempest</b> · <i>Tensei shitara Slime Datta Ken</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
