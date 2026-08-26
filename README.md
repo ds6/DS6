@@ -13,11 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Remembering the past will only make you regret it until you want to die.
-Thinking about the future will only make you doubt.
-So, thinking about it now is the best thing. ❞</i>
+  <i>❝ If something makes you sad, it's okay to be sad. You don't need to always (pretend) to look fine. ❞</i>
   <br/>
-  <sub>— <b>Hachiman Hikigaya</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</i></sub>
+  <sub>— <b>Yuki Takeya</b> · <i>Gakkou Gurashi!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
