@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ We cannot judge something that we cannot see. ❞</i>
+  <i>❝ It's true that I'm hopeless with the real world. But I don't give up on myself. The one who decides whether my life is boring, fun or mediocre is not this world, but myself. As long as I have the will, nothing is impossible. You can also do whatever you want. ❞</i>
   <br/>
-  <sub>— <b>Kusuo Saiki</b> · <i>Saiki Kusuo no Ψ-nan 2</i></sub>
+  <sub>— <b>Keima Katsuragi</b> · <i>Kami nomi zo Shiru Sekai II</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
