@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I can still fight (until now) because you believe in me. Thank you Airi, I'm grateful to have trusted you. ❞</i>
+  <i>❝ Maybe I can't be a samurai or a great father, but (at least) I want to give my child a good name. ❞</i>
   <br/>
-  <sub>— <b>Satoru Fujinuma</b> · <i>Boku dake ga Inai Machi</i></sub>
+  <sub>— <b>Isaburou Sasaki</b> · <i>Gintama°</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
