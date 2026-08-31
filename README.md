@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Even if you are sad, battered, or have fallen to the deepest point, you have to keep playing! That's how people like us survive. ❞</i>
+  <i>❝ Everyone is created different! ❞</i>
   <br/>
-  <sub>— <b>Kaori Miyazono</b> · <i>Shigatsu wa Kimi no Uso</i></sub>
+  <sub>— <b>Izuku Midoriya</b> · <i>Boku no Hero Academia</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
