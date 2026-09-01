@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ However, we must establish strong bonds with the people around us, (and) build a healthy body and soul. Until the day we say goodbye, together we make memories and become people others can trust. ❞</i>
+  <i>❝ Everyone involved in making a film is a creator. There's no difference there. ❞</i>
   <br/>
-  <sub>— <b>Kodaka Hasegawa</b> · <i>Boku wa Tomodachi ga Sukunai Episode 0</i></sub>
+  <sub>— <b>Misaki Kanou</b> · <i>Bokutachi no Remake</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
