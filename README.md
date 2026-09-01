@@ -13,9 +13,11 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ In difficult times he was always there to help me. High school boys are the best. ❞</i>
+  <i>❝ I've decided. I am the "shadow".
+The stronger the light, the stronger the shadow.
+I will be the shadow of your light, and make you the best player in Japan. ❞</i>
   <br/>
-  <sub>— <b>Amatsuyu Kisaragi</b> · <i>Ore wo Suki nano wa Omae dake ka yo</i></sub>
+  <sub>— <b>Tetsuya Kuroko</b> · <i>Kuroko no Basket</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
