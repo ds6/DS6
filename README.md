@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ When he talks like that (very confident), he won't let his shots miss. (Then) Leave the assault to him. You just have to survive like your life depends on it. ❞</i>
+  <i>❝ By saving someone, it means there are other people who cannot be saved. Humans can only save someone who deserves to be saved in the first place. This is a natural thing, as a form of sacrifice for a hero. ❞</i>
   <br/>
-  <sub>— <b>Shun Izuki</b> · <i>Kuroko no Basket</i></sub>
+  <sub>— <b>Kiritsugu Emiya</b> · <i>Fate/stay night: Unlimited Blade Works</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
