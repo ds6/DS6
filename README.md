@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ If being famous on the internet can make you a lot of money, you will definitely feel that going to work is a stupid thing to do. ❞</i>
+  <i>❝ If you do something that will hurt me, I will use all my strength to stop it. ❞</i>
   <br/>
-  <sub>— <b>Shuusei Kagari</b> · <i>Psycho-Pass</i></sub>
+  <sub>— <b>Migi</b> · <i>Kiseijuu: Sei no Kakuritsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
