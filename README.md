@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ In love there is no such thing as "Hard work will always pay off". ❞</i>
+  <i>❝ If being famous on the internet can make you a lot of money, you will definitely feel that going to work is a stupid thing to do. ❞</i>
   <br/>
-  <sub>— <b>Sakura Akino</b> · <i>Ore wo Suki nano wa Omae dake ka yo</i></sub>
+  <sub>— <b>Shuusei Kagari</b> · <i>Psycho-Pass</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
