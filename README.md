@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I'm a caring person who won't do something I don't want to do. ❞</i>
+  <i>❝ No matter how high your position is, no matter how quiet this place is, never show your arrogance. ❞</i>
   <br/>
-  <sub>— <b>Nako Sunao</b> · <i>Hitoribocchi no Marumaru Seikatsu</i></sub>
+  <sub>— <b>Saber</b> · <i>Fate/Extra Last Encore</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
