@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I have an empty life, nothing except my feelings for you.
-(Even though) I don't have a sword either, but my heart wants to be a knight. ❞</i>
+  <i>❝ If you can't be responsible until the end, don't do anything. ❞</i>
   <br/>
-  <sub>— <b>Akitoshi Daimon</b> · <i>Sket Dance</i></sub>
+  <sub>— <b>Youji Itami</b> · <i>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
