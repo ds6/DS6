@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ No matter how high your position is, no matter how quiet this place is, never show your arrogance. ❞</i>
+  <i>❝ I have an empty life, nothing except my feelings for you.
+(Even though) I don't have a sword either, but my heart wants to be a knight. ❞</i>
   <br/>
-  <sub>— <b>Saber</b> · <i>Fate/Extra Last Encore</i></sub>
+  <sub>— <b>Akitoshi Daimon</b> · <i>Sket Dance</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
