@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ If you want to do something you like, you have to fight for it by studying better. ❞</i>
+  <i>❝ If the girl you like likes someone else, your heart will definitely be broken. ❞</i>
   <br/>
-  <sub>— <b>Nenek Buyut Mikage</b> · <i>Gin no Saji 2nd Season</i></sub>
+  <sub>— <b>Ryouta Watari</b> · <i>Shigatsu wa Kimi no Uso</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
