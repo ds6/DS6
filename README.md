@@ -13,9 +13,16 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Without curiosity and emotion, you will not be satisfied with your hobby. ❞</i>
+  <i>❝ Your carelessness may be your weakness.
+You've tried to fix it.
+You can't possibly fix it completely.
+So no matter how hard you try, it's okay not to do it.
+Just leave it like that. Give up.
+Your power has no limits.
+But the most important thing is your enthusiasm.
+So, you don't need to bother changing it, right? ❞</i>
   <br/>
-  <sub>— <b>Soune</b> · <i>Kobayashi-san Chi no Maid Dragon S</i></sub>
+  <sub>— <b>Tetsuji Chuuma</b> · <i>Sket Dance</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
