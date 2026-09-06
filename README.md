@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I will not make conclusions about something that is not proven, that is the rule of the academic world. ❞</i>
+  <i>❝ Being an "adult" isn't always impressive. Sometimes "mature" is just an outward appearance. They (just) want to look awesome in front of society, (and) want to be respected by children. ❞</i>
   <br/>
-  <sub>— <b>Lord El-Melloi II</b> · <i>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</i></sub>
+  <sub>— <b>Sakie Satou</b> · <i>Demi-chan wa Kataritai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
