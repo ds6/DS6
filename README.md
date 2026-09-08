@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ After hearing that song, I wanted to be a shool idol like µ's. Makes me want to fight, try, and work together to create miracles. I felt that I could definitely do it and I could change it from who I was before. ❞</i>
+  <i>❝ He has helped me who had no purpose in life. Even though he's a bad guy, I can't stay away from his side. ❞</i>
   <br/>
-  <sub>— <b>Chika Takami</b> · <i>Love Live! Sunshine!!</i></sub>
+  <sub>— <b>Aku</b> · <i>Maou-sama, Retry!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
