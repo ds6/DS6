@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I'm sorry... I'm sorry (for) not being able to be the girl who cries in your arms. I'm sorry for choosing to chase my dreams rather than my love. Forgive me because I will always love you. ❞</i>
+  <i>❝ (In a competition) considering everyone here as an enemy, is a wise decision. ❞</i>
   <br/>
-  <sub>— <b>Sayuka</b> · <i>Saenai Heroine no Sodatekata</i></sub>
+  <sub>— <b>Kojirou Shinomiya</b> · <i>Shokugeki no Souma</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
