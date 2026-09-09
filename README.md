@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ My actions knew no logic. I act as I please. When I feel I have to act, I will do it with confidence and pride. ❞</i>
+  <i>❝ By imposing self-rules on yourself, it is to encourage and help you to overcome challenges or difficult situations. You apply your own rules only to yourself. It is because of these rules that you can gather your strength and focus on your efforts. Even if you fail, you have implemented rules that make you very disciplined and focused. That's what "self-rule" is all about. ❞</i>
   <br/>
-  <sub>— <b>Xuanzang Sanzang</b> · <i>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</i></sub>
+  <sub>— <b>Duy Might</b> · <i>Naruto Shippuden</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
