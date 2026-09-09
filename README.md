@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Trying to be an ideal figure is extraordinary. However, if we focus too much on it, we will experience failure and lose our identity. ❞</i>
+  <i>❝ My actions knew no logic. I act as I please. When I feel I have to act, I will do it with confidence and pride. ❞</i>
   <br/>
-  <sub>— <b>Loid Forger</b> · <i>Spy x Family</i></sub>
+  <sub>— <b>Xuanzang Sanzang</b> · <i>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
