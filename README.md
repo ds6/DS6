@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ You only know the bitterness of being left alone. Do you think I will leave you too? Something like that happens to you, just once in your life. (Because from now on, there is me who will never leave you) ❞</i>
+  <i>❝ It's true, I'm the crazy one. I was blinded by the delusion of chuunibyou and influenced by a sense of cheesy justice. ❞</i>
   <br/>
-  <sub>— <b>Daikichi Kawachi</b> · <i>Usagi Drop</i></sub>
+  <sub>— <b>Yuu Ishigami</b> · <i>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
