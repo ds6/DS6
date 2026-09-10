@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ We can only guess what they are thinking at the moment. You may call it prejudice, but it requires experience and observation to make a judgment. ❞</i>
+  <i>❝ A ninja who accommodates all hatred and protects the village from behind the shadows. I think he is the real Hokage (Leader). ❞</i>
   <br/>
-  <sub>— <b>Nona</b> · <i>Death Parade</i></sub>
+  <sub>— <b>Sasuke Uchiha</b> · <i>Naruto Shippuden</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
