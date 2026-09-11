@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ True power is the power that can control the environment and the souls of those who are weak, then make them serve you without them realizing it. ❞</i>
+  <i>❝ My eyes can't look away anymore. My heart is tied to you. ❞</i>
   <br/>
-  <sub>— <b>Aryabahta</b> · <i>Taboo Tattoo</i></sub>
+  <sub>— <b>Shinpachi Shimura</b> · <i>Gintama°: Aizome Kaori-hen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
