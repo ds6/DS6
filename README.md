@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I'm not a good person. There's nothing I can teach you, but I want you to promise me one thing. When a friend or woman you love is in trouble, protect her at all costs, that is a man's duty. That way, men can continue to rise up in any difficult situation. Be that kind of man. ❞</i>
+  <i>❝ No matter in any line of the world, at any time or any place, I always like you. ❞</i>
   <br/>
-  <sub>— <b>Papa Shirogane</b> · <i>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</i></sub>
+  <sub>— <b>Rintarou Okabe</b> · <i>Steins;Gate: Oukoubakko no Poriomania</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
