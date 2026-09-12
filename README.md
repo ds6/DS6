@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ You just have to be the horn for the hornless Ram. You can become devils together. Besides, you think of yourself as a replacement, but no one can replace you. Where I come from, they say "The devil will laugh when you talk about the future.", So laugh, Rem. ❞</i>
+  <i>❝ I'm not a good person. There's nothing I can teach you, but I want you to promise me one thing. When a friend or woman you love is in trouble, protect her at all costs, that is a man's duty. That way, men can continue to rise up in any difficult situation. Be that kind of man. ❞</i>
   <br/>
-  <sub>— <b>Subaru Natsuki</b> · <i>Re:Zero kara Hajimeru Isekai Seikatsu</i></sub>
+  <sub>— <b>Papa Shirogane</b> · <i>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
