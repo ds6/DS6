@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ What is most important to me is the warmth of your hand, your cute smile and the future we will build together. ❞</i>
+  <i>❝ Humans make up lies, but I believe in you. ❞</i>
   <br/>
-  <sub>— <b>Nasa Yuzaki</b> · <i>Tonikaku Kawaii</i></sub>
+  <sub>— <b>Elias Ainsworth</b> · <i>Mahoutsukai no Yome</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
