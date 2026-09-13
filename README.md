@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ No matter in any line of the world, at any time or any place, I always like you. ❞</i>
+  <i>❝ Our dance teacher always says don't dance by smiling. But the teacher wants us to smile naturally while dancing, because dancing is something that must be enjoyed from the heart. Because it is something that will light up our lives. ❞</i>
   <br/>
-  <sub>— <b>Rintarou Okabe</b> · <i>Steins;Gate: Oukoubakko no Poriomania</i></sub>
+  <sub>— <b>Akira Koumoto</b> · <i>Ballroom e Youkoso</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
