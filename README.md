@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ A ninja who accommodates all hatred and protects the village from behind the shadows. I think he is the real Hokage (Leader). ❞</i>
+  <i>❝ My sister always reminds me to return what I borrow. ❞</i>
   <br/>
-  <sub>— <b>Sasuke Uchiha</b> · <i>Naruto Shippuden</i></sub>
+  <sub>— <b>Ayato Amagiri</b> · <i>Gakusen Toshi Asterisk</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
