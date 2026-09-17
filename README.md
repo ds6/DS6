@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Everything you say and do sparkles and shines brightly. It was too bright for me and I ended up closing my eyes. ❞</i>
+  <i>❝ Useless humans have no right to breathe. ❞</i>
   <br/>
-  <sub>— <b>Kousei Arima</b> · <i>Shigatsu wa Kimi no Uso</i></sub>
+  <sub>— <b>Ryuunosuke Akutagawa</b> · <i>Bungou Stray Dogs</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
