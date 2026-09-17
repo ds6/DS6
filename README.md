@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I'm not a fool who likes to blame others. ❞</i>
+  <i>❝ When you look down from this high, the city looks small, doesn't it?
+But, I was born here, grew up here... and fell in love here. ❞</i>
   <br/>
-  <sub>— <b>Kanami Ibuki</b> · <i>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</i></sub>
+  <sub>— <b>Kaoru Tanamachi</b> · <i>Amagami SS</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
