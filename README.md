@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ It seems like your mood still hasn't healed... but your feelings look like a sparkling diamond among other diamonds. ❞</i>
+  <i>❝ For me or for anyone else, the best friend is yourself. ❞</i>
   <br/>
-  <sub>— <b>Souhei Saikawa</b> · <i>Subete ga F ni Naru</i></sub>
+  <sub>— <b>Akane Sonoyama</b> · <i>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
