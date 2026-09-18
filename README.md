@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I'm no longer a child who always wants to win when competing. ❞</i>
+  <i>❝ I can't continue to be hurt because of things that have passed. I have to face it, accept it, think about it, and keep moving forward. ❞</i>
   <br/>
-  <sub>— <b>Megumin</b> · <i>Kono Subarashii Sekai ni Shukufuku wo! 2</i></sub>
+  <sub>— <b>Taichi Yaegashi</b> · <i>Kokoro Connect: Michi Random</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
