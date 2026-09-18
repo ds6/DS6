@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ For me or for anyone else, the best friend is yourself. ❞</i>
+  <i>❝ I made a promise when the captain asked me to be the coach last year. I promise to focus on coaching the team towards the national championship. If you don't think you're ready for that, there are other clubs that are more suitable for you. ❞</i>
   <br/>
-  <sub>— <b>Akane Sonoyama</b> · <i>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</i></sub>
+  <sub>— <b>Riko Aida</b> · <i>Kuroko no Basket</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
