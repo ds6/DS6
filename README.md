@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Truly genius humans do exist. And even though I didn't believe in his existence, he appeared by himself. In our world, humans can fly through the skies and travel between planets. Everyone, even humans themselves think so (it can't possibly happen). But someone managed to do it. Someone actually did it. ❞</i>
+  <i>❝ The most important thing in working is not to hand over (our) work to other people. ❞</i>
   <br/>
-  <sub>— <b>Sora</b> · <i>No Game No Life</i></sub>
+  <sub>— <b>Francis Scott Key Fitzgerald</b> · <i>Bungou Stray Dogs Season 2</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
