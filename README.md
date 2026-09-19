@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Staying like that only makes you an unclear person. Not trying to be (a) happy person is (a trait of) cowardice. ❞</i>
+  <i>❝ Truly genius humans do exist. And even though I didn't believe in his existence, he appeared by himself. In our world, humans can fly through the skies and travel between planets. Everyone, even humans themselves think so (it can't possibly happen). But someone managed to do it. Someone actually did it. ❞</i>
   <br/>
-  <sub>— <b>Yotsugi Ononoki</b> · <i>Owarimonogatari</i></sub>
+  <sub>— <b>Sora</b> · <i>No Game No Life</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
