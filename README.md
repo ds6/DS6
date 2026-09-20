@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Your time in the real world is not wasted, because every second has been passed in this (Sword Art Online) world. ❞</i>
+  <i>❝ Rational thinking is important, but if you just think without acting, you will never make progress. ❞</i>
   <br/>
-  <sub>— <b>Asuna Yuuki</b> · <i>Sword Art Online</i></sub>
+  <sub>— <b>Kurumi Ebisuzawa</b> · <i>Gakkou Gurashi!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
