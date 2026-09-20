@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Quote from the Teacher of Truth.
-"If you don't want to be killed by people, you can't kill people either". ❞</i>
+  <i>❝ Knowing one's own (abilities) and the enemy's (abilities) is the basis of fighting. ❞</i>
   <br/>
-  <sub>— <b>Boku</b> · <i>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</i></sub>
+  <sub>— <b>Kamui</b> · <i>Gintama°</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
