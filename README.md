@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The eye is an organ that is directly connected to the brain and half of the brain's work is used to process images. Through eye movements, all brain activity can be revealed. ❞</i>
+  <i>❝ "Checkmate" doesn't mean you corner your opponent's king. It is a declaration that the opponent's king is yours. ❞</i>
   <br/>
-  <sub>— <b>Yuu Ishigami</b> · <i>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</i></sub>
+  <sub>— <b>Sora</b> · <i>No Game No Life</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
