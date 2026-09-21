@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ It's true that I'm hopeless with the real world. But I don't give up on myself. The one who decides whether my life is boring, fun or mediocre is not this world, but myself. As long as I have the will, nothing is impossible. You can also do whatever you want. ❞</i>
+  <i>❝ The reason humans can achieve high levels of knowledge and freedom is not only because of the development of the human brain. But it is obtained from a more complex structure thanks to evolution. In other words, the result of a contradiction between the brain and the soul. ❞</i>
   <br/>
-  <sub>— <b>Keima Katsuragi</b> · <i>Kami nomi zo Shiru Sekai II</i></sub>
+  <sub>— <b>Wiseman</b> · <i>Taboo Tattoo</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
