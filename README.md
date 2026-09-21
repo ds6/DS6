@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The reason humans can achieve high levels of knowledge and freedom is not only because of the development of the human brain. But it is obtained from a more complex structure thanks to evolution. In other words, the result of a contradiction between the brain and the soul. ❞</i>
+  <i>❝ A better boss, brings a better company. There's no point in worrying about who your boss is! ❞</i>
   <br/>
-  <sub>— <b>Wiseman</b> · <i>Taboo Tattoo</i></sub>
+  <sub>— <b>Daikichi Kawachi</b> · <i>Usagi Drop</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
