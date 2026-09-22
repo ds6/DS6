@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ If you have time to talk nonsense, (better) do everything you can to survive. ❞</i>
+  <i>❝ There is nothing good about being lulled by wealth or power. ❞</i>
   <br/>
-  <sub>— <b>Tanya Degurechaff</b> · <i>Youjo Senki</i></sub>
+  <sub>— <b>Arataka Reigen</b> · <i>Mob Psycho 100 II</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
