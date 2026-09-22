@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ All big chested girls are enemies of flat chested girls. ❞</i>
+  <i>❝ For the past two years you have done everything alone. You think and decide everything yourself. You are very wrong, if you think (doing everything alone) can make you an adult. (What you do) will only make you a child who doesn't want to listen to other people's advice. ❞</i>
   <br/>
-  <sub>— <b>Yuika Koga</b> · <i>Kawaikereba H* demo Suki ni Natte Kuremasu ka?</i></sub>
+  <sub>— <b>Chihiro  Sengoku</b> · <i>Sakurasou no Pet na Kanojo</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
