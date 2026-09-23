@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ When I'm asked for help, I definitely have to help, right? Because I have promised, I have promised my brother. Even though our fingers have parted. But our promise still remains. ❞</i>
+  <i>❝ You can't give up until the end. But that means if you give it everything you have and still can't do it, you (have to) accept defeat. ❞</i>
   <br/>
-  <sub>— <b>Madoka Takatori</b> · <i>Shounen Maid</i></sub>
+  <sub>— <b>Taiga Kagami</b> · <i>Kuroko no Basket</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
