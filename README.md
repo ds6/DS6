@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ In this world, what matters is not being able to do things better. If you do it too perfectly it can also damage your balance. Because in the end you won't be happy. ❞</i>
+  <i>❝ You don't need to worry about it. Whatever you feel, just let it go. I don't think we'll be able to go from zero to a hundred that quickly. But maybe we can get one. I want to see if we can do it too. ❞</i>
   <br/>
-  <sub>— <b>Ougi Oshino</b> · <i>Owarimonogatari</i></sub>
+  <sub>— <b>Riko Sakurauchi</b> · <i>Love Live! Sunshine!!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
