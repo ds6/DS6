@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ You may be special and the chosen one. I may not be special and also not the chosen one. No one can replace you, but many people can replace me. However, you will never be like me. Many people can replace me, but I am the only one (there are no others). You are not me, and I am not you. ❞</i>
+  <i>❝ You should thank the person who returned your item. ❞</i>
   <br/>
-  <sub>— <b>Koyomi Araragi</b> · <i>Owarimonogatari</i></sub>
+  <sub>— <b>Yotsuba Nakano</b> · <i>Gotoubun no Hanayome</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
