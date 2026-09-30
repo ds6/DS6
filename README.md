@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I will not pretend to understand your suffering, but I will not give up making you my friend. ❞</i>
+  <i>❝ A man who is defeated by sadness in his life is the same as someone who is waiting to die. ❞</i>
   <br/>
-  <sub>— <b>Takeru Kusanagi</b> · <i>Taimadou Gakuen 35 Shiken Shoutai</i></sub>
+  <sub>— <b>Joutarou Kawasumi</b> · <i>Inu x Boku SS</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
