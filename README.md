@@ -13,11 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ It's okay if you're anxious, but don't force yourself.
-If you want to cry, cry.
-(Because) crying doesn't mean you're weak. ❞</i>
+  <i>❝ Not being angry is a good thing, (because) anger is a big sin. ❞</i>
   <br/>
-  <sub>— <b>Junichi Tachibana</b> · <i>Amagami SS</i></sub>
+  <sub>— <b>Satoshi Fukube</b> · <i>Hyouka</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
