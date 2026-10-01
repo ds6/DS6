@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Not being angry is a good thing, (because) anger is a big sin. ❞</i>
+  <i>❝ From the start, it is impossible for us to understand what other people are thinking. Even if we think the same thing. ❞</i>
   <br/>
-  <sub>— <b>Satoshi Fukube</b> · <i>Hyouka</i></sub>
+  <sub>— <b>Yukino Yukinoshita</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
