@@ -13,9 +13,13 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ We don't care about your dreams! we just want to protect your friends, and our world no matter what! ❞</i>
+  <i>❝ Arriving late is actually not a bad thing.
+The police came after the incident occurred.
+And heroes always arrive late.
+But, does anyone blame them?
+So delay is justice. ❞</i>
   <br/>
-  <sub>— <b>Yukio Okumura</b> · <i>Ao no Exorcist</i></sub>
+  <sub>— <b>Hachiman Hikigaya</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
