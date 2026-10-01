@@ -13,13 +13,11 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Arriving late is actually not a bad thing.
-The police came after the incident occurred.
-And heroes always arrive late.
-But, does anyone blame them?
-So delay is justice. ❞</i>
+  <i>❝ It's okay if you're anxious, but don't force yourself.
+If you want to cry, cry.
+(Because) crying doesn't mean you're weak. ❞</i>
   <br/>
-  <sub>— <b>Hachiman Hikigaya</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru</i></sub>
+  <sub>— <b>Junichi Tachibana</b> · <i>Amagami SS</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
