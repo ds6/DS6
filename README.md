@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The most important thing is to do what you want to do. ❞</i>
+  <i>❝ My lifestyle is to eat my favorite foods whenever I want. ❞</i>
   <br/>
-  <sub>— <b>Rito Yuuki</b> · <i>To LOVE-Ru Darkness</i></sub>
+  <sub>— <b>Anna Yamada</b> · <i>Boku no Kokoro no Yabai Yatsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
