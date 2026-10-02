@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ My lifestyle is to eat my favorite foods whenever I want. ❞</i>
+  <i>❝ There was no way I could go home first and leave the girl who was crying alone. Even though I can't carry you (like a prince), I can at least lend you my shoulder. ❞</i>
   <br/>
-  <sub>— <b>Anna Yamada</b> · <i>Boku no Kokoro no Yabai Yatsu</i></sub>
+  <sub>— <b>Kazuomi Ooga</b> · <i>ReLIFE</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
