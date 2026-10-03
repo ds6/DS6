@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ There's no law that says you can't like a guy just because he has a girlfriend. ❞</i>
+  <i>❝ The most important thing is not to give up. One day, never giving up will definitely become your strongest weapon. ❞</i>
   <br/>
-  <sub>— <b>Ruri Miyamoto</b> · <i>Nisekoi</i></sub>
+  <sub>— <b>Kazuki Kazami</b> · <i>Grisaia no Meikyuu: Caprice no Mayu 0</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
