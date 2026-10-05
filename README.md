@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Even though we live within the rules, we cannot save anyone. Even if I have to break the rules, I won't let anyone get in the way of my dreams. ❞</i>
+  <i>❝ People who call others stupid, are stupid. ❞</i>
   <br/>
-  <sub>— <b>Shirou Kotomine</b> · <i>Fate/Apocrypha</i></sub>
+  <sub>— <b>Subaru Uchimaki</b> · <i>Kono Bijutsubu ni wa Mondai ga Aru!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
