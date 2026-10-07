@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Everyone has made mistakes. The most important thing is to learn from the mistakes you have made. ❞</i>
+  <i>❝ The (new) humans will lose when they stop fighting. As long as we keep fighting, we have not lost. ❞</i>
   <br/>
-  <sub>— <b>Hammerhead</b> · <i>One Punch Man</i></sub>
+  <sub>— <b>Mike Zacharias</b> · <i>Shingeki no Kyojin Season 2</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
