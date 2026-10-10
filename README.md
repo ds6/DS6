@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ It's good if we can find a job that suits us.
-But I don't think it's a problem if we have to adjust to work. ❞</i>
+  <i>❝ Just "liking it" will not make your dreams come true. ❞</i>
   <br/>
-  <sub>— <b>Shinei Ookawa</b> · <i>Gin no Saji</i></sub>
+  <sub>— <b>Maki Midorikawa</b> · <i>Sakura Quest</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
