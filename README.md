@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The ultimate form of science is God and Death. Both exist and cannot be defeated by science. That's why we're going for both. ❞</i>
+  <i>❝ Night can drastically change a person's perspective. ❞</i>
   <br/>
-  <sub>— <b>Motojirou Kajii</b> · <i>Bungou Stray Dogs</i></sub>
+  <sub>— <b>Nazuna Nanakusa</b> · <i>Yofukashi no Uta</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
