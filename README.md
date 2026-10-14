@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ A remaining sliver of hope, a faint sign of desire will be born from despair. ❞</i>
+  <i>❝ Whatever happens, I will always be on your side. ❞</i>
   <br/>
-  <sub>— <b>C.C.</b> · <i>Code Geass: Hangyaku no Lelouch</i></sub>
+  <sub>— <b>Raphtalia</b> · <i>Tate no Yuusha no Nariagari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
