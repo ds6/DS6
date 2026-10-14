@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The people who can achieve their goals are the stupid people who keep moving forward. (Meanwhile) people who cannot achieve their goals are wise people who stop walking. ❞</i>
+  <i>❝ A remaining sliver of hope, a faint sign of desire will be born from despair. ❞</i>
   <br/>
-  <sub>— <b>Celica Arfonia</b> · <i>Rokudenashi Majutsu Koushi to Akashic Records</i></sub>
+  <sub>— <b>C.C.</b> · <i>Code Geass: Hangyaku no Lelouch</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
