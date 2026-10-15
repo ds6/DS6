@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I want to protect my time with you. It's the only thing that matters to me. ❞</i>
+  <i>❝ Genos, from the start it was my great desire to become a hero that pushed me to train very hard.
+that's why I became this strong. ❞</i>
   <br/>
-  <sub>— <b>Sakura Matou</b> · <i>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</i></sub>
+  <sub>— <b>Saitama</b> · <i>One Punch Man</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
