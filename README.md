@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Genos, from the start it was my great desire to become a hero that pushed me to train very hard.
-that's why I became this strong. ❞</i>
+  <i>❝ I always prioritize what I want even though I have experienced many failures. ❞</i>
   <br/>
-  <sub>— <b>Saitama</b> · <i>One Punch Man</i></sub>
+  <sub>— <b>Chisato Nishikigi</b> · <i>Lycoris Recoil</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
