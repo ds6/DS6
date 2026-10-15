@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%23016908&labelColor=ffffff&color=016908&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I always prioritize what I want even though I have experienced many failures. ❞</i>
+  <i>❝ Only the man who advances bravely into battle beside me is worthy to be my Master. And not a coward who barely even had the courage to show himself! ❞</i>
   <br/>
-  <sub>— <b>Chisato Nishikigi</b> · <i>Lycoris Recoil</i></sub>
+  <sub>— <b>Rider</b> · <i>Fate/Zero</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:016908,100:016908&height=2&width=60%" />
   <br/>
