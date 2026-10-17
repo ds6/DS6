@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ It's not just the little ones who need support from their hearts. ❞</i>
+  <i>❝ Through music, people you know, people you don't know, (and) all people on earth are connected. ❞</i>
   <br/>
-  <sub>— <b>Himmel</b> · <i>Sousou no Frieren</i></sub>
+  <sub>— <b>Hiroko Seto</b> · <i>Shigatsu wa Kimi no Uso</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
