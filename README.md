@@ -13,20 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ There is something I want to tell you Junichi.
-Bad friend, comrade, (an) inseparable.
-There are many words to express our relationship.
-But I don't want any more distance between us.
-Finally I realized my feelings.
-Until now, I feel happy working on you.
-But it all just ended.
-I don't know since when, I've always been pranking you.
-We have a lot of memories all the time and it makes me aware of these feelings.
-I know 100 bad things about you.
-But I know 101 good things about you.
-Junichi.. I like you. ❞</i>
+  <i>❝ Although depending on friends is not a bad thing. But to be honest, we should find a way out with our own abilities. ❞</i>
   <br/>
-  <sub>— <b>Kaoru Tanamachi</b> · <i>Amagami SS</i></sub>
+  <sub>— <b>Ougi Oshino</b> · <i>Owarimonogatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
