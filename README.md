@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Jangan buang rasa kesalmu. Karena itu akan jadi bukti kalau kau masih belum menyerah pada dirimu sendiri. ❞</i>
+  <i>❝ I feel like being a hero is part of my hobby.
+In other words, as long as I can beat the enemy, I think that's enough. ❞</i>
   <br/>
-  <sub>— <b>Ryouma Kurogane</b> · <i>Rakudai Kishi no Cavalry</i></sub>
+  <sub>— <b>Saitama</b> · <i>One Punch Man</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
