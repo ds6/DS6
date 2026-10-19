@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Whether you win or lose doesn't matter. Because working hard towards a goal is really fun.
-But make no mistake, even though I say so. I don't intend to lose. ❞</i>
+  <i>❝ Justice will not save the world. And I don't care about that at all. ❞</i>
   <br/>
-  <sub>— <b>Teppei Kiyoshi</b> · <i>Kuroko no Basket 2nd Season</i></sub>
+  <sub>— <b>Kiritsugu Emiya</b> · <i>Fate/Zero 2nd Season</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
