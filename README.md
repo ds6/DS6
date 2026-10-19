@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ (Life is like making origami) In origami by making folds, if the final formation goes smoothly the result will be very beautiful. You make a fold, then return the fold to normal and make another fold. Maybe it feels like repeating the same thing over and over again with no results. But I'm sure that experience, those folds will become a beautiful origami that only you can make. ❞</i>
+  <i>❝ Keep bringing up the past, isn't that childish? ❞</i>
   <br/>
-  <sub>— <b>Yuusuke Fujisaki</b> · <i>Sket Dance</i></sub>
+  <sub>— <b>Chitoge Kirisaki</b> · <i>Nisekoi</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
