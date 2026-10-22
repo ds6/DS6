@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Don't relax your feelings. Feelings of joy, pain, happiness, sadness... feel it all for me. ❞</i>
+  <i>❝ I hate being the center of attention. But I hate being indebted to others more. ❞</i>
   <br/>
-  <sub>— <b>Nazuna Nanakusa</b> · <i>Yofukashi no Uta</i></sub>
+  <sub>— <b>Kusuo Saiki</b> · <i>Saiki Kusuo no Ψ-nan</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
