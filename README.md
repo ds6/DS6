@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Tomoya-kun..., is this who you expected me to be? like in anime, games and in light novels.
-Is your ideal girl the one who talks like this? who moves like this? and fall in love like this? ❞</i>
+  <i>❝ Then, if you no longer see me as a threat, you want to be friends with me, right? ❞</i>
   <br/>
-  <sub>— <b>Megumi Katou</b> · <i>Saenai Heroine no Sodatekata</i></sub>
+  <sub>— <b>Rin Okumura</b> · <i>Ao no Exorcist: Kyoto Fujouou-hen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
