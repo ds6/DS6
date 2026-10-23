@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Life without a goal will feel empty! ❞</i>
+  <i>❝ Tomoya-kun..., is this who you expected me to be? like in anime, games and in light novels.
+Is your ideal girl the one who talks like this? who moves like this? and fall in love like this? ❞</i>
   <br/>
-  <sub>— <b>Eru Chitanda</b> · <i>Hyouka</i></sub>
+  <sub>— <b>Megumi Katou</b> · <i>Saenai Heroine no Sodatekata</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
