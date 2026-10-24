@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ If I am no longer a fairy soldier, I want to pursue ordinary dreams like other ordinary people.
-I want to live side by side with him, see the same things, walk the same streets, eat the same food, and see the same scenery as him. ❞</i>
+  <i>❝ They are nothing more than talking monsters. I define those (monsters) who can talk as demons. ❞</i>
   <br/>
-  <sub>— <b>Chtholly Nota Seniorious</b> · <i>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</i></sub>
+  <sub>— <b>Flamme</b> · <i>Sousou no Frieren</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
