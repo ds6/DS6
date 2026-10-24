@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The key to success in business is a smile. ❞</i>
+  <i>❝ Humans are simple. We will try if the results are worth it, and we will try even harder if it will make us better. ❞</i>
   <br/>
-  <sub>— <b>Arataka Reigen</b> · <i>Mob Psycho 100 II</i></sub>
+  <sub>— <b>Kumiko Oumae</b> · <i>Hibike! Euphonium</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
