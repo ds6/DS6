@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ They are nothing more than talking monsters. I define those (monsters) who can talk as demons. ❞</i>
+  <i>❝ Sometimes there are things you can't tell someone even though that person is close to you. ❞</i>
   <br/>
-  <sub>— <b>Flamme</b> · <i>Sousou no Frieren</i></sub>
+  <sub>— <b>Nanami Aoyama</b> · <i>Sakurasou no Pet na Kanojo</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
