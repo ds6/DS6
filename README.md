@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ (Why do you like making statues?) Because I want people to remember me. Unlike you (who is an elf), we (humans) do not live long. However, perhaps my biggest reason is that you are not alone in the future. Our existence is not a fairy tale, but truly real. ❞</i>
+  <i>❝ As long as our feelings still love each other, we can do anything. ❞</i>
   <br/>
-  <sub>— <b>Himmel</b> · <i>Sousou no Frieren</i></sub>
+  <sub>— <b>Kaito Kirishima</b> · <i>Ano Natsu de Matteru</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
