@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I don't care about being a generational prodigy, but I can't ignore a challenge.
-I'm not mature enough to let it go. ❞</i>
+  <i>❝ Humans can be right and wrong. Mistakes make them learn faster, but it takes time to see mistakes. And spending time with other people is quite boring. As far as I'm concerned, the mistake that broke into my house and stole my possessions was better. However, I don't mind, because you are a mistake. ❞</i>
   <br/>
-  <sub>— <b>Ryouta Kise</b> · <i>Kuroko no Basket</i></sub>
+  <sub>— <b>Fafnir</b> · <i>Kobayashi-san Chi no Maid Dragon</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
