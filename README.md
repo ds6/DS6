@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ People say that when you encounter something that your experience and knowledge cannot overcome, you will change. ❞</i>
+  <i>❝ Everyone has their own secret side. ❞</i>
   <br/>
-  <sub>— <b>Seinen Shounin</b> · <i>Maoyuu Maou Yuusha</i></sub>
+  <sub>— <b>Sawamura Spencer Eriri</b> · <i>Saenai Heroine no Sodatekata</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
