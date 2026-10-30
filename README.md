@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ What made us start from zero? We are chasing something intangible, lost, scared, crying, we want to get out of that zero zone. And where there should be nothing, a light continues to shine in our hearts. And the belief that the nine of us could do something special because we were guided by that ray of light. That's where we come from, where Aqours comes from. We will make our story come true! With this ray of light! ❞</i>
+  <i>❝ People say that when you encounter something that your experience and knowledge cannot overcome, you will change. ❞</i>
   <br/>
-  <sub>— <b>Chika Takami</b> · <i>Love Live! Sunshine!!</i></sub>
+  <sub>— <b>Seinen Shounin</b> · <i>Maoyuu Maou Yuusha</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
