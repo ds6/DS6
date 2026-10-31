@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ When conditions are tight, that's when there is an opportunity. When we are in a hopeless situation, that is also when negative energy from outside gathers. But by changing our mindset, we can change the situation. Therefore, no matter how difficult or bad the situation is, we must fight until the end. ❞</i>
+  <i>❝ Getting rid of bad people like them is necessary for the good of themselves and society. ❞</i>
   <br/>
-  <sub>— <b>Oji-san</b> · <i>Isekai Ojisan</i></sub>
+  <sub>— <b>Ekubo</b> · <i>Mob Psycho 100 II</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
