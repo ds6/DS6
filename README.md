@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Humans easily worship mystical things and things that are beyond reason. ❞</i>
+  <i>❝ Rather than regretting being late, it's better to be serious from now on. We have to be firm and try it. If it doesn't work, then we immediately stop. ❞</i>
   <br/>
-  <sub>— <b>Ekubo</b> · <i>Mob Psycho 100 III</i></sub>
+  <sub>— <b>Tsurayuki Rokuonji</b> · <i>Bokutachi no Remake</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
