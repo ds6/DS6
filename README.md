@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ A lonely man who does not know love must be enveloped in unconditional love. ❞</i>
+  <i>❝ If you call your teacher something strange, for example "Tan", that's going too far! ❞</i>
   <br/>
-  <sub>— <b>Mizuho Asano</b> · <i>Bleach</i></sub>
+  <sub>— <b>Emilia</b> · <i>Re:Petit kara Hajimeru Isekai Seikatsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
