@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I might be a clumsy guy. But when I have decided on one thing, I will do it until the end. ❞</i>
+  <i>❝ Manuscripts are not finished products. If the goal is just to read, it's better to just write a novel. ❞</i>
   <br/>
-  <sub>— <b>Fudou Aikawa</b> · <i>Koi wa Sekai Seifuku no Ato de</i></sub>
+  <sub>— <b>Misaki Kanou</b> · <i>Bokutachi no Remake</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
