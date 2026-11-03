@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ If you call your teacher something strange, for example "Tan", that's going too far! ❞</i>
+  <i>❝ If you are one step ahead of me, then I will take two steps, ten, even a hundred steps ahead of you! I won't let all this just end like that. ❞</i>
   <br/>
-  <sub>— <b>Emilia</b> · <i>Re:Petit kara Hajimeru Isekai Seikatsu</i></sub>
+  <sub>— <b>Takumi Aldini</b> · <i>Shokugeki no Souma: Ni no Sara</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
