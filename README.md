@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ If I just keep quiet, hopes won't come true. ❞</i>
+  <i>❝ Those who do not understand their own role do not deserve to live. ❞</i>
   <br/>
-  <sub>— <b>Varma</b> · <i>Taboo Tattoo</i></sub>
+  <sub>— <b>Rui</b> · <i>Kimetsu no Yaiba</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
