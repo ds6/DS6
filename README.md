@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Hurry up and apologize to your father, you won't be able to apologize if he's dead. ❞</i>
+  <i>❝ In essence, there are 2 choices you can make when playing the game. Create your own strategy, or utilize other players' strategies. The question is who has the initiative. In this match, we were the ones who took the initiative during the game. ❞</i>
   <br/>
-  <sub>— <b>Rin Okumura</b> · <i>Ao no Exorcist: Kyoto Fujouou-hen</i></sub>
+  <sub>— <b>Sora</b> · <i>No Game No Life</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
