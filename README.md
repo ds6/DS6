@@ -13,11 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I want to make more memories with you. I don't want you to go to England.
-Haruka, I love you! I really love you! Please marry me!
-Let's (we live) happily together! ❞</i>
+  <i>❝ Hurry up and apologize to your father, you won't be able to apologize if he's dead. ❞</i>
   <br/>
-  <sub>— <b>Junichi Tachibana</b> · <i>Amagami SS+ Plus</i></sub>
+  <sub>— <b>Rin Okumura</b> · <i>Ao no Exorcist: Kyoto Fujouou-hen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
