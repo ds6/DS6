@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Life without a goal will feel empty! ❞</i>
+  <i>❝ After humans die they won't just disappear if people still remember them. Like smoke that doesn't immediately disappear even though the fire is extinguished. ❞</i>
   <br/>
-  <sub>— <b>Eru Chitanda</b> · <i>Hyouka</i></sub>
+  <sub>— <b>Touko Aozaki</b> · <i>Kara no Kyoukai 1: Fukan Fuukei</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
