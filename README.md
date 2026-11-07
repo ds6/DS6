@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I don't want to date a girl who badmouths my best friends. ❞</i>
+  <i>❝ I can't forgive you for making my wife cry! ❞</i>
   <br/>
-  <sub>— <b>Makoto Sunakawa</b> · <i>Ore Monogatari!!</i></sub>
+  <sub>— <b>Hideki Nishimura</b> · <i>Netoge no Yome wa Onnanoko ja Nai to Omotta?</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
