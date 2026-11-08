@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ From now on, my goal is to return your smile. ❞</i>
+  <i>❝ I am always ready to accept (death). When death comes, it is better to die. I, Akane Sonoyama will not complain about being killed, no matter when, where, by whom, and for whatever reason. ❞</i>
   <br/>
-  <sub>— <b>Hana Miyakoshi</b> · <i>WWW.Working!!</i></sub>
+  <sub>— <b>Akane Sonoyama</b> · <i>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
