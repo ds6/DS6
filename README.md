@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Don't (ever) underestimate a serious otaku. ❞</i>
+  <i>❝ Keeping wealth only for yourself may make you rich, but it will not make you prosperous. ❞</i>
   <br/>
-  <sub>— <b>Tomoya Aki</b> · <i>Saenai Heroine no Sodatekata</i></sub>
+  <sub>— <b>Maou</b> · <i>Maoyuu Maou Yuusha</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
