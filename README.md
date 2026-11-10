@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ It's not a matter of whether you hate it or not. My mother is my mother, that will never change. Whatever happens, he is the one who gave birth to me. ❞</i>
+  <i>❝ No one likes you, because you don't want to accept what people say. ❞</i>
   <br/>
-  <sub>— <b>Asuka Tanaka</b> · <i>Hibike! Euphonium 2</i></sub>
+  <sub>— <b>Kotarou Katsura</b> · <i>Gintama</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
