@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ When in a fight, don't delay until the end! Those who hesitate will surely die first. ❞</i>
+  <i>❝ Of the 490 defeats he experienced, not a single one was wasted. ❞</i>
   <br/>
-  <sub>— <b>Izuminokami Kanesada</b> · <i>Katsugeki/Touken Ranbu</i></sub>
+  <sub>— <b>Satoshi Isshiki</b> · <i>Shokugeki no Souma</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
