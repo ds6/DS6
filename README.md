@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Extreme stupidity sells. If you want to be stupid, do it to a level that other people can't reach. ❞</i>
+  <i>❝ Life is something that is very familiar with injustice. There are those who live prosperously, and there are also those whose lives suffer greatly. ❞</i>
   <br/>
-  <sub>— <b>Misaki Kanou</b> · <i>Bokutachi no Remake</i></sub>
+  <sub>— <b>Decim</b> · <i>Death Parade</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
