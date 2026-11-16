@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Kuhaku's principle is to be number one in any game. ❞</i>
+  <i>❝ Everyone must have made mistakes. But human feelings are often expressed in uncertain ways. If you are a judge, don't ignore that. ❞</i>
   <br/>
-  <sub>— <b>Sora</b> · <i>No Game No Life</i></sub>
+  <sub>— <b>Nona</b> · <i>Death Parade</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
