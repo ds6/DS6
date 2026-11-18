@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ People say that people who die go to heaven. But I don't think so. I thought if we died we would go to someone's heart. We will live in their memories and live on. Like father and mother who live in our hearts. But because of time, memories fade. So that's why people hope to leave something behind so that it won't be forgotten and never forgotten. ❞</i>
+  <i>❝ I can protect the people I love. I can fight for the people I love. My steely resolve is for war. My blood is there to protect. My hidden heart exists to love. Thank You. I love you. You're amazing. I am very happy. Don't hesitate to tell the people you love about your feelings for them. Because they might not be there tomorrow. ❞</i>
   <br/>
-  <sub>— <b>Kaito Kirishima</b> · <i>Ano Natsu de Matteru</i></sub>
+  <sub>— <b>Akagi</b> · <i>Kantai Collection: KanColle</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
