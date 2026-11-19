@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I will save you all. Live your life remembering the shame of being saved by the person you exiled. Then I will laugh at you guys who live like that. ❞</i>
+  <i>❝ I can't risk failure by doing work that's not my part. But, no victory is without risk. ❞</i>
   <br/>
-  <sub>— <b>Ikoma</b> · <i>Koutetsujou no Kabaneri</i></sub>
+  <sub>— <b>Koushi Sugawara</b> · <i>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
