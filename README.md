@@ -13,11 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ The probability of winning is only 0% when all players surrender.
-No matter how impossible it is, I myself refuse to make it 0%.
-That's why I won't give up! ❞</i>
+  <i>❝ Trying to get the best of everything is my principle of justice. ❞</i>
   <br/>
-  <sub>— <b>Tetsuya Kuroko</b> · <i>Kuroko no Basket</i></sub>
+  <sub>— <b>Touta Konoe</b> · <i>UQ Holder!: Mahou Sensei Negima! 2</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
