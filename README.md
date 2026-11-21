@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ You don't always have to stand up and face problems. You can run or hide. ❞</i>
+  <i>❝ There was no way I could go home first and leave the girl who was crying alone. Even though I can't carry you (like a prince), I can at least lend you my shoulder. ❞</i>
   <br/>
-  <sub>— <b>Koro-sensei</b> · <i>Ansatsu Kyoushitsu 2nd Season</i></sub>
+  <sub>— <b>Kazuomi Ooga</b> · <i>ReLIFE</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
