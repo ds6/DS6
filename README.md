@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ There was no way I could go home first and leave the girl who was crying alone. Even though I can't carry you (like a prince), I can at least lend you my shoulder. ❞</i>
+  <i>❝ If you think that only your opinion is the most correct, then you will make yourself and the people around you unhappy. ❞</i>
   <br/>
-  <sub>— <b>Kazuomi Ooga</b> · <i>ReLIFE</i></sub>
+  <sub>— <b>Chihiro  Sengoku</b> · <i>Sakurasou no Pet na Kanojo</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
