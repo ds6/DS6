@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ I heard you said something interesting at the opening ceremony.
-Becoming the best at Tootsuki Academy may not be as easy as you imagine. ❞</i>
+  <i>❝ Pampering children is part of a mother's job. ❞</i>
   <br/>
-  <sub>— <b>Satoshi Isshiki</b> · <i>Shokugeki no Souma</i></sub>
+  <sub>— <b>Shizu Tanbabashi</b> · <i>Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
