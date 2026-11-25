@@ -13,10 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ As expected, the world champion player does (look) fierce. (But) I won't let it... If I'm depressed, I'm finished. If I'm afraid, I could lose. If I'm afraid, I could die.
-Okay. Ready!! ❞</i>
+  <i>❝ Even if the decision I choose is wrong, I will not regret it. I think good and evil are the same thing, precisely because that is the proof that I am human. ❞</i>
   <br/>
-  <sub>— <b>Yutaka Hoshino</b> · <i>Ping Pong The Animation</i></sub>
+  <sub>— <b>Souichirou Kuzuki</b> · <i>Fate/stay night: Unlimited Blade Works 2nd Season</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
