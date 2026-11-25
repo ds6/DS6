@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Pampering children is part of a mother's job. ❞</i>
+  <i>❝ As expected, the world champion player does (look) fierce. (But) I won't let it... If I'm depressed, I'm finished. If I'm afraid, I could lose. If I'm afraid, I could die.
+Okay. Ready!! ❞</i>
   <br/>
-  <sub>— <b>Shizu Tanbabashi</b> · <i>Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.</i></sub>
+  <sub>— <b>Yutaka Hoshino</b> · <i>Ping Pong The Animation</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
