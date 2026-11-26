@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ If something completely incomprehensible becomes more popular, (then) doubt your generation. Think of it as something very dangerous. Because your generation has been enveloped in darkness. ❞</i>
+  <i>❝ Sometimes we have to use our best abilities so that our abilities don't dull. ❞</i>
   <br/>
-  <sub>— <b>Deishuu Kaiki</b> · <i>Koyomimonogatari</i></sub>
+  <sub>— <b>Kino</b> · <i>Kino no Tabi: The Beautiful World - The Animated Series</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
