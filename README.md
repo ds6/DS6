@@ -13,9 +13,9 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Humans are not perfect. Humanity is weak, ugly, envious, and hates things it doesn't have. Surprisingly, those are all bad talents that humans have. Isn't that strange? That's why I want to change all that. ❞</i>
+  <i>❝ Anyone who wants to go down before reaching the top, should just fall. ❞</i>
   <br/>
-  <sub>— <b>Yukino Yukinoshita</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru</i></sub>
+  <sub>— <b>Sougo Okita</b> · <i>Gintama°</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
