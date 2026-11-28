@@ -13,9 +13,10 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Quote%20of%20the%20Day%20%E2%9C%A6-ffffff?style=flat&logoColor=%232b88d5&labelColor=ffffff&color=2b88d5&link=https%3A%2F%2Fniju.eu" />
   <br/><br/>
-  <i>❝ Anyone who wants to go down before reaching the top, should just fall. ❞</i>
+  <i>❝ You won't know other people's feelings if you don't ask.
+Other people will never know your feelings if you don't say them. ❞</i>
   <br/>
-  <sub>— <b>Sougo Okita</b> · <i>Gintama°</i></sub>
+  <sub>— <b>Sawako Kuronuma</b> · <i>Kimi ni Todoke</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=100:2b88d5,100:2b88d5&height=2&width=60%" />
   <br/>
